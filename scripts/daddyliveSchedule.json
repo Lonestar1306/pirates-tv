@@ -80,6 +80,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -4445,7 +4449,7 @@
             },
             {
                 "time": "21:00",
-                "event": "\ud83e\udd4a Professional Fighters League Prelims : \ud83c\uddfa\ud83c\uddf8 Johnny Eblen vs \ud83c\uddfa\ud83c\uddf8 Impa Kasanganay",
+                "event": "\ud83e\udd4a (PFL) Professional Fighters League Prelims : \ud83c\uddfa\ud83c\uddf8 Johnny Eblen vs \ud83c\uddfa\ud83c\uddf8 Impa Kasanganay",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4662,6 +4666,10 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "3007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             }
