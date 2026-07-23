@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Sky.Sport.Uno.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sky Sport Uno FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/eurosport-1-fhd-it.webp",[Cycling] 2026-07-23 10:00 - UCI World Tour -  vs  (Eurosport 1 FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PULS.4.AT.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/puls-4-at-hd.webp",[Soccer] 2026-07-23 14:00 - UEFA Conference League - Liepāja vs Austria Wien (PULS 4 AT HD)
@@ -47,8 +45,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ProTV%20FHD%20RO&code=ro&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Vojvodina vs Ajax (Arena Sport 2 Premium FHD RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.3.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3-hd-il.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Vojvodina vs Ajax (Sport 3 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%203%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/max-sport-1-fhd-hr.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Varaždin vs Jablonec (Max Sport 1 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Paksi SE vs Panathinaikos (M4 Sport FHD HU)
@@ -1479,10 +1475,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20This%20Is%20UFC%3A%20McGregor%20vs.%20Holloway%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.329:.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (End | UFC 329: Ceremonial Weigh-In | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.06.ⓧ|.UFC.|.Early.Prelims.|.Sat.18th.Jul.10:00PM.UK/5:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (PPV 06 ⓧ| UFC | Early Prelims | Sat 18th Jul 10:00PM UK/5:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2006%20%E2%93%A7%7C%20UFC%20%7C%20Early%20Prelims%20%7C%20Sat%2018th%20Jul%2010%3A00PM%20UK%2F5%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.07.ⓧ|.UFC.|.Prelims.|.Sat.18th.Jul.11:00PM.UK/6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (PPV 07 ⓧ| UFC | Prelims | Sat 18th Jul 11:00PM UK/6:00PM ET)
@@ -1763,14 +1759,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Polsat Sport Extra 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Sportklub 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Max Sport 2 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Arena Sport 2 Premium FHD RS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Sportklub 1 FHD HR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-23 08:00 - FIVB Volleyball Womens Nations League - Turkey Volleyball Women vs Canada Volleyball Women (Polsat Sport Fight FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-23 08:00 - FIVB Volleyball Womens Nations League - Turkey Volleyball Women vs Canada Volleyball Women (Polsat Sport 1 FHD PL)
