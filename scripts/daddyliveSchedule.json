@@ -1,5 +1,177 @@
 {
     "Friday 24th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:15",
+                "event": "2026 Senators Cup at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Fury Fighting Championship : Fury FC 122: King vs Ivy",
+                "channels": [
+                    {
+                        "channel_name": "UFC FIGHT Pass",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "World of Outlaws Late Models Fairbury Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 High Limit Racing at Stateline Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 USAC Indiana Sprint Week at Lincoln Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "2026 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprints Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Championship Jackpot CES Boxing : Andrade vs. Ataide",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2026 IRA Sprints at Mississippi Thunder Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Albany Saratoga Speedway Stan Da Man Night",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Karate Combat 62",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Southern Nationals North Georgia Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Jacksonville Speedway Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2026 NASCAR Weekly Racing at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2026 Dale DeFrance Memorial at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Jackson Motorplex Late Models Street Stocks",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1678,6 +1850,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2035"
                     }
                 ]
             }
@@ -3330,6 +3506,10 @@
                     {
                         "channel_name": "Sport 5 PLUS Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2040"
                     }
                 ]
             }
@@ -4022,6 +4202,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             },
@@ -4044,6 +4228,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -4062,6 +4250,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
                     }
                 ]
             },
@@ -4076,6 +4268,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
                     }
                 ]
             },
@@ -4090,6 +4286,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -4112,6 +4312,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             },
@@ -4142,6 +4346,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -4180,6 +4388,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -4194,6 +4406,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -4212,6 +4428,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
                     }
                 ]
             },
@@ -4234,6 +4454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
                     }
                 ]
             },
@@ -4248,6 +4472,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
                     }
                 ]
             },
@@ -4266,6 +4494,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2032"
                     }
                 ]
             },
@@ -4280,6 +4512,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2033"
                     }
                 ]
             },
@@ -4302,6 +4538,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2034"
                     }
                 ]
             }
