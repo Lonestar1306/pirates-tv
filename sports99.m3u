@@ -5,10 +5,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20FHD%20IT&code=it&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Uno.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",[Soccer] 2026-07-25 17:00 - Club Friendly - Standard Liège vs Juventus (Sky Sport Uno FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1-fhd-it.webp",[Motorsport] 2026-07-25 10:30 - Formula 1 -  vs  (Sky Sport F1 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.F1.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1-fhd-it.webp",[Motorsport] 2026-07-25 11:15 - Formula 2 -  vs  (Sky Sport F1 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.F1.FHD.IT" group-title="Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-f1-fhd-it.webp",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Sky Sport F1 FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVP.Sport.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport-fhd-pl.webp",[Soccer] 2026-07-25 08:15 - Poland - II Liga - Podhale Nowy Targ vs Śląsk Wrocław II (TVP Sport FHD PL)
@@ -3827,16 +3823,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlive
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.14:..Los.Angeles.Angels.vs.San.Francisco.Giants.|.Fri.24th.Jul.10:15.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB 14:  Los Angeles Angels vs San Francisco Giants | Fri 24th Jul 10:15 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2014%3A%20%20Los%20Angeles%20Angels%20vs%20San%20Francisco%20Giants%20%7C%20Fri%2024th%20Jul%2010%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.14:..Los.Angeles.Angels.vs.San.Francisco.Giants.|.Fri.24th.Jul.10:15.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB 14:  Los Angeles Angels vs San Francisco Giants | Fri 24th Jul 10:15 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2014%3A%20%20Los%20Angeles%20Angels%20vs%20San%20Francisco%20Giants%20%7C%20Fri%2024th%20Jul%2010%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:05 - MLB - Washington Nationals vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.03:.Arizona.Diamondbacks.vs.Washington.Nationals.|.Fri.24th.Jul.6:45.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:05 - MLB - Washington Nationals vs Arizona Diamondbacks (MLB 03: Arizona Diamondbacks vs Washington Nationals | Fri 24th Jul 6:45 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2003%3A%20Arizona%20Diamondbacks%20vs%20Washington%20Nationals%20%7C%20Fri%2024th%20Jul%206%3A45%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:10 - MLB - Miami Marlins vs San Diego Padres (MLB | Miami Marlins)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:10 - MLB - Miami Marlins vs San Diego Padres (MLB | San Diego Padres)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-07-25 20:10 - MLB - Miami Marlins vs San Diego Padres (Fox Sports 1 FHD US)
@@ -3845,6 +3839,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.08:.San.Diego.Padres.vs.Miami.Marlins.|.Fri.24th.Jul.7:10.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:10 - MLB - Miami Marlins vs San Diego Padres (MLB 08: San Diego Padres vs Miami Marlins | Fri 24th Jul 7:10 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2008%3A%20San%20Diego%20Padres%20vs%20Miami%20Marlins%20%7C%20Fri%2024th%20Jul%207%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:10 - MLB - Miami Marlins vs San Diego Padres (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:10 - MLB - Boston Red Sox vs Toronto Blue Jays (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 20:10 - MLB - Boston Red Sox vs Toronto Blue Jays (MLB | Toronto Blue Jays)
@@ -3931,8 +3927,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Card
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.13:..Cincinnati.Reds.vs.St..Louis.Cardinals.|.Fri.24th.Jul.8:15.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:15 - MLB - St. Louis Cardinals vs Cincinnati Reds (MLB 13:  Cincinnati Reds vs St. Louis Cardinals | Fri 24th Jul 8:15 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2013%3A%20%20Cincinnati%20Reds%20vs%20St.%20Louis%20Cardinals%20%7C%20Fri%2024th%20Jul%208%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.06:.Los.Angeles.Dodgers.vs.New.York.Mets.|.Fri.24th.Jul.7:10.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:15 - MLB - New York Mets vs Los Angeles Dodgers (MLB 06: Los Angeles Dodgers vs New York Mets | Fri 24th Jul 7:10 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Los%20Angeles%20Dodgers%20vs%20New%20York%20Mets%20%7C%20Fri%2024th%20Jul%207%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:15 - MLB - New York Mets vs Los Angeles Dodgers (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:15 - MLB - New York Mets vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -3949,6 +3943,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20LA%20Do
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.Sports.3.Premium.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/fox-sports-3-premium-hd-arg.webp",[MLB] 2026-07-25 23:15 - MLB - New York Mets vs Los Angeles Dodgers (FOX Sports 3 Premium HD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%203%20Premium%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.06:.Los.Angeles.Dodgers.vs.New.York.Mets.|.Fri.24th.Jul.7:10.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:15 - MLB - New York Mets vs Los Angeles Dodgers (MLB 06: Los Angeles Dodgers vs New York Mets | Fri 24th Jul 7:10 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Los%20Angeles%20Dodgers%20vs%20New%20York%20Mets%20%7C%20Fri%2024th%20Jul%207%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 16:15 - MLB - Tampa Bay Rays vs Cleveland Guardians (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 16:15 - MLB - Tampa Bay Rays vs Cleveland Guardians (MLB | Cleveland Guardians)
@@ -3983,10 +3979,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 17:40 - MLB - New York Mets vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 17:40 - MLB - Miami Marlins vs San Diego Padres (MLB | Miami Marlins)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 17:40 - MLB - Miami Marlins vs San Diego Padres (MLB | San Diego Padres)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 17:40 - MLB - Miami Marlins vs San Diego Padres (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 17:40 - MLB - Detroit Tigers vs Kansas City Royals (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 17:40 - MLB - Detroit Tigers vs Kansas City Royals (MLB | Kansas City Royals)
@@ -4013,6 +4009,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB | Los Angeles Angels)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB Network Strike Zone HD US)
@@ -4035,8 +4033,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (TNT Sports 10 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 20:05 - MLB - San Francisco Giants vs Los Angeles Angels (MLB | Los Angeles Angels)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 23:20 - MLB - Philadelphia Phillies vs New York Yankees (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-26 23:20 - MLB - Philadelphia Phillies vs New York Yankees (MLB | New York Yankees)
@@ -4091,10 +4087,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-27 22:40 - MLB - Pittsburgh Pirates vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-27 22:40 - MLB - Miami Marlins vs Philadelphia Phillies (MLB | Miami Marlins)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-27 22:40 - MLB - Miami Marlins vs Philadelphia Phillies (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-27 22:40 - MLB - Miami Marlins vs Philadelphia Phillies (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-27 22:40 - MLB - Detroit Tigers vs Baltimore Orioles (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-27 22:40 - MLB - Detroit Tigers vs Baltimore Orioles (MLB | Baltimore Orioles)
@@ -6953,10 +6949,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 23:15 - MLB - St. Louis Cardinals vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.3.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-3-nz.webp",[Basketball] 2026-07-25 06:30 - New Zealand NBL - Nelson Giants vs Whai (Sky Sport 3 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%203%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.8.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-8-nz.webp",[Basketball] 2026-07-25 08:00 - Glasgow 2026 – 3x3 Basketball -  vs  (Sky Sport 8 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%208%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.8.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-8-nz.webp",[Basketball] 2026-07-25 12:30 - Glasgow 2026 – 3x3 Basketball -  vs  (Sky Sport 8 NZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%208%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-fhd-rs.webp",[Basketball] 2026-07-25 14:00 - Basketball -  vs  (Arena Sport 1 FHD RS)
@@ -7029,12 +7021,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2017%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Ottawa%20BlackJacks%20%40%20Niagara%20River%20Lions%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%203%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.20.|.Ottawa.BlackJacks.@.Niagara.River.Lions.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.3:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 19:00 - CEBL - Niagara River Lions vs Ottawa BlackJacks (CEBL 20 | Ottawa BlackJacks @ Niagara River Lions | CEBL Regular Season | Sun Jul 26 2026 3:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Ottawa%20BlackJacks%20%40%20Niagara%20River%20Lions%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%203%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL 18 | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.07.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL 07 | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL 09 | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL 21 | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
@@ -7049,10 +7041,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2014%20%7C%20Montreal%20A
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.20.|.Montreal.Alliance.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 20:00 - CEBL - Scarborough Shooting Stars vs Montreal Alliance (CEBL 20 | Montreal Alliance @ Scarborough Shooting Stars | CEBL Regular Season | Sun Jul 26 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Montreal%20Alliance%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 22:00 - CEBL - Edmonton Stingers vs Calgary Surge (CEBL 22 | Calgary Surge @ Edmonton Stingers | CEBL Regular Season | Sun Jul 26 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 22:00 - CEBL - Edmonton Stingers vs Calgary Surge (CEBL 08 | Calgary Surge @ Edmonton Stingers | CEBL Regular Season | Sun Jul 26 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 22:00 - CEBL - Edmonton Stingers vs Calgary Surge (CEBL 22 | Calgary Surge @ Edmonton Stingers | CEBL Regular Season | Sun Jul 26 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 22:00 - CEBL - Edmonton Stingers vs Calgary Surge (CEBL 10 | Calgary Surge @ Edmonton Stingers | CEBL Regular Season | Sun Jul 26 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Jul%2026%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Jul.26.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-26 22:00 - CEBL - Edmonton Stingers vs Calgary Surge (CEBL 21 | Calgary Surge @ Edmonton Stingers | CEBL Regular Season | Sun Jul 26 2026 6:00PM ET)
@@ -8047,6 +8039,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.Klub.5.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-5-hd-hr.webp",[Tennis] 2026-07-25 09:00 - WTA 250 Hamburg -  vs  (Sport Klub 5 HD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%205%20HD%20HR&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tennis.Channel.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (Tennis Channel FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20FHD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis-fhd-uk.webp",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (Sky Sports Tennis FHD UK)
@@ -8095,8 +8089,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (Sport 5 Live HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Tennis.Channel.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (Tennis Channel FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20FHD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Uno.FHD.IT" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (Sky Sport Uno FHD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SONY.TEN.2" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-25 10:00 - Tennis -  vs  (SONY TEN 2)
@@ -8617,24 +8609,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[Motorsport] 2026-07-25 06:45 - DTM -  vs  (Sport 5 Live HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ProSieben.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/prosieben-fhd-de.webp",[Motorsport] 2026-07-25 06:45 - DTM -  vs  (ProSieben FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ProSieben%20FHD%20DE&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Action" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 06:45 - DTM -  vs  (SuperSport Action)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Action&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV4.Motor.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 07:00 - ERC 82nd Rally Poland -  vs  (TV4 Motor SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Motor%20SE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Motowizja.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/motowizja-fhd-pl.webp",[Motorsport] 2026-07-25 07:00 - ERC 82nd Rally Poland -  vs  (Motowizja FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Motowizja%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 07:00 - ERC 82nd Rally Poland -  vs  (Cosmote Sport 5 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV4.Motor.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 08:00 - ERC 82nd Rally Poland -  vs  (TV4 Motor SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Motor%20SE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Motowizja.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/motowizja-fhd-pl.webp",[Motorsport] 2026-07-25 08:00 - ERC 82nd Rally Poland -  vs  (Motowizja FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Motowizja%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 08:00 - ERC 82nd Rally Poland -  vs  (Cosmote Sport 5 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 08:10 - Formula 4 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 08:10 - Formula 4 -  vs  (Sky Sports F1 HD UK)
@@ -8813,8 +8787,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%20506%20HD%20AU&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eleven.Sports.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sports-1-fhd-pl.webp",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Eleven Sports 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV3+.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv3-hd-dk.webp",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (TV3+ HD DK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%2B%20HD%20DK&code=dk&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="V.Sport.Motor.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-motor-se.webp",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (V Sport Motor SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Motor%20SE&code=se&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.1.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Fox Sports 1 FHD LAM)
@@ -8833,6 +8805,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20FHD%20IT&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Adrenalin%20FHD%20RS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.Klub.1.HD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-1-hd-hr.webp",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (Sport Klub 1 HD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%201%20HD%20HR&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TV3+.HD.DK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv3-hd-dk.webp",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (TV3+ HD DK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%2B%20HD%20DK&code=dk&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Band.Sports.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/band-sports-hd-br.webp",[Motorsport] 2026-07-25 14:00 - Stock Car Brasil -  vs  (Band Sports HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Band%20Sports%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV4.Motor.SE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - ERC 82nd Rally Poland -  vs  (TV4 Motor SE)
@@ -10219,6 +10193,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-25 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (UFC 24/7 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (UFC Channel US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Abu.Dhabi.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (End | UFC Abu Dhabi Ceremonial Weigh-In | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Abu%20Dhabi%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (UFC 1 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.6.NZ" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-6-nz.webp",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (Sky Sport 6 NZ)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%206%20NZ&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="PPV.13.ⓧ|.KARATE.COMBAT..|.JUL.24.7:00.PM.ET.UFC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 09:00 - Glasgow 2026 Boxing -  vs  (PPV 13 ⓧ| KARATE COMBAT  | JUL 24 7:00 PM ET UFC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2013%20%E2%93%A7%7C%20KARATE%20COMBAT%20%20%7C%20JUL%2024%207%3A00%20PM%20ET%20UFC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 11:10 - Rajadamnern World Series Muay Thai - Chalarm vs Yodkatanyu (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 11:10 - Rajadamnern World Series Muay Thai - Chalarm vs Yodkatanyu (UFC Channel US)
@@ -10371,6 +10361,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%203%20HD&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%204%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Movistar.Deportes.4.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (Movistar Deportes 4 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%204%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Movistar.Deportes.5.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (Movistar Deportes 5 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%205%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Movistar.Deportes.5.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (Movistar Deportes 5 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%205%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Movistar.Deportes.6.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (Movistar Deportes 6 FHD)
@@ -10429,8 +10421,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%202&
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.13.ⓧ|.KARATE.COMBAT..|.JUL.24.7:00.PM.ET.UFC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (PPV 13 ⓧ| KARATE COMBAT  | JUL 24 7:00 PM ET UFC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2013%20%E2%93%A7%7C%20KARATE%20COMBAT%20%20%7C%20JUL%2024%207%3A00%20PM%20ET%20UFC&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Deportes.5.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (Movistar Deportes 5 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%205%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%201&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC 24/7 HD US)
@@ -10455,12 +10445,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Pre
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.329:.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC 329: Ceremonial Weigh-In | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Oklahoma.City.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Oklahoma City Ceremonial Weigh-In | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20City%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.13.ⓧ|.KARATE.COMBAT..|.JUL.24.7:00.PM.ET.UFC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (PPV 13 ⓧ| KARATE COMBAT  | JUL 24 7:00 PM ET UFC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2013%20%E2%93%A7%7C%20KARATE%20COMBAT%20%20%7C%20JUL%2024%207%3A00%20PM%20ET%20UFC&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.Oklahoma.City.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Oklahoma City Ceremonial Weigh-In | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20City%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.06.ⓧ|.UFC.|.Early.Prelims.|.Sat.18th.Jul.10:00PM.UK/5:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (PPV 06 ⓧ| UFC | Early Prelims | Sat 18th Jul 10:00PM UK/5:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2006%20%E2%93%A7%7C%20UFC%20%7C%20Early%20Prelims%20%7C%20Sat%2018th%20Jul%2010%3A00PM%20UK%2F5%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.07.ⓧ|.UFC.|.Prelims.|.Sat.18th.Jul.11:00PM.UK/6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (PPV 07 ⓧ| UFC | Prelims | Sat 18th Jul 11:00PM UK/6:00PM ET)
@@ -10927,20 +10917,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TRT.Spor.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-spor-fhd-tr.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (TRT Spor FHD TR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%20Spor%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="S.Sport.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/turkey/s-sport-fhd-tr.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (S Sport FHD TR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=S%20Sport%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-25 08:00 - FIVB Volleyball Womens Nations League - Brazil Volleyball Women vs Italy Volleyball Women (Sportklub 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TRT.1.FHD.TR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-1-fhd-tr.webp",[Volleyball] 2026-07-25 10:00 - Women's Volleyball Nations League – Semi-final 2 - China W vs Türkiye W (TRT 1 FHD TR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%201%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-25 10:00 - Women's Volleyball Nations League – Semi-final 2 - China W vs Türkiye W (Polsat Sport 1 FHD PL)
