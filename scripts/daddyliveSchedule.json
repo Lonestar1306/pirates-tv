@@ -1,5 +1,47 @@
 {
     "Wednesday 29th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprints Baps",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "USAC Indiana Sprint Week Paragon",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Hoodslam The MidSommerSquash 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1093,7 +1135,7 @@
                 "channels": [
                     {
                         "channel_name": "SporTV Brazil",
-                        "channel_id": "49"
+                        "channel_id": "78"
                     }
                 ]
             },
