@@ -1,47 +1,5 @@
 {
-    "Tuesday 28th July 2026 - Schedule Time UK GMT": {
-        "PPV Events": [
-            {
-                "time": "22:00",
-                "event": "Summer Shootout Charlotte",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "25"
-                    }
-                ]
-            },
-            {
-                "time": "22:15",
-                "event": "Millbridge Speedway",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "22:45",
-                "event": "USAC Indiana Sprint Week Circle City",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "27"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "Hoodslam The MidSommerSquash 2026",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "28"
-                    }
-                ]
-            }
-        ],
+    "Wednesday 29th July 2026 - Schedule Time UK GMT": {
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1828,6 +1786,98 @@
                 ]
             }
         ],
+        "USL Championship \u26bd": [
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL Championship : Pittsburgh Riverhounds \ud83c\uddfa\ud83c\uddf8 vs FC Tulsa \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL Championship : Louisville City \ud83c\uddfa\ud83c\uddf8 vs Birmingham Legion \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo USA",
+                        "channel_id": "910"
+                    }
+                ]
+            }
+        ],
+        "USL League One \u26bd": [
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Greenville Triumph \ud83c\uddfa\ud83c\uddf8 vs Boise \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Forward Madison \ud83c\uddfa\ud83c\uddf8 vs Chattanooga Red Wolves \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "14"
+                    }
+                ]
+            }
+        ],
+        "NWSL Soccer \u26bd": [
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL : Kansas City Current \ud83c\uddfa\ud83c\uddf8 vs Racing Louisville FC \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL : Utah Royals \ud83c\uddfa\ud83c\uddf8 vs Washington Spirit \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 3 UK",
+                        "channel_id": "33"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL : Bay FC \ud83c\uddfa\ud83c\uddf8 vs Gotham FC \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network",
+                        "channel_id": "308"
+                    }
+                ]
+            }
+        ],
+        "MLS All-Star \u26bd": [
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\udf0e Major League Soccer : MLS All-Star Team \ud83c\udf0e vs Liga MX All-Stars \ud83c\uddf2\ud83c\uddfd",
+                "channels": [
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "16"
+                    }
+                ]
+            }
+        ],
         "Cricket \ud83c\udfcf": [
             {
                 "time": "09:30",
@@ -2534,558 +2584,328 @@
                 ]
             }
         ],
-        "\ud83c\udfbe ATP Washington / \ud83c\udfbe WTA Memphis / \ud83c\udfbe ATP Los Cabos": [
+        "Tennis \ud83c\udfbe ATP - Singles: Los Cabos (Mexico), Hard-": [
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddf5\ud83c\uddf1 Kamil Majchrzak vs \ud83c\uddfa\ud83c\uddf8 Tommy Paul",
+                "time": "17:00",
+                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Francisco Cerundolo vs \ud83c\uddfa\ud83c\uddf8 Tristan Boyer",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1551"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddeb\ud83c\uddf7 Ugo Humbert vs \ud83c\uddfa\ud83c\uddf8 Andr\u00e9s Martin",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1552"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe ATP Washington (Doubles): \ud83c\uddec\ud83c\udde7 Julian Cash / \ud83c\uddec\ud83c\udde7 Lloyd Glasspool vs \ud83c\uddee\ud83c\uddf3 Yuki Bhambri / \ud83c\uddf3\ud83c\uddff Michael Venus",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1553"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA Washington: \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a vs \ud83c\uddf7\ud83c\uddfa Polina Kudermetova",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1554"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA Washington: \ud83c\uddfa\ud83c\uddf8 Julieta Pareja vs \ud83c\udde8\ud83c\uddf3 Wang Xinyu",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1555"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\udde8\ud83c\uddf3 Wang Xiyu vs \ud83c\uddfa\ud83c\uddf8 Caty McNally",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1556"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\uddf7\ud83c\uddfa Ekaterina Alexandrova vs \ud83c\uddf7\ud83c\uddfa Kristina Liutova",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1557"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\uddf9\ud83c\uddf7 Zeynep S\u00f6nmez vs \ud83c\udde8\ud83c\udde6 Cadence Brace",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1558"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddfa\ud83c\uddf8 Alex Michelsen vs \ud83c\uddfa\ud83c\uddf8 Mackenzie McDonald",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1559"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddeb\ud83c\uddf7 Adrian Mannarino vs \ud83c\uddfa\ud83c\uddf8 Learner Tien",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1560"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddeb\ud83c\uddf7 Arthur Fils vs \ud83c\uddea\ud83c\uddf8 Rafael J\u00f3dar",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1561"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe WTA Washington (Doubles): \ud83c\udde8\ud83c\uddf3 Tang Qianhui / \ud83c\udde8\ud83c\uddf3 Xu Yifan vs \ud83c\uddf0\ud83c\uddff Anna Danilina / \ud83c\udde8\ud83c\udde6 Leylah Fernandez",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1562"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "\ud83c\udfbe WTA Washington: \ud83c\uddf5\ud83c\udded Alexandra Eala vs \ud83c\udde8\ud83c\uddf3 Zheng Qinwen",
+                "event": "ATP - Singles: \ud83c\udde8\ud83c\uddff Jiri Lehecka vs \ud83c\udded\ud83c\uddf0 Coleman Wong",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1563"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddfa\ud83c\uddf8 Brandon Nakashima vs \ud83c\udde6\ud83c\uddf7 Tom\u00e1s Mart\u00edn Etcheverry",
+                "time": "17:00",
+                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Bernard Tomic vs \ud83c\uddf7\ud83c\uddfa Karen Khachanov",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1564"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddfa\ud83c\uddf8 Marcos Giron vs \ud83c\udde6\ud83c\uddfa Cruz Hewitt",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1565"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP Washington (Doubles): \ud83c\udde6\ud83c\uddf9 Lucas Miedler / \ud83c\udde6\ud83c\uddfa Marc Polmans vs \ud83c\udde6\ud83c\uddf7 Guido Andreozzi / \ud83c\uddeb\ud83c\uddf7 Manuel Guinard",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1566"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
                 "time": "18:30",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddfa\ud83c\uddf8 Martin Damm Jr. vs \ud83c\uddfa\ud83c\uddf8 Ben Shelton",
+                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Taylor Fritz vs \ud83c\uddf5\ud83c\uddf1 Kamil Majchrzak",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1567"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Alex Michelsen vs \ud83c\uddeb\ud83c\uddf7 Adrian Mannarino",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Rafael Jodar vs \ud83c\uddef\ud83c\uddf5 Kei Nishikori",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis \ud83c\udfbe ATP - SINGLES: Washington (USA), Hard": [
+            {
+                "time": "17:00",
+                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Aleksandar Vukic vs \ud83c\uddee\ud83c\uddf9 Lorenzo Musetti",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Alex de Minaur vs \ud83c\uddec\ud83c\uddf7 Stefanos Tsitsipas",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - SINGLES: Memphis (USA), Hard": [
+            {
+                "time": "16:00",
+                "event": "WTA - Singles: \ud83c\udde7\ud83c\uddfe Iryna Shymanovich vs \ud83c\uddfa\ud83c\uddf8 Katie Volynets",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf4 Camila Osorio vs \ud83c\uddfa\ud83c\udde6 Anastasia Zakharova",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
                 "time": "19:00",
-                "event": "\ud83c\udfbe WTA Washington: \ud83c\udde6\ud83c\uddfa Daria Kasatkina vs \ud83c\uddf7\ud83c\uddfa Anna Kalinskaya",
+                "event": "WTA - Singles: \ud83c\uddf9\ud83c\uddf7 Zeynep Sonmez vs \ud83c\uddfa\ud83c\uddf8 Elvina Kalieva",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1568"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - SINGLES: Washington (USA), Hard": [
+            {
+                "time": "15:00",
+                "event": "WTA - Singles: \ud83c\udde8\ud83c\udde6 Leylah Fernandez vs \ud83c\uddf5\ud83c\udded Alexandra Eala",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
-                "time": "19:30",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\uddfa\ud83c\uddf8 Trevor Svajda vs \ud83c\udde8\ud83c\uddff Jakub Men\u0161\u00edk",
+                "time": "15:00",
+                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf3 Wang Xin. vs \ud83c\udde7\ud83c\uddfe Liudmila Samsonova",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1569"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
-                "time": "19:30",
-                "event": "\ud83c\udfbe WTA Washington (Doubles): \ud83c\udde8\ud83c\uddf3 Zhang Shuai / \ud83c\uddee\ud83c\udde9 Janice Tjen vs \ud83c\uddf7\ud83c\uddfa Kamilla Rakhimova / \ud83c\uddf9\ud83c\uddfc Wu Fang-hsien",
+                "time": "18:00",
+                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddee\ud83c\uddf9 Elisabetta Cocciaretto",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1570"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
-                "time": "19:30",
-                "event": "\ud83c\udfbe WTA Washington (Doubles): \ud83c\uddee\ud83c\uddf9 Sara Errani / \ud83c\uddfa\ud83c\uddf8 Nicole Melichar-Martinez vs \ud83c\uddec\ud83c\udde7 Katie Boulter / \ud83c\uddf7\ud83c\uddfa Polina Iatcenko",
+                "time": "18:30",
+                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddee\ud83c\uddf9 Elisabetta Cocciaretto",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1571"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
-                "time": "20:30",
-                "event": "\ud83c\udfbe WTA Washington: \ud83c\uddf5\ud83c\uddf1 Magdalena Fr\u0119ch vs \ud83c\uddfa\ud83c\uddf8 Ann Li",
+                "time": "22:30",
+                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger vs \ud83c\uddef\ud83c\uddf5 Naomi Osaka",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1572"
-                    },
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - DOUBLES: Los Cabos (Mexico), Hard": [
+            {
+                "time": "17:00",
+                "event": "ATP - Doubles: \ud83c\uddf2\ud83c\uddfd Luis Carlos Alvarez Valdes / \ud83c\uddf2\ud83c\uddfd Alan Magadan vs \ud83c\uddfa\ud83c\uddf8 Tristan Boyer / \ud83c\udde6\ud83c\uddfa Edward Winter",
+                "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1502"
-                    },
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - Doubles: \ud83c\uddf2\ud83c\uddfd Santiago Gonzalez / \ud83c\uddf2\ud83c\uddfd Rodrigo Pacheco Mendez vs \ud83c\udde7\ud83c\uddf7 Orlando Luz / \ud83c\udde7\ud83c\uddf7 Rafael Matos",
+                "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - Doubles: \ud83c\udde6\ud83c\uddfa Rinky Hijikata / \ud83c\uddfa\ud83c\uddf8 Robert Staller vs \ud83c\udde7\ud83c\uddfe Ilia Liutarevich / \ud83c\uddf2\ud83c\uddfd Miguel Angel Reyes-Varela",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - Doubles: \ud83c\uddf0\ud83c\uddf7 Nam Ji-sung / \ud83c\uddef\ud83c\uddf5 Takeru Yuzuki vs \ud83c\uddf9\ud83c\udded Pruchya Isaro / \ud83c\uddec\ud83c\udde7 Joshua Paris",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - DOUBLES: Washington (USA), Hard": [
+            {
+                "time": "16:30",
+                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddfe Ariel Behar / \ud83c\uddee\ud83c\uddf3 Anirudh Chandrasekar vs \ud83c\uddf5\ud83c\uddf9 Francisco Cabral / \ud83c\uddfa\ud83c\uddf8 J. Tracy",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\uddfa\ud83c\uddf8 Christian Harrison / \ud83c\uddec\ud83c\udde7 Neal Skupski",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - Doubles: \ud83c\uddeb\ud83c\uddf7 Sadio Doumbia / \ud83c\uddeb\ud83c\uddf7 Fabien Reboul vs \ud83c\udde7\ud83c\uddf7 Fernando Romboli / \ud83c\udde6\ud83c\uddfa John-Patrick Smith",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
                 "time": "21:00",
-                "event": "\ud83c\udfbe ATP Washington (Doubles): \ud83c\uddeb\ud83c\uddf7 Sadio Doumbia / \ud83c\uddeb\ud83c\uddf7 Fabien Reboul vs \ud83c\udde6\ud83c\uddfa John Patrick Smith / \ud83c\udde7\ud83c\uddf7 Fernando Romboli",
+                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\uddfa\ud83c\uddf8 Christian Harrison / \ud83c\uddec\ud83c\udde7 Neal Skupski",
                 "channels": [
                     {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1573"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "\ud83c\udfbe WTA Washington (Doubles): \ud83c\uddef\ud83c\uddf5 Miyu Kato / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos vs \ud83c\uddf8\ud83c\uddf0 Tereza Mihal\u00edkov\u00e1 / \ud83c\uddec\ud83c\udde7 Heather Watson",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1574"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\ud83c\udfbe ATP Washington: \ud83c\udde6\ud83c\uddfa Alex de Minaur vs \ud83c\uddec\ud83c\uddf7 Stefanos Tsitsipas",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1575"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1507"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\ud83c\udfbe ATP Washington (Doubles): \ud83c\uddfa\ud83c\uddf8 Frances Tiafoe / \ud83c\udde6\ud83c\uddfa Nick Kyrgios vs \ud83c\uddfa\ud83c\uddf8 James Tracy / \ud83c\uddf5\ud83c\uddf9 Francisco Cabral",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1576"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\uddfa\ud83c\udde6 Yuliia Starodubtseva vs \ud83c\uddfa\ud83c\uddf8 Sloane Stephens",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1577"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\uddfa\ud83c\uddf8 Mary Stoiana vs \ud83c\uddfa\ud83c\uddf8 Peyton Stearns",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1578"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1512"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\udde8\ud83c\uddff Darja Vidmanov\u00e1 vs \ud83c\uddea\ud83c\uddf8 Marina Bassols Ribera",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1579"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1513"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\ud83c\udfbe WTA Washington: \ud83c\uddf7\ud83c\uddfa Anastasia Potapova vs \ud83c\uddfa\ud83c\uddf8 Venus Williams",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1580"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1501"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1524"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\uddf2\ud83c\uddfd Renata Zaraz\u00faa vs \ud83c\uddfa\ud83c\uddf8 McCartney Kessler",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1581"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\ud83c\udfbe WTA Memphis: \ud83c\udde8\ud83c\uddf3 Ma Ye Xin vs \ud83c\udde6\ud83c\uddfa Kimberly Birrell",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1582"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1512"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\ud83c\udfbe WTA Memphis (Doubles): \ud83c\uddf9\ud83c\uddfc Cho I-hsuan / \ud83c\uddf9\ud83c\uddfc Cho Yi Tsen vs \ud83c\uddfa\ud83c\udde6 Lyudmyla Kichenok / \ud83c\uddfa\ud83c\udde6 Nadiia Kichenok",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1583"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfbe WTA Memphis (Doubles): \ud83c\udde6\ud83c\uddfa Storm Hunter / \ud83c\uddfa\ud83c\uddf8 Desirae Krawczyk vs \ud83c\uddef\ud83c\uddf5 Eri Hozumi / \ud83c\udded\ud83c\uddf0 Eudice Chong",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1584"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\uddef\ud83c\uddf5 Sho Shimabukuro vs \ud83c\uddf2\ud83c\uddfd Rodrigo Pacheco M\u00e9ndez",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1585"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\uddfa\ud83c\uddf8 Aidan Mayo vs \ud83c\udde6\ud83c\uddfa James Duckworth",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1586"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\uddeb\ud83c\uddf7 Mo\u00efse Kouam\u00e9 vs \ud83c\udde6\ud83c\uddfa Edward Winter",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1587"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfbe ATP Los Cabos (Doubles): \ud83c\uddfa\ud83c\uddf8 Evan King / \ud83c\uddfa\ud83c\uddf8 Robert Galloway vs \ud83c\uddf3\ud83c\uddff James Watt / \ud83c\uddf3\ud83c\uddff Finn Reynolds",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1588"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\uddf0\ud83c\uddf7 Kwon Soon-woo vs \ud83c\uddeb\ud83c\uddf7 Arthur G\u00e9a",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1589"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\uddfa\ud83c\uddf8 Jenson Brooksby vs \ud83c\uddeb\ud83c\uddf7 Corentin Moutet",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1590"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\udde8\ud83c\udde6 Denis Shapovalov vs \ud83c\udde6\ud83c\uddfa Rinky Hijikata",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1591"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "\ud83c\udfbe ATP Los Cabos (Doubles): \ud83c\uddf9\ud83c\uddfc Ray Ho / \ud83c\uddfa\ud83c\uddf8 Benjamin Kittay vs \ud83c\uddf3\ud83c\uddf1 Jean-Julien Rojer / \ud83c\uddfa\ud83c\uddf8 Theodore Winegar",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1592"
-                    }
-                ]
-            },
-            {
-                "time": "04:00",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\udde8\ud83c\uddff Dalibor Svr\u010dina vs \ud83c\udde6\ud83c\uddfa Adam Walton",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1593"
-                    }
-                ]
-            },
-            {
-                "time": "04:00",
-                "event": "\ud83c\udfbe ATP Los Cabos: \ud83c\uddfa\ud83c\uddf8 Michael Zheng vs \ud83c\uddea\ud83c\uddf8 Mart\u00edn Landaluce",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1594"
-                    }
-                ]
-            },
-            {
-                "time": "04:00",
-                "event": "\ud83c\udfbe ATP Los Cabos (Doubles): \ud83c\uddfa\ud83c\uddf8 Rajeev Ram / \ud83c\uddec\ud83c\udde7 Joe Salisbury vs \ud83c\uddea\ud83c\udde8 Gonzalo Escobar / \ud83c\uddee\ud83c\uddf3 Niki Kaliyanda Poonacha",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1595"
-                    }
-                ]
-            },
-            {
-                "time": "04:00",
-                "event": "\ud83c\udfbe ATP Los Cabos (Doubles): \ud83c\uddfa\ud83c\uddf8 Ryan Seggerman / \ud83c\uddfa\ud83c\uddf8 Patrik Trhac vs \ud83c\uddf2\ud83c\uddfd Alex Hern\u00e1ndez / \ud83c\udde8\ud83c\uddf4 Nicol\u00e1s Mej\u00eda",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1596"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             }
         ],
-        "Motorsport \ud83c\udfce\ufe0f\ud83c\udfc1": [
+        "Tennis WTA - DOUBLES: Memphis (USA), Hard": [
             {
-                "time": "08:25",
-                "event": "\ud83d\ude97 \ud83c\uddeb\ud83c\uddee WRC Rally Finland : Announcement",
+                "time": "17:30",
+                "event": "WTA - Doubles: \ud83c\udde7\ud83c\uddfe Ekaterina Alexandrova / \ud83c\udde6\ud83c\uddfa Talia Gibson vs \ud83c\uddf9\ud83c\uddfc Hao-Ching Chan / \ud83c\udde6\ud83c\uddfa Maya Joint",
                 "channels": [
                     {
-                        "channel_name": "Sportklub 5 Croatia",
-                        "channel_id": "18"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             },
             {
-                "time": "22:15",
-                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 USAC Racing",
+                "time": "19:00",
+                "event": "WTA - Doubles: \ud83c\uddf7\ud83c\uddf8 Nina Radisic / \ud83c\udde7\ud83c\uddfe Iryna Shymanovich vs \ud83c\uddec\ud83c\udde7 Sarah Beth Grey Johnson / \ud83c\uddea\ud83c\uddf8 Andrea Teixido Garcia",
                 "channels": [
                     {
-                        "channel_name": "FloRacing",
-                        "channel_id": "23"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - Doubles: \ud83c\udde7\ud83c\uddfe Maryna Kozyreva / \ud83c\uddec\ud83c\udde7 Maia Lumsden vs \ud83c\udde8\ud83c\uddf1 Alexa Guarachi / \ud83c\uddfa\ud83c\uddf8 Catherine Harrison",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             }
         ],
-        "Wrestling (NXT) \ud83e\udd3c": [
+        "Tennis WTA - DOUBLES: Washington (USA), Hard": [
             {
-                "time": "00:00",
-                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 WWE NXT",
+                "time": "15:00",
+                "event": "WTA - Doubles: \ud83c\uddfa\ud83c\uddf8 Clervie Ngounoue / \ud83c\uddfa\ud83c\uddf8 Alana Smith vs \ud83c\uddf3\ud83c\uddff Erin Routliffe / \ud83c\uddee\ud83c\udde9 Aldila Sutjiadi",
                 "channels": [
                     {
-                        "channel_name": "CW USA",
-                        "channel_id": "300"
-                    },
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - Doubles: \ud83c\uddf5\ud83c\uddf1 Jana Tjen / \ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddef\ud83c\uddf5 Makoto Ninomiya Kato / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos",
+                "channels": [
                     {
-                        "channel_name": "CW PIX 11 USA",
-                        "channel_id": "280"
-                    },
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - Doubles: \ud83c\uddf5\ud83c\uddf1 Jana Tjen / \ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddef\ud83c\uddf5 Makoto Kato / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos",
+                "channels": [
                     {
-                        "channel_name": "SuperSport Variety 3",
-                        "channel_id": "418"
-                    },
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - Doubles: \ud83c\uddf7\ud83c\uddfa Diana Shnaider / \ud83c\uddfa\ud83c\uddf8 Venus Williams vs \ud83c\udde8\ud83c\uddf3 Tang Qianhui / \ud83c\udde8\ud83c\uddf3 Xu Yifan",
+                "channels": [
                     {
-                        "channel_name": "SuperSport Grandstand",
-                        "channel_id": "412"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             }
@@ -3116,14 +2936,24 @@
                 ]
             }
         ],
-        "Golf \u26f3": [
+        "Motorsport \ud83c\udfce\ufe0f\ud83c\udfc1": [
             {
-                "time": "15:00",
-                "event": "\u26f3 \ud83c\udf0d Women's Open (LPGA Golf) : Preview",
+                "time": "08:25",
+                "event": "\ud83d\ude97 \ud83c\uddeb\ud83c\uddee WRC Rally Finland : Announcement",
                 "channels": [
                     {
-                        "channel_name": "Sky Sports Golf UK",
-                        "channel_id": "70"
+                        "channel_name": "Sportklub 5 Croatia",
+                        "channel_id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 USAC Racing",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "23"
                     }
                 ]
             }
@@ -3146,6 +2976,38 @@
                     {
                         "channel_name": "Sky Sport 2 NZ",
                         "channel_id": "589"
+                    }
+                ]
+            }
+        ],
+        "Wrestling (AEW) \ud83e\udd3c": [
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 All Elite Wrestling (AEW) : Dynamite",
+                "channels": [
+                    {
+                        "channel_name": "TBS USA",
+                        "channel_id": "336"
+                    },
+                    {
+                        "channel_name": "TSN2",
+                        "channel_id": "112"
+                    },
+                    {
+                        "channel_name": "Fox Sports Premium MX",
+                        "channel_id": "830"
+                    }
+                ]
+            }
+        ],
+        "Golf \u26f3": [
+            {
+                "time": "15:00",
+                "event": "\u26f3 \ud83c\udf0d Women's Open (LPGA Golf) : Preview",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf UK",
+                        "channel_id": "70"
                     }
                 ]
             }
@@ -3224,10 +3086,10 @@
                 ]
             }
         ],
-        "Athletics \ud83c\udfc3": [
+        "Athletics \ud83c\udfc3\ud83c\udfc5": [
             {
-                "time": "09:00",
-                "event": "\ud83c\udfc3 \ud83c\uddec\ud83c\udde7 Glasgow 2026 Athletics &amp; Para Athletics \u2013 Day Session",
+                "time": "08:45",
+                "event": "\ud83c\udfc5 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Commonwealth Games : Day 6 (Day Session)",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 3 UK",
@@ -3240,8 +3102,8 @@
                 ]
             },
             {
-                "time": "17:30",
-                "event": "\ud83c\udfc3 \ud83c\uddec\ud83c\udde7 Glasgow 2026 Athletics &amp; Para Athletics \u2013 Night Session",
+                "time": "17:15",
+                "event": "\ud83c\udfc5 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Commonwealth Games : Day 6 (Evening Session)",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 3 UK",
@@ -3252,38 +3114,50 @@
                         "channel_id": "593"
                     },
                     {
-                        "channel_name": "Eurosport 1 Poland",
+                        "channel_name": "EuroSport 1 Poland",
                         "channel_id": "57"
                     },
                     {
-                        "channel_name": "Eurosport 1 Spain",
+                        "channel_name": "EuroSport 1 Spain",
                         "channel_id": "524"
                     },
                     {
-                        "channel_name": "Eurosport 1 France",
+                        "channel_name": "EuroSport 1 France",
                         "channel_id": "772"
                     },
                     {
-                        "channel_name": "Eurosport 1 Sweden",
+                        "channel_name": "Eurosport 1 SE",
                         "channel_id": "231"
                     },
                     {
-                        "channel_name": "Eurosport 1 Italy",
+                        "channel_name": "EuroSport 1 Italy",
                         "channel_id": "878"
                     },
                     {
-                        "channel_name": "Eurosport 1 Greece",
+                        "channel_name": "EuroSport 1 Greece",
                         "channel_id": "41"
+                    }
+                ]
+            }
+        ],
+        "Minor League Baseball \u26be": [
+            {
+                "time": "17:00",
+                "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball : Scranton/Wilkes-Barre RailRiders \ud83c\uddfa\ud83c\uddf8 vs Iowa Cubs \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Marquee Sports Network USA",
+                        "channel_id": "770"
                     }
                 ]
             },
             {
-                "time": "19:00",
-                "event": "\ud83c\udfc3 \ud83c\uddec\ud83c\udde7 Glasgow 2026 Commonwealth Games \u2013 Day 5 Athletics: Women's Hammer Throw Final",
+                "time": "22:30",
+                "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball : Worcester Red Sox \ud83c\uddfa\ud83c\uddf8 vs Norfolk Tides \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Sky Sport 2 NZ",
-                        "channel_id": "589"
+                        "channel_name": "MASN USA",
+                        "channel_id": "829"
                     }
                 ]
             }
@@ -3686,6 +3560,18 @@
                 ]
             }
         ],
+        "Beach Soccer \u26bd\ud83c\udfd6\ufe0f": [
+            {
+                "time": "13:20",
+                "event": "\u26bd\ud83c\udfd6\ufe0f \ud83c\uddea\ud83c\uddfa Women's Euro Beach Soccer League : \ud83c\uddf5\ud83c\uddf9 Portugal Women vs \ud83c\uddee\ud83c\uddf9 Italy Women",
+                "channels": [
+                    {
+                        "channel_name": "Sport TV1 Portugal",
+                        "channel_id": "49"
+                    }
+                ]
+            }
+        ],
         "Sailing \u26f5/ Boating \ud83d\udea4": [
             {
                 "time": "14:00",
@@ -3828,6 +3714,58 @@
                 ]
             }
         ],
+        "Handball \ud83e\udd3e": [
+            {
+                "time": "10:00",
+                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddf8\ud83c\uddee Slovenia U18 vs \ud83c\uddf2\ud83c\uddf0 North Macedonia U18",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 Hungary",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "08:30",
+                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddee\ud83c\uddf8 Iceland U18 vs \ud83c\uddf2\ud83c\uddea Montenegro U18",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 Hungary",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddf8\ud83c\uddea Sweden U18 vs \ud83c\uddeb\ud83c\uddf7 France U18",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 Hungary",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\udded\ud83c\uddfa Hungary U18 vs \ud83c\udde8\ud83c\udded Switzerland U18",
+                "channels": [
+                    {
+                        "channel_name": "Sport 1 Hungary",
+                        "channel_id": "22"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddf7\ud83c\uddf8 Serbia U18 vs \ud83c\uddf9\ud83c\uddf7 T\u00fcrkiye U18",
+                "channels": [
+                    {
+                        "channel_name": "Arena 2 Premium Serbia",
+                        "channel_id": "135"
+                    }
+                ]
+            }
+        ],
         "Horse Racing \ud83c\udfc7": [
             {
                 "time": "12:00",
@@ -3948,666 +3886,6 @@
                     {
                         "channel_name": "SuperSport La Liga",
                         "channel_id": "415"
-                    }
-                ]
-            }
-        ],
-        "Squash \ud83c\udfbe": [
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe \ud83c\uddff\ud83c\udde6 Premier Padel 2026: Pretoria P1 \u2013 Day 2",
-                "channels": [
-                    {
-                        "channel_name": "beIN Sports 2 Malaysia",
-                        "channel_id": "713"
-                    },
-                    {
-                        "channel_name": "Sport 3 Israel",
-                        "channel_id": "142"
-                    }
-                ]
-            }
-        ],
-        "Water Sports \ud83c\udfca": [
-            {
-                "time": "21:30",
-                "event": "\ud83c\udfca \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Glasgow Commonwealth Games : Day 6 \u2013 Swimming (Morning Session)",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 5 NZ",
-                        "channel_id": "592"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "\ud83c\udfca \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Glasgow Commonwealth Games : Day 6 \u2013 Swimming (Night Session)",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 5 NZ",
-                        "channel_id": "592"
-                    }
-                ]
-            }
-        ],
-        "Weightlifting \ud83c\udfcb": [
-            {
-                "time": "08:35",
-                "event": "\ud83c\udfcb\ufe0f \ud83c\udf0d Weightlifting : Women \ud83c\uddfa\ud83c\uddf3 77kg",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 8 NZ",
-                        "channel_id": "595"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 1",
-                        "channel_id": "416"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 3",
-                        "channel_id": "418"
-                    }
-                ]
-            },
-            {
-                "time": "13:05",
-                "event": "\ud83c\udfcb\ufe0f \ud83c\udf0d Weightlifting : Men \ud83c\uddfa\ud83c\uddf3 94kg",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 4",
-                        "channel_id": "419"
-                    }
-                ]
-            },
-            {
-                "time": "17:35",
-                "event": "\ud83c\udfcb\ufe0f \ud83c\udf0d Weightlifting : Women \ud83c\uddfa\ud83c\uddf3 86kg",
-                "channels": [
-                    {
-                        "channel_name": "SuperSport Variety 1",
-                        "channel_id": "416"
-                    }
-                ]
-            }
-        ],
-        "USL Championship \u26bd": [
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL Championship : Pittsburgh Riverhounds \ud83c\uddfa\ud83c\uddf8 vs FC Tulsa \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "12"
-                    },
-                    {
-                        "channel_name": "SportsNet Pittsburgh",
-                        "channel_id": "922"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL Championship : Louisville City \ud83c\uddfa\ud83c\uddf8 vs Birmingham Legion \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Golazo USA",
-                        "channel_id": "910"
-                    }
-                ]
-            }
-        ],
-        "USL League One \u26bd": [
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Greenville Triumph \ud83c\uddfa\ud83c\uddf8 vs Boise \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "13"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Forward Madison \ud83c\uddfa\ud83c\uddf8 vs Chattanooga Red Wolves \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "14"
-                    }
-                ]
-            }
-        ],
-        "NWSL Soccer \u26bd": [
-            {
-                "time": "00:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL : Kansas City Current \ud83c\uddfa\ud83c\uddf8 vs Racing Louisville FC \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network",
-                        "channel_id": "308"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL : Utah Royals \ud83c\uddfa\ud83c\uddf8 vs Washington Spirit \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 3 UK",
-                        "channel_id": "33"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL : Bay FC \ud83c\uddfa\ud83c\uddf8 vs Gotham FC \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network",
-                        "channel_id": "308"
-                    }
-                ]
-            }
-        ],
-        "MLS All-Star \u26bd": [
-            {
-                "time": "00:00",
-                "event": "\u26bd \ud83c\udf0e Major League Soccer : MLS All-Star Team \ud83c\udf0e vs Liga MX All-Stars \ud83c\uddf2\ud83c\uddfd",
-                "channels": [
-                    {
-                        "channel_name": "MLS Season Pass",
-                        "channel_id": "16"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles: Los Cabos (Mexico), Hard-": [
-            {
-                "time": "17:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Francisco Cerundolo vs \ud83c\uddfa\ud83c\uddf8 Tristan Boyer",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP - Singles: \ud83c\udde8\ud83c\uddff Jiri Lehecka vs \ud83c\udded\ud83c\uddf0 Coleman Wong",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Bernard Tomic vs \ud83c\uddf7\ud83c\uddfa Karen Khachanov",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Taylor Fritz vs \ud83c\uddf5\ud83c\uddf1 Kamil Majchrzak",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Alex Michelsen vs \ud83c\uddeb\ud83c\uddf7 Adrian Mannarino",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Rafael Jodar vs \ud83c\uddef\ud83c\uddf5 Kei Nishikori",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - SINGLES: Washington (USA), Hard": [
-            {
-                "time": "17:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Aleksandar Vukic vs \ud83c\uddee\ud83c\uddf9 Lorenzo Musetti",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddfa Alex de Minaur vs \ud83c\uddec\ud83c\uddf7 Stefanos Tsitsipas",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA - SINGLES: Memphis (USA), Hard": [
-            {
-                "time": "16:00",
-                "event": "WTA - Singles: \ud83c\udde7\ud83c\uddfe Iryna Shymanovich vs \ud83c\uddfa\ud83c\uddf8 Katie Volynets",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf4 Camila Osorio vs \ud83c\uddfa\ud83c\udde6 Anastasia Zakharova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "WTA - Singles: \ud83c\uddf9\ud83c\uddf7 Zeynep Sonmez vs \ud83c\uddfa\ud83c\uddf8 Elvina Kalieva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA - SINGLES: Washington (USA), Hard": [
-            {
-                "time": "15:00",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\udde6 Leylah Fernandez vs \ud83c\uddf5\ud83c\udded Alexandra Eala",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf3 Wang Xin. vs \ud83c\udde7\ud83c\uddfe Liudmila Samsonova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddee\ud83c\uddf9 Elisabetta Cocciaretto",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddee\ud83c\uddf9 Elisabetta Cocciaretto",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger vs \ud83c\uddef\ud83c\uddf5 Naomi Osaka",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis ATP - DOUBLES: Los Cabos (Mexico), Hard": [
-            {
-                "time": "17:00",
-                "event": "ATP - Doubles: \ud83c\uddf2\ud83c\uddfd Luis Carlos Alvarez Valdes / \ud83c\uddf2\ud83c\uddfd Alan Magadan vs \ud83c\uddfa\ud83c\uddf8 Tristan Boyer / \ud83c\udde6\ud83c\uddfa Edward Winter",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP - Doubles: \ud83c\uddf2\ud83c\uddfd Santiago Gonzalez / \ud83c\uddf2\ud83c\uddfd Rodrigo Pacheco Mendez vs \ud83c\udde7\ud83c\uddf7 Orlando Luz / \ud83c\udde7\ud83c\uddf7 Rafael Matos",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP - Doubles: \ud83c\udde6\ud83c\uddfa Rinky Hijikata / \ud83c\uddfa\ud83c\uddf8 Robert Staller vs \ud83c\udde7\ud83c\uddfe Ilia Liutarevich / \ud83c\uddf2\ud83c\uddfd Miguel Angel Reyes-Varela",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "ATP - Doubles: \ud83c\uddf0\ud83c\uddf7 Nam Ji-sung / \ud83c\uddef\ud83c\uddf5 Takeru Yuzuki vs \ud83c\uddf9\ud83c\udded Pruchya Isaro / \ud83c\uddec\ud83c\udde7 Joshua Paris",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis ATP - DOUBLES: Washington (USA), Hard": [
-            {
-                "time": "16:30",
-                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddfe Ariel Behar / \ud83c\uddee\ud83c\uddf3 Anirudh Chandrasekar vs \ud83c\uddf5\ud83c\uddf9 Francisco Cabral / \ud83c\uddfa\ud83c\uddf8 J. Tracy",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\uddfa\ud83c\uddf8 Christian Harrison / \ud83c\uddec\ud83c\udde7 Neal Skupski",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "ATP - Doubles: \ud83c\uddeb\ud83c\uddf7 Sadio Doumbia / \ud83c\uddeb\ud83c\uddf7 Fabien Reboul vs \ud83c\udde7\ud83c\uddf7 Fernando Romboli / \ud83c\udde6\ud83c\uddfa John-Patrick Smith",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\udded\ud83c\uddf7 Nikola Mektic vs \ud83c\uddfa\ud83c\uddf8 Christian Harrison / \ud83c\uddec\ud83c\udde7 Neal Skupski",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA - DOUBLES: Memphis (USA), Hard": [
-            {
-                "time": "17:30",
-                "event": "WTA - Doubles: \ud83c\udde7\ud83c\uddfe Ekaterina Alexandrova / \ud83c\udde6\ud83c\uddfa Talia Gibson vs \ud83c\uddf9\ud83c\uddfc Hao-Ching Chan / \ud83c\udde6\ud83c\uddfa Maya Joint",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "WTA - Doubles: \ud83c\uddf7\ud83c\uddf8 Nina Radisic / \ud83c\udde7\ud83c\uddfe Iryna Shymanovich vs \ud83c\uddec\ud83c\udde7 Sarah Beth Grey Johnson / \ud83c\uddea\ud83c\uddf8 Andrea Teixido Garcia",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "WTA - Doubles: \ud83c\udde7\ud83c\uddfe Maryna Kozyreva / \ud83c\uddec\ud83c\udde7 Maia Lumsden vs \ud83c\udde8\ud83c\uddf1 Alexa Guarachi / \ud83c\uddfa\ud83c\uddf8 Catherine Harrison",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis WTA - DOUBLES: Washington (USA), Hard": [
-            {
-                "time": "15:00",
-                "event": "WTA - Doubles: \ud83c\uddfa\ud83c\uddf8 Clervie Ngounoue / \ud83c\uddfa\ud83c\uddf8 Alana Smith vs \ud83c\uddf3\ud83c\uddff Erin Routliffe / \ud83c\uddee\ud83c\udde9 Aldila Sutjiadi",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Doubles: \ud83c\uddf5\ud83c\uddf1 Jana Tjen / \ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddef\ud83c\uddf5 Makoto Ninomiya Kato / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "WTA - Doubles: \ud83c\uddf5\ud83c\uddf1 Jana Tjen / \ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddef\ud83c\uddf5 Makoto Kato / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "WTA - Doubles: \ud83c\uddf7\ud83c\uddfa Diana Shnaider / \ud83c\uddfa\ud83c\uddf8 Venus Williams vs \ud83c\udde8\ud83c\uddf3 Tang Qianhui / \ud83c\udde8\ud83c\uddf3 Xu Yifan",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Wrestling (AEW) \ud83e\udd3c": [
-            {
-                "time": "00:00",
-                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 All Elite Wrestling (AEW) : Dynamite",
-                "channels": [
-                    {
-                        "channel_name": "TBS USA",
-                        "channel_id": "336"
-                    },
-                    {
-                        "channel_name": "TSN2",
-                        "channel_id": "112"
-                    },
-                    {
-                        "channel_name": "Fox Sports Premium MX",
-                        "channel_id": "830"
-                    }
-                ]
-            }
-        ],
-        "Athletics \ud83c\udfc3\ud83c\udfc5": [
-            {
-                "time": "08:45",
-                "event": "\ud83c\udfc5 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Commonwealth Games : Day 6 (Day Session)",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 3 UK",
-                        "channel_id": "33"
-                    },
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
-                    }
-                ]
-            },
-            {
-                "time": "17:15",
-                "event": "\ud83c\udfc5 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Commonwealth Games : Day 6 (Evening Session)",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 3 UK",
-                        "channel_id": "33"
-                    },
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Poland",
-                        "channel_id": "57"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Spain",
-                        "channel_id": "524"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 France",
-                        "channel_id": "772"
-                    },
-                    {
-                        "channel_name": "Eurosport 1 SE",
-                        "channel_id": "231"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Italy",
-                        "channel_id": "878"
-                    },
-                    {
-                        "channel_name": "EuroSport 1 Greece",
-                        "channel_id": "41"
-                    }
-                ]
-            }
-        ],
-        "Minor League Baseball \u26be": [
-            {
-                "time": "17:00",
-                "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball : Scranton/Wilkes-Barre RailRiders \ud83c\uddfa\ud83c\uddf8 vs Iowa Cubs \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "Marquee Sports Network USA",
-                        "channel_id": "770"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "\u26be \ud83c\uddfa\ud83c\uddf8 Minor League Baseball : Worcester Red Sox \ud83c\uddfa\ud83c\uddf8 vs Norfolk Tides \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "MASN USA",
-                        "channel_id": "829"
-                    }
-                ]
-            }
-        ],
-        "Beach Soccer \u26bd\ud83c\udfd6\ufe0f": [
-            {
-                "time": "13:20",
-                "event": "\u26bd\ud83c\udfd6\ufe0f \ud83c\uddea\ud83c\uddfa Women's Euro Beach Soccer League : \ud83c\uddf5\ud83c\uddf9 Portugal Women vs \ud83c\uddee\ud83c\uddf9 Italy Women",
-                "channels": [
-                    {
-                        "channel_name": "Sport TV1 Portugal",
-                        "channel_id": "49"
-                    }
-                ]
-            }
-        ],
-        "Handball \ud83e\udd3e": [
-            {
-                "time": "10:00",
-                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddf8\ud83c\uddee Slovenia U18 vs \ud83c\uddf2\ud83c\uddf0 North Macedonia U18",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "08:30",
-                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddee\ud83c\uddf8 Iceland U18 vs \ud83c\uddf2\ud83c\uddea Montenegro U18",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddf8\ud83c\uddea Sweden U18 vs \ud83c\uddeb\ud83c\uddf7 France U18",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\udded\ud83c\uddfa Hungary U18 vs \ud83c\udde8\ud83c\udded Switzerland U18",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "22"
-                    }
-                ]
-            },
-            {
-                "time": "17:45",
-                "event": "\ud83e\udd3e \ud83c\uddea\ud83c\uddfa U18 European Championship : \ud83c\uddf7\ud83c\uddf8 Serbia U18 vs \ud83c\uddf9\ud83c\uddf7 T\u00fcrkiye U18",
-                "channels": [
-                    {
-                        "channel_name": "Arena 2 Premium Serbia",
-                        "channel_id": "135"
                     }
                 ]
             }
@@ -4884,6 +4162,72 @@
                     {
                         "channel_name": "Sportklub 8 Croatia",
                         "channel_id": "21"
+                    }
+                ]
+            }
+        ],
+        "Water Sports \ud83c\udfca": [
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfca \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Glasgow Commonwealth Games : Day 6 \u2013 Swimming (Morning Session)",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 5 NZ",
+                        "channel_id": "592"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfca \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Glasgow Commonwealth Games : Day 6 \u2013 Swimming (Night Session)",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 5 NZ",
+                        "channel_id": "592"
+                    }
+                ]
+            }
+        ],
+        "Weightlifting \ud83c\udfcb": [
+            {
+                "time": "08:35",
+                "event": "\ud83c\udfcb\ufe0f \ud83c\udf0d Weightlifting : Women \ud83c\uddfa\ud83c\uddf3 77kg",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 8 NZ",
+                        "channel_id": "595"
+                    },
+                    {
+                        "channel_name": "SuperSport Variety 1",
+                        "channel_id": "416"
+                    },
+                    {
+                        "channel_name": "SuperSport Variety 3",
+                        "channel_id": "418"
+                    }
+                ]
+            },
+            {
+                "time": "13:05",
+                "event": "\ud83c\udfcb\ufe0f \ud83c\udf0d Weightlifting : Men \ud83c\uddfa\ud83c\uddf3 94kg",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 6 NZ",
+                        "channel_id": "593"
+                    },
+                    {
+                        "channel_name": "SuperSport Variety 4",
+                        "channel_id": "419"
+                    }
+                ]
+            },
+            {
+                "time": "17:35",
+                "event": "\ud83c\udfcb\ufe0f \ud83c\udf0d Weightlifting : Women \ud83c\uddfa\ud83c\uddf3 86kg",
+                "channels": [
+                    {
+                        "channel_name": "SuperSport Variety 1",
+                        "channel_id": "416"
                     }
                 ]
             }
