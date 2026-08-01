@@ -42,6 +42,34 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "Lollapalooza Chicago 2026 CORTIS",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "198"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2050"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Lollapalooza Chicago 2026 AYYBO",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "199"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2051"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "\ud83c\udfc1 NASCAR Weekly Racing: Berlin Raceway",
                 "channels": [
