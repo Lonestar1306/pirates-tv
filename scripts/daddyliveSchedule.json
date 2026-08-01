@@ -1,5 +1,177 @@
 {
     "Saturday 01st Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "13:00",
+                "event": "\ud83c\udfc1 2026 Zenith Racing Series at Watkins Glen",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "\ud83c\udfc1 2026 Night Under Fire",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83d\udcaa East vs West 25: Batumi",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83e\udd3c GCW: Rude Awakening 2026",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 NASCAR Weekly Racing: Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 2026 Race of Champions Modifieds at Mahoning Valley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 2026 Hondo Classic at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 2026 Big J Vintage Jamboree at Jennerstown",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 World of Outlaws Sprint Cars: Williams Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 Land of Legends Late Models Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "\ud83c\udfc1 2026 IRA Sprints at Plymouth Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfc1 American Sprint Car Series (ASCS): Viking Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfc1 Sharon Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "\ud83c\udfc1 2026 USAC Indiana Sprint Week at Tri-State Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 World of Outlaws Late Models: Cedar Lake Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 ARCA East: Flat Rock Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 The Love-Alive Charity: Great American Clash",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "196"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -4762,6 +4934,10 @@
                     {
                         "channel_name": "VICE TV USA",
                         "channel_id": "659"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
                     }
                 ]
             },
