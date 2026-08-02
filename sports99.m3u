@@ -3179,8 +3179,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20%20Washington%20Nationals%20vs%20Atlanta%20Braves%20%7C%20Sat%201st%20Aug%207%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:35 - MLB - Atlanta Braves vs Washington Nationals (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.05:.Philadelphia.Phillies.vs.Baltimore.Orioles.|.Sat.1st.Aug.7:05.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (MLB 05: Philadelphia Phillies vs Baltimore Orioles | Sat 1st Aug 7:05 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2005%3A%20Philadelphia%20Phillies%20vs%20Baltimore%20Orioles%20%7C%20Sat%201st%20Aug%207%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (MLB | Philadelphia Phillies)
@@ -3217,6 +3215,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2001%3A%20Miami%20Marlins%20vs%20New%20York%20Mets%20%7C%20Sat%201st%20Aug%204%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:40 - MLB - New York Mets vs Miami Marlins (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:40 - MLB - New York Mets vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-08-02 17:40 - MLB - New York Mets vs Miami Marlins (SportsNet New York FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CW.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp",[MLB] 2026-08-02 17:40 - MLB - New York Mets vs Miami Marlins (CW US)
@@ -3235,14 +3235,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Space.City.Home.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 18:10 - MLB - Houston Astros vs Texas Rangers (Space City Home Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Space%20City%20Home%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.08:.New.York.Yankees.vs.Chicago.Cubs.|.Sat.1st.Aug.7:15.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (MLB 08: New York Yankees vs Chicago Cubs | Sat 1st Aug 7:15 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2008%3A%20New%20York%20Yankees%20vs%20Chicago%20Cubs%20%7C%20Sat%201st%20Aug%207%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="YES.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (YES Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",[MLB] 2026-08-02 18:20 - MLB - Chicago Cubs vs New York Yankees (Marquee Sports Network FHD US)
@@ -3299,8 +3297,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 23:20 - MLB - Los Angeles Dodgers vs Boston Red Sox (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-02 23:20 - MLB - Los Angeles Dodgers vs Boston Red Sox (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-08-02 23:20 - MLB - Los Angeles Dodgers vs Boston Red Sox (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-08-02 23:20 - MLB - Los Angeles Dodgers vs Boston Red Sox (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[MLB] 2026-08-02 23:20 - MLB - Los Angeles Dodgers vs Boston Red Sox (RDS CA)
@@ -3377,8 +3375,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:10 - MLB - Houston Astros vs Toronto Blue Jays (TVA Sports QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:10 - MLB - Houston Astros vs Toronto Blue Jays (TVA Sports 2 HD QC)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:40 - MLB - Colorado Rockies vs Tampa Bay Rays (MLB | Colorado Rockies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:40 - MLB - Colorado Rockies vs Tampa Bay Rays (MLB | Tampa Bay Rays)
@@ -3417,8 +3413,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20Plus%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 22:40 - MLB - Cincinnati Reds vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 22:40 - MLB - Cincinnati Reds vs Athletics (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 23:05 - MLB - New York Yankees vs St. Louis Cardinals (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 23:05 - MLB - New York Yankees vs St. Louis Cardinals (MLB | St. Louis Cardinals)
@@ -3433,6 +3427,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20Plus%20US&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 23:15 - MLB - Atlanta Braves vs Miami Marlins (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 23:15 - MLB - Atlanta Braves vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
@@ -3543,6 +3539,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnliv
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:15 - MLB - Atlanta Braves vs Miami Marlins (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:15 - MLB - Atlanta Braves vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
@@ -3609,8 +3607,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20HD%20CA&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (TVA Sports QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 18:20 - MLB - Chicago Cubs vs Toronto Blue Jays (TVA Sports 2 HD QC)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 20:10 - MLB - Seattle Mariners vs Detroit Tigers (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 20:10 - MLB - Seattle Mariners vs Detroit Tigers (MLB | Detroit Tigers)
@@ -3623,6 +3619,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:15 - MLB - Atlanta Braves vs Miami Marlins (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:15 - MLB - Atlanta Braves vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (MLB | Minnesota Twins)
@@ -3667,6 +3665,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:05 - MLB - New York Yankees vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Miami Marlins vs Los Angeles Angels (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Miami Marlins vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (MLB | Boston Red Sox)
@@ -3675,8 +3675,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.Plus.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (NBC Sports California Plus US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20Plus%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:40 - MLB - Chicago White Sox vs Cleveland Guardians (MLB | Chicago White Sox)
@@ -3727,6 +3725,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 19:05 - MLB - New York Yankees vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 20:10 - MLB - Miami Marlins vs Los Angeles Angels (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 20:10 - MLB - Miami Marlins vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 20:10 - MLB - Boston Red Sox vs Athletics (MLB | Boston Red Sox)
@@ -3805,6 +3805,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:35 - MLB - New York Yankees vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:40 - MLB - Miami Marlins vs Los Angeles Angels (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:40 - MLB - Miami Marlins vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 18:10 - MLB - Milwaukee Brewers vs Minnesota Twins (MLB | Milwaukee Brewers)
@@ -3883,6 +3885,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-11 02:10 - MLB - Los Angeles Dodgers vs Kansas City Royals (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-11 22:40 - MLB - Miami Marlins vs Pittsburgh Pirates (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-11 22:40 - MLB - Miami Marlins vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-11 22:40 - MLB - Detroit Tigers vs Cleveland Guardians (MLB | Detroit Tigers)
@@ -3963,6 +3967,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-12 20:10 - MLB - San Diego Padres vs Milwaukee Brewers (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-12 22:40 - MLB - Miami Marlins vs Pittsburgh Pirates (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-12 22:40 - MLB - Miami Marlins vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-12 22:40 - MLB - Detroit Tigers vs Cleveland Guardians (MLB | Detroit Tigers)
@@ -3995,6 +4001,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Ro
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-13 02:10 - MLB - Los Angeles Angels vs Texas Rangers (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-13 17:10 - MLB - Miami Marlins vs Pittsburgh Pirates (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-13 17:10 - MLB - Miami Marlins vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-13 17:10 - MLB - Detroit Tigers vs Cleveland Guardians (MLB | Detroit Tigers)
@@ -4033,6 +4041,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 22:10 - MLB - Cincinnati Reds vs Miami Marlins (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 22:10 - MLB - Cincinnati Reds vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 22:40 - MLB - Pittsburgh Pirates vs Boston Red Sox (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 22:40 - MLB - Pittsburgh Pirates vs Boston Red Sox (MLB | Boston Red Sox)
@@ -4103,6 +4113,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 22:40 - MLB - Cincinnati Reds vs Miami Marlins (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 22:40 - MLB - Cincinnati Reds vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 23:10 - MLB - Minnesota Twins vs Philadelphia Phillies (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 23:10 - MLB - Minnesota Twins vs Philadelphia Phillies (MLB | Philadelphia Phillies)
@@ -4163,6 +4175,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 17:40 - MLB - Cincinnati Reds vs Miami Marlins (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 17:40 - MLB - Cincinnati Reds vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 18:10 - MLB - Minnesota Twins vs Philadelphia Phillies (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 18:10 - MLB - Minnesota Twins vs Philadelphia Phillies (MLB | Philadelphia Phillies)
@@ -4201,6 +4215,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (MLB | St. Louis Cardinals)
@@ -4247,6 +4263,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirat
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 22:40 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 22:40 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 22:40 - MLB - Cleveland Guardians vs San Francisco Giants (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 22:40 - MLB - Cleveland Guardians vs San Francisco Giants (MLB | San Francisco Giants)
@@ -4307,6 +4325,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 22:05 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 22:05 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 22:35 - MLB - Baltimore Orioles vs New York Yankees (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 22:35 - MLB - Baltimore Orioles vs New York Yankees (MLB | New York Yankees)
@@ -4393,6 +4413,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Card
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-21 23:05 - MLB - New York Yankees vs Toronto Blue Jays (MLB | Toronto Blue Jays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-21 23:10 - MLB - Miami Marlins vs Washington Nationals (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-21 23:10 - MLB - Boston Red Sox vs San Francisco Giants (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-21 23:10 - MLB - Boston Red Sox vs San Francisco Giants (MLB | San Francisco Giants)
@@ -4445,6 +4467,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20J
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 18:10 - MLB - Milwaukee Brewers vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 20:10 - MLB - Miami Marlins vs Washington Nationals (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 22:05 - MLB - Philadelphia Phillies vs St. Louis Cardinals (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 22:05 - MLB - Philadelphia Phillies vs St. Louis Cardinals (MLB | St. Louis Cardinals)
@@ -4505,6 +4529,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20J
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 17:35 - MLB - Baltimore Orioles vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 17:40 - MLB - Miami Marlins vs Washington Nationals (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 18:10 - MLB - Kansas City Royals vs Detroit Tigers (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 18:10 - MLB - Kansas City Royals vs Detroit Tigers (MLB | Detroit Tigers)
@@ -4549,6 +4575,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 23:10 - MLB - Milwaukee Brewers vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-24 22:40 - MLB - Miami Marlins vs Boston Red Sox (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-24 22:40 - MLB - Miami Marlins vs Boston Red Sox (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-24 22:40 - MLB - Detroit Tigers vs Tampa Bay Rays (MLB | Detroit Tigers)
@@ -4585,6 +4613,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 01:45 - MLB - San Francisco Giants vs Cincinnati Reds (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 22:40 - MLB - Miami Marlins vs Boston Red Sox (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 22:40 - MLB - Miami Marlins vs Boston Red Sox (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 22:40 - MLB - Detroit Tigers vs Tampa Bay Rays (MLB | Detroit Tigers)
@@ -4665,6 +4695,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 20:10 - MLB - San Diego Padres vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 22:40 - MLB - Miami Marlins vs Boston Red Sox (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 22:40 - MLB - Miami Marlins vs Boston Red Sox (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 22:45 - MLB - Washington Nationals vs Colorado Rockies (MLB | Colorado Rockies)
@@ -4731,6 +4763,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 22:40 - MLB - Detroit Tigers vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 22:45 - MLB - Washington Nationals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 23:10 - MLB - New York Mets vs Houston Astros (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 23:10 - MLB - New York Mets vs Houston Astros (MLB | Houston Astros)
@@ -4819,6 +4853,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 19:07 - MLB - Toronto Blue Jays vs Seattle Mariners (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:05 - MLB - Washington Nationals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:05 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:05 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
@@ -4859,6 +4895,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Oriole
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 02:07 - MLB - Los Angeles Angels vs Philadelphia Phillies (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 16:15 - MLB - Washington Nationals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 17:35 - MLB - New York Yankees vs Boston Red Sox (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 17:35 - MLB - New York Yankees vs Boston Red Sox (MLB | Boston Red Sox)
@@ -4927,6 +4965,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-31 22:40 - MLB - Cincinnati Reds vs San Diego Padres (MLB | San Diego Padres)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-31 22:45 - MLB - Washington Nationals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-31 22:45 - MLB - Boston Red Sox vs Seattle Mariners (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-31 22:45 - MLB - Boston Red Sox vs Seattle Mariners (MLB | Seattle Mariners)
@@ -4987,6 +5027,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Milwaukee Brewers)
@@ -5055,6 +5097,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Milwaukee Brewers)
@@ -5093,6 +5137,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-04 00:05 - MLB - Texas Rangers vs Tampa Bay Rays (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-04 00:05 - MLB - Texas Rangers vs Tampa Bay Rays (MLB | Tampa Bay Rays)
@@ -5129,6 +5175,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-04 23:10 - MLB - Cleveland Guardians vs Detroit Tigers (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-04 23:10 - MLB - Miami Marlins vs Chicago Cubs (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-04 23:10 - MLB - Miami Marlins vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-04 23:10 - MLB - New York Mets vs San Francisco Giants (MLB | New York Mets)
@@ -5165,6 +5213,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Do
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 02:10 - MLB - Seattle Mariners vs Athletics (MLB | Oakland Athletics)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 20:10 - MLB - Miami Marlins vs Chicago Cubs (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 20:10 - MLB - Miami Marlins vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 20:10 - MLB - New York Mets vs San Francisco Giants (MLB | New York Mets)
@@ -5241,6 +5291,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - Cleveland Guardians vs Detroit Tigers (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - Miami Marlins vs Chicago Cubs (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - Miami Marlins vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 17:40 - MLB - New York Mets vs San Francisco Giants (MLB | New York Mets)
@@ -5281,6 +5333,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Do
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:05 - MLB - Philadelphia Phillies vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:10 - MLB - Miami Marlins vs New York Mets (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:10 - MLB - Miami Marlins vs New York Mets (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-09-07 17:10 - MLB - Miami Marlins vs New York Mets (SportsNet New York FHD US)
@@ -5299,8 +5353,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[MLB] 2026-09-07 17:35 - MLB - Boston Red Sox vs Los Angeles Angels (RDS CA)
@@ -5347,6 +5401,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 22:40 - MLB - Detroit Tigers vs Minnesota Twins (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 22:40 - MLB - Miami Marlins vs New York Mets (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 22:40 - MLB - Miami Marlins vs New York Mets (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-09-08 22:40 - MLB - Miami Marlins vs New York Mets (SportsNet New York FHD US)
@@ -5361,8 +5417,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-08 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-08 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-09-08 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[MLB] 2026-09-08 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (RDS CA)
@@ -5431,6 +5487,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 22:35 - MLB - Baltimore Orioles vs Cleveland Guardians (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 22:40 - MLB - Miami Marlins vs New York Mets (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 22:40 - MLB - Miami Marlins vs New York Mets (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-09-09 22:40 - MLB - Miami Marlins vs New York Mets (SportsNet New York FHD US)
@@ -5449,8 +5507,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-09 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-09 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-09-09 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[MLB] 2026-09-09 22:45 - MLB - Boston Red Sox vs Los Angeles Angels (RDS CA)
@@ -5525,6 +5583,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Oriole
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Boston Red Sox vs Kansas City Royals (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-11 23:10 - MLB - Tampa Bay Rays vs Houston Astros (MLB | Tampa Bay Rays)
@@ -5585,6 +5645,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 20:10 - MLB - Boston Red Sox vs Kansas City Royals (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 20:10 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 20:10 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 20:10 - MLB - Minnesota Twins vs Cleveland Guardians (MLB | Minnesota Twins)
@@ -5637,6 +5699,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 17:37 - MLB - Toronto Blue Jays vs Baltimore Orioles (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 17:40 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 17:40 - MLB - Miami Marlins vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 17:40 - MLB - Tampa Bay Rays vs Houston Astros (MLB | Tampa Bay Rays)
@@ -5709,6 +5773,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Milwaukee Brewers)
@@ -5765,6 +5831,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20An
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 17:10 - MLB - Cleveland Guardians vs Chicago White Sox (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 17:10 - MLB - Cleveland Guardians vs Chicago White Sox (MLB | Chicago White Sox)
@@ -5875,8 +5943,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2014%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.17.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 17 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2017%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.20.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 20 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 26 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.28.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 28 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
@@ -5909,8 +5975,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2014%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.17.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 17 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2017%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.20.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 20 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 26 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.28.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 28 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
@@ -5927,6 +5991,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.04.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 04 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2004%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 21 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.23.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 23 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -5943,22 +6009,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.07.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 07 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 32 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.15.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 15 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2029%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.04.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 04 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2004%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 21 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.23.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 23 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -5977,22 +6041,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 32 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.15.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 15 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2029%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.04.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 04 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2004%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 21 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.23.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 23 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6011,16 +6073,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 32 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.15.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 15 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6031,6 +6089,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.04.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 04 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2004%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 21 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.23.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 23 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6049,16 +6109,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 32 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.15.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 15 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6071,6 +6127,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6091,8 +6149,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6113,6 +6169,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6129,8 +6187,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6145,6 +6201,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6161,8 +6219,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6179,6 +6235,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6195,46 +6253,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.28.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 28 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6253,6 +6271,46 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.28.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 28 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.05.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 05 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2005%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6273,8 +6331,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.30.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 30 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2030%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6575,8 +6631,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-06 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-06 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-07 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-07 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6585,8 +6639,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-07 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-07 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-08 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-08 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6595,8 +6647,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-08 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-08 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-09 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-09 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6605,8 +6655,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-09 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-09 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6615,8 +6663,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6625,8 +6671,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-13 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6635,8 +6679,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6645,8 +6687,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6655,8 +6695,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6665,8 +6703,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-15 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-16 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-16 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6675,8 +6711,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-16 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-16 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-19 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-19 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6685,8 +6719,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-19 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-19 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6695,8 +6727,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6705,8 +6735,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-20 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6715,8 +6743,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6725,8 +6751,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-21 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-22 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-22 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6735,8 +6759,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-22 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-22 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-23 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-23 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6745,8 +6767,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-23 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-23 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6755,8 +6775,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6765,8 +6783,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6775,8 +6791,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6785,8 +6799,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6795,8 +6807,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6805,8 +6815,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
@@ -6815,8 +6823,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-08 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-08 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6825,8 +6831,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-08 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-08 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-09 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-09 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6835,8 +6839,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-09 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-09 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-10 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-10 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6845,8 +6847,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-10 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-10 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-15 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-15 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6855,8 +6855,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-15 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-15 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6865,8 +6863,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-17 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-17 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6875,8 +6871,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-17 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-17 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-29 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-29 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6885,8 +6879,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-29 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-29 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-30 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-30 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6895,8 +6887,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-30 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-09-30 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-01 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-01 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6905,8 +6895,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-01 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-01 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6915,8 +6903,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6925,8 +6911,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-07 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6935,8 +6919,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Sky Sports Golf HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Sky Sports Golf UK)
@@ -6945,8 +6927,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Golf+ HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-10-08 00:00 - ProGolf Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP OB4 (D))
