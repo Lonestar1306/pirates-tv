@@ -1,5 +1,27 @@
 {
     "Monday 03rd Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfce\ufe0f \ud83c\uddfa\ud83c\uddf8 Wild Thing Kart Series: Stafford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfcd\ufe0f \ud83c\uddfa\ud83c\uddf8 AMA Loretta Lynn National Motocross Championship",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1240,6 +1262,14 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
                     }
                 ]
             },
@@ -1306,6 +1336,30 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n : Recoleta vs Nacional Asunci\u00f3n",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Uruguay Segunda Division : Paysandu vs Oriental",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
                     }
                 ]
             },
@@ -1332,6 +1386,14 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
                     }
                 ]
             },
@@ -1346,6 +1408,20 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
+                    }
+                ]
+            },
+            {
+                "time": "18:57",
+                "event": "Uruguay Liga AUF Uruguaya, Intermedio, Serie A : Defender Sporting vs Cerro",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7060"
                     }
                 ]
             },
@@ -1360,6 +1436,14 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
                     }
                 ]
             },
@@ -1370,6 +1454,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
                     }
                 ]
             },
@@ -1380,6 +1468,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7064"
                     }
                 ]
             },
@@ -1394,6 +1486,14 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7067"
                     }
                 ]
             },
@@ -1408,6 +1508,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7068"
                     }
                 ]
             },
