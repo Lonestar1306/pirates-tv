@@ -2020,6 +2020,100 @@
                 ]
             }
         ],
+        "Tennis \ud83c\udfbe ATP Montreal (Canada), Hard": [
+            {
+                "time": "15:00",
+                "event": "Tennis ATP Montreal Center Court",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7001"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis ATP Montreal Rogers Court",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7002"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis ATP Montreal Court 2",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7003"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis ATP Montreal Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7004"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis ATP Montreal Court 9",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7005"
+                    }
+                ]
+            }
+        ],
+        "Tennis \ud83c\udfbe WTA Toronto (Canada), Hard": [
+            {
+                "time": "15:00",
+                "event": "Tennis WTA Toronto Centre Court",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis WTA Toronto Grandstand",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7007"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis WTA Toronto Court 1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7008"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tennis WTA Toronto Court 4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "7009"
+                    }
+                ]
+            }
+        ],
         "ATP Montreal / \ud83c\udfbe WTA Montreal / \ud83c\udfbe ATP Toronto / \ud83c\udfbe WTA Toronto": [
             {
                 "time": "15:00",
