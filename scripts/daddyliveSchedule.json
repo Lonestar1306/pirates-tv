@@ -2,9 +2,13 @@
     "Saturday 08th Aug 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "16:00",
+                "time": "13:00",
                 "event": "AMA Motocross Championship at Loretta Lynn's - Day 5",
                 "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "168"
+                    },
                     {
                         "channel_name": "Flowracing",
                         "channel_id": "2001"
@@ -12,10 +16,10 @@
                 ]
             }
         ],
-        "Big Brother ??? 28 LIVE CAMERA FEEDS": [
+        "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
-                "event": "?? Big Brother ??? 28 Live Feeds Cam 1",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 1",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -25,7 +29,7 @@
             },
             {
                 "time": "18:30",
-                "event": "?? Big Brother ??? 28 Live Feeds Cam 2",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 2",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -35,7 +39,7 @@
             },
             {
                 "time": "18:30",
-                "event": "?? Big Brother ??? 28 Live Feeds Cam 3",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 3",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -45,7 +49,7 @@
             },
             {
                 "time": "18:30",
-                "event": "?? Big Brother ??? 28 Live Feeds Cam 4",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 4",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -55,7 +59,7 @@
             },
             {
                 "time": "18:30",
-                "event": "?? Big Brother ??? 28 Live Feeds Quadview",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Quadview",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -67,7 +71,7 @@
         "Upcoming Events": [
             {
                 "time": "06:00",
-                "event": "??????? Formula 1 Dutch Grand Prix | Zandvoort, Netherlands | 21\u201323 August 2026",
+                "event": "\ud83c\udfce\ufe0f\ud83c\uddf3\ud83c\uddf1 Formula 1 Dutch Grand Prix | Zandvoort, Netherlands | 21\u201323 August 2026",
                 "channels": [
                     {
                         "channel_name": "Sky Sports F1 UK",
@@ -77,7 +81,7 @@
             },
             {
                 "time": "07:00",
-                "event": "??? Start of 2026 | 27 Premier League Season UK | 22 August 2026",
+                "event": "\u26bd\ud83c\udff4 Start of 2026 | 27 Premier League Season UK | 22 August 2026",
                 "channels": [
                     {
                         "channel_name": "Sky Sports Premier League",
@@ -95,7 +99,7 @@
             },
             {
                 "time": "11:30",
-                "event": "?????? US Open | New York, USA | 23 August\u201313 September 2026",
+                "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 US Open | New York, USA | 23 August\u201313 September 2026",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
@@ -113,7 +117,7 @@
             },
             {
                 "time": "12:00",
-                "event": "??????? British Grand Prix (MotoGP) | Silverstone, UK | 7\u20139 August 2026",
+                "event": "\ud83c\udfcd\ufe0f\ud83c\uddec\ud83c\udde7 British Grand Prix (MotoGP) | Silverstone, UK | 7\u20139 August 2026",
                 "channels": [
                     {
                         "channel_name": "CANAL+ MotoGP France",
@@ -123,7 +127,7 @@
             },
             {
                 "time": "12:30",
-                "event": "?????? Lausanne Diamond League | Lausanne, Switzerland | 21 August 2026",
+                "event": "\ud83c\udfc3\ud83c\udde8\ud83c\udded Lausanne Diamond League | Lausanne, Switzerland | 21 August 2026",
                 "channels": [
                     {
                         "channel_name": "Eurosport 1 GR",
@@ -133,7 +137,7 @@
             },
             {
                 "time": "12:30",
-                "event": "????? Africa Women Cup of Nations | Morocco | 26 July\u201316 August 2026",
+                "event": "\u26bd\ud83c\uddf2\ud83c\udde6 Africa Women Cup of Nations | Morocco | 26 July\u201316 August 2026",
                 "channels": [
                     {
                         "channel_name": "SuperSport Football",
@@ -147,7 +151,7 @@
             },
             {
                 "time": "17:00",
-                "event": "?????? National Bank Open Montreal (ATP) | Montreal, Canada | 1\u201313 August 2026",
+                "event": "\ud83c\udfbe\ud83c\udde8\ud83c\udde6 National Bank Open Montreal (ATP) | Montreal, Canada | 1\u201313 August 2026",
                 "channels": [
                     {
                         "channel_name": "Tennis Channel",
@@ -157,7 +161,7 @@
             },
             {
                 "time": "17:00",
-                "event": "?????? National Bank Open Toronto (WTA) | Toronto, Canada | 1\u201313 August 2026",
+                "event": "\ud83c\udfbe\ud83c\udde8\ud83c\udde6 National Bank Open Toronto (WTA) | Toronto, Canada | 1\u201313 August 2026",
                 "channels": [
                     {
                         "channel_name": "Sky Sports Tennis",
@@ -167,7 +171,7 @@
             },
             {
                 "time": "17:00",
-                "event": "?????? Cincinnati Open (Tennis) | Cincinnati, OH, USA | 11\u201323 August 2026",
+                "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 Cincinnati Open (Tennis) | Cincinnati, OH, USA | 11\u201323 August 2026",
                 "channels": [
                     {
                         "channel_name": "Tennis Channel",
@@ -177,7 +181,7 @@
             },
             {
                 "time": "03:30",
-                "event": "?????? FIG Rhythmic Gymnastics World Championships | Frankfurt, Germany | 12\u201316 August 2026",
+                "event": "\ud83e\udd38\ud83c\udde9\ud83c\uddea FIG Rhythmic Gymnastics World Championships | Frankfurt, Germany | 12\u201316 August 2026",
                 "channels": [
                     {
                         "channel_name": "Eurosport 1 GR",
@@ -191,7 +195,7 @@
             },
             {
                 "time": "03:30",
-                "event": "?????? Saturday Night Live (SNL USA)",
+                "event": "\ud83d\udcfa\ud83c\uddfa\ud83c\uddf8 Saturday Night Live (SNL USA)",
                 "channels": [
                     {
                         "channel_name": "Sky One USA",
@@ -208,10 +212,10 @@
                 ]
             }
         ],
-        "TV Shows ??": [
+        "TV Shows \ud83d\udcfa": [
             {
                 "time": "13:30",
-                "event": "?? Hacky Sack 2026 Championship \u2013 New",
+                "event": "\ud83c\udfaf Hacky Sack 2026 Championship \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -221,7 +225,7 @@
             },
             {
                 "time": "15:00",
-                "event": "?? Bullshooter Invitational V \u2013 New",
+                "event": "\ud83c\udfaf Bullshooter Invitational V \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -231,7 +235,7 @@
             },
             {
                 "time": "15:00",
-                "event": "?? Zombie House Flipping: Family Business \u2013 S1, E10 \u2022 Finale",
+                "event": "\ud83d\udcfa Zombie House Flipping: Family Business \u2013 S1, E10 \u2022 Finale",
                 "channels": [
                     {
                         "channel_name": "A&E USA",
@@ -241,7 +245,7 @@
             },
             {
                 "time": "16:30",
-                "event": "?? Million Dollar Mountain Homes \u2013 S1, E20 \u2022 Finale",
+                "event": "\ud83d\udcfa Million Dollar Mountain Homes \u2013 S1, E20 \u2022 Finale",
                 "channels": [
                     {
                         "channel_name": "A&E USA",
@@ -251,7 +255,7 @@
             },
             {
                 "time": "18:00",
-                "event": "??? United Grid League: New York Wolves vs. Tampa Bay Brigade",
+                "event": "\ud83c\udfcb\ufe0f United Grid League: New York Wolves vs. Tampa Bay Brigade",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -261,7 +265,7 @@
             },
             {
                 "time": "19:00",
-                "event": "?? The World Axe and Knife Throwing Championship IX \u2013 New",
+                "event": "\ud83e\ude93 The World Axe and Knife Throwing Championship IX \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -271,7 +275,7 @@
             },
             {
                 "time": "19:00",
-                "event": "?? Totally Funny Animals \u2013 S2, E13",
+                "event": "\ud83d\udcfa Totally Funny Animals \u2013 S2, E13",
                 "channels": [
                     {
                         "channel_name": "CW USA",
@@ -285,7 +289,7 @@
             },
             {
                 "time": "20:00",
-                "event": "? 2026 OmegaBall Men's Championship \u2013 New",
+                "event": "\u26bd 2026 OmegaBall Men's Championship \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -295,7 +299,7 @@
             },
             {
                 "time": "22:00",
-                "event": "?? B1G Football Training Camp: Wisconsin",
+                "event": "\ud83c\udfc8 B1G Football Training Camp: Wisconsin",
                 "channels": [
                     {
                         "channel_name": "BTN USA",
@@ -305,7 +309,7 @@
             },
             {
                 "time": "00:00",
-                "event": "?? Heart & Hustle: Houston \u2013 S2, E11",
+                "event": "\ud83d\udcfa Heart & Hustle: Houston \u2013 S2, E11",
                 "channels": [
                     {
                         "channel_name": "OWN USA",
@@ -315,7 +319,7 @@
             },
             {
                 "time": "00:00",
-                "event": "?? The Real Murders of Atlanta \u2013 S4, E5",
+                "event": "\ud83d\udcfa The Real Murders of Atlanta \u2013 S4, E5",
                 "channels": [
                     {
                         "channel_name": "Oxygen True Crime",
@@ -325,7 +329,7 @@
             },
             {
                 "time": "00:00",
-                "event": "?? On Patrol: First Shift \u2013 S5, E10",
+                "event": "\ud83d\udcfa On Patrol: First Shift \u2013 S5, E10",
                 "channels": [
                     {
                         "channel_name": "Reelz Channel",
@@ -335,7 +339,7 @@
             },
             {
                 "time": "00:00",
-                "event": "??? Fling Golf Lowcountry Open \u2013 New",
+                "event": "\ud83c\udfcc\ufe0f Fling Golf Lowcountry Open \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -345,7 +349,7 @@
             },
             {
                 "time": "00:00",
-                "event": "?? Ultimate Shark Dive \u2013 New",
+                "event": "\ud83e\udd88 Ultimate Shark Dive \u2013 New",
                 "channels": [
                     {
                         "channel_name": "Animal Planet",
@@ -355,7 +359,7 @@
             },
             {
                 "time": "00:30",
-                "event": "?? Pro Paintball 3v3 National Championship \u2013 New",
+                "event": "\ud83c\udfa8 Pro Paintball 3v3 National Championship \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -365,7 +369,7 @@
             },
             {
                 "time": "01:00",
-                "event": "?? Red Bull Flugtag: Dallas \u2013 New",
+                "event": "\ud83e\ude82 Red Bull Flugtag: Dallas \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -375,7 +379,7 @@
             },
             {
                 "time": "01:00",
-                "event": "?? To Catch a Smuggler \u2013 S10",
+                "event": "\ud83d\udcfa To Catch a Smuggler \u2013 S10",
                 "channels": [
                     {
                         "channel_name": "National Geographic (NGC)",
@@ -385,7 +389,7 @@
             },
             {
                 "time": "01:00",
-                "event": "?? On Patrol: Live \u2013 S5, E10",
+                "event": "\ud83d\udcfa On Patrol: Live \u2013 S5, E10",
                 "channels": [
                     {
                         "channel_name": "Reelz Channel",
@@ -395,7 +399,7 @@
             },
             {
                 "time": "01:00",
-                "event": "?? Ghost Adventures \u2013 S30, E15",
+                "event": "\ud83d\udcfa Ghost Adventures \u2013 S30, E15",
                 "channels": [
                     {
                         "channel_name": "Travel Channel",
@@ -405,7 +409,7 @@
             },
             {
                 "time": "01:00",
-                "event": "?? Biggest Mako on Earth \u2013 New",
+                "event": "\ud83e\udd88 Biggest Mako on Earth \u2013 New",
                 "channels": [
                     {
                         "channel_name": "Animal Planet",
@@ -415,7 +419,7 @@
             },
             {
                 "time": "02:00",
-                "event": "?? Original Gangsters With Sean Bean \u2013 S1, E2",
+                "event": "\ud83d\udcfa Original Gangsters With Sean Bean \u2013 S1, E2",
                 "channels": [
                     {
                         "channel_name": "Sundance TV USA",
@@ -425,7 +429,7 @@
             },
             {
                 "time": "02:00",
-                "event": "?? Sharkzilla Takes New York \u2013 New",
+                "event": "\ud83e\udd88 Sharkzilla Takes New York \u2013 New",
                 "channels": [
                     {
                         "channel_name": "Animal Planet",
@@ -435,7 +439,7 @@
             },
             {
                 "time": "02:00",
-                "event": "?? World's Most Iconic Animals \u2013 S1, E5",
+                "event": "\ud83d\udcfa World's Most Iconic Animals \u2013 S1, E5",
                 "channels": [
                     {
                         "channel_name": "Nat Geo Wild USA",
@@ -445,7 +449,7 @@
             },
             {
                 "time": "02:00",
-                "event": "?? PBR Team Series Freedom Days",
+                "event": "\ud83d\udc02 PBR Team Series Freedom Days",
                 "channels": [
                     {
                         "channel_name": "CW USA",
@@ -459,7 +463,7 @@
             },
             {
                 "time": "02:30",
-                "event": "?? Bare Knuckle Fighting: Ice Wars \u2013 New",
+                "event": "\ud83e\udd4a Bare Knuckle Fighting: Ice Wars \u2013 New",
                 "channels": [
                     {
                         "channel_name": "ESPN2 USA",
@@ -468,10 +472,10 @@
                 ]
             }
         ],
-        "EFL Cup Soccer ?": [
+        "EFL Cup Soccer \u26bd": [
             {
                 "time": "12:00",
-                "event": "? ?? EFL Cup : Cambridge United ?? vs Barnet ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Cambridge United vs Barnet",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -493,7 +497,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ?? EFL Cup : Queens Park Rangers ?? vs Millwall ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Queens Park Rangers vs Millwall",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -535,7 +539,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : AFC Wimbledon ?? vs Newport County ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: AFC Wimbledon vs Newport County",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -545,7 +549,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Bristol Rovers ?? vs Peterborough United ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Bristol Rovers vs Peterborough United",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -555,7 +559,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Bromley ?? vs Reading ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Bromley vs Reading",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -565,7 +569,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Burnley ?? vs Notts County ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Burnley vs Notts County",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -587,7 +591,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Burton Albion ?? vs Blackburn Rovers ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Burton Albion vs Blackburn Rovers",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -597,7 +601,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Cardiff City ?? vs Swindon Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Cardiff City vs Swindon Town",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -607,7 +611,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Crewe Alexandra ?? vs Accrington Stanley ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Crewe Alexandra vs Accrington Stanley",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -617,7 +621,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Derby County ?? vs Lincoln City ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Derby County vs Lincoln City",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -643,7 +647,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Fleetwood Town ?? vs Chesterfield ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Fleetwood Town vs Chesterfield",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -653,7 +657,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Gillingham ?? vs Luton Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Gillingham vs Luton Town",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -663,7 +667,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Grimsby Town ?? vs Blackpool ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Grimsby Town vs Blackpool",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -677,7 +681,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Leicester City ?? vs Northampton Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Leicester City vs Northampton Town",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -703,7 +707,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Leyton Orient ?? vs Oxford United ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Leyton Orient vs Oxford United",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -713,7 +717,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Norwich City ?? vs Milton Keynes Dons ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Norwich City vs Milton Keynes Dons",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -727,7 +731,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Preston North End ?? vs Huddersfield Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Preston North End vs Huddersfield Town",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -737,7 +741,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Salford City ?? vs Shrewsbury Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Salford City vs Shrewsbury Town",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -747,7 +751,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Sheffield Wednesday ?? vs Bolton Wanderers ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Sheffield Wednesday vs Bolton Wanderers",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -761,7 +765,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Stockport County ?? vs Doncaster Rovers ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Stockport County vs Doncaster Rovers",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -771,7 +775,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Stoke City ?? vs Oldham Athletic ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Stoke City vs Oldham Athletic",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -781,7 +785,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Swansea City ?? vs Birmingham City ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Swansea City vs Birmingham City",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -827,7 +831,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : West Ham United ?? vs Portsmouth ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: West Ham United vs Portsmouth",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -893,7 +897,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Barnsley ?? vs Wigan Athletic ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Barnsley vs Wigan Athletic",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -903,7 +907,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Watford ?? vs Crawley Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Watford vs Crawley Town",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -913,7 +917,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? EFL Cup : Bradford City ?? vs Rochdale ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Bradford City vs Rochdale",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -923,7 +927,7 @@
             },
             {
                 "time": "16:30",
-                "event": "? ?? EFL Cup : Cheltenham Town ?? vs Charlton Athletic ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Cheltenham Town vs Charlton Athletic",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -933,7 +937,7 @@
             },
             {
                 "time": "16:30",
-                "event": "? ?? EFL Cup : Colchester United ?? vs Southampton ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Colchester United vs Southampton",
                 "channels": [
                     {
                         "channel_name": "Sky Sports Football",
@@ -991,7 +995,7 @@
             },
             {
                 "time": "16:30",
-                "event": "? ?? EFL Cup : Rotherham United ?? vs West Bromwich Albion ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f EFL Cup: Rotherham United vs West Bromwich Albion",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -1012,10 +1016,10 @@
                 ]
             }
         ],
-        "National League ?": [
+        "National League \u26bd": [
             {
                 "time": "14:00",
-                "event": "? ?? National League : Fylde ?? vs Wealdstone ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Fylde vs Wealdstone",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1025,7 +1029,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Altrincham ?? vs Southend United ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Altrincham vs Southend United",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1035,7 +1039,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Boreham Wood ?? vs Tamworth ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Boreham Wood vs Tamworth",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1045,7 +1049,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Boston United ?? vs Aldershot Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Boston United vs Aldershot Town",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1055,7 +1059,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Carlisle United ?? vs Worthing ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Carlisle United vs Worthing",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1065,7 +1069,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Eastleigh ?? vs Gateshead ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Eastleigh vs Gateshead",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1075,7 +1079,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Forest Green Rovers ?? vs Halifax Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Forest Green Rovers vs Halifax Town",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1085,7 +1089,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Harrogate Town ?? vs Solihull Moors ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Harrogate Town vs Solihull Moors",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1095,7 +1099,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Hartlepool United ?? vs Barrow ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Hartlepool United vs Barrow",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1105,7 +1109,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : AFC Hornchurch ?? vs Kidderminster Harriers ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: AFC Hornchurch vs Kidderminster Harriers",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1115,7 +1119,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Scunthorpe United ?? vs Yeovil Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Scunthorpe United vs Yeovil Town",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1125,7 +1129,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League : Woking ?? vs Sutton United ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League: Woking vs Sutton United",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1135,7 +1139,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League North : Darlington ?? vs Worksop Town ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League North: Darlington vs Worksop Town",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1145,7 +1149,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League North : Scarborough Athletic ?? vs South Shields ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League North: Scarborough Athletic vs South Shields",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1155,7 +1159,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? National League South : Dorking Wanderers ?? vs Dagenham &amp; Redbridge ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f National League South: Dorking Wanderers vs Dagenham & Redbridge",
                 "channels": [
                     {
                         "channel_name": "DAZN USA",
@@ -1164,10 +1168,10 @@
                 ]
             }
         ],
-        "Scotland Premiership ?": [
+        "Scotland Premiership \u26bd": [
             {
                 "time": "14:00",
-                "event": "? ?? Scotland Premiership : Dundee ?? vs Aberdeen ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scotland Premiership: Dundee vs Aberdeen",
                 "channels": [
                     {
                         "channel_name": "SPFL Feed",
@@ -1177,7 +1181,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? Scotland Premiership : St. Mirren ?? vs St. Johnstone ??",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scotland Premiership: St. Mirren vs St. Johnstone",
                 "channels": [
                     {
                         "channel_name": "SPFL Feed",
@@ -1186,10 +1190,10 @@
                 ]
             }
         ],
-        "All Soccer Events ?": [
+        "All Soccer Events \u26bd": [
             {
                 "time": "04:00",
-                "event": "? ???? Pre Season Friendly (Women) 2026 : Chelsea ???? vs Auckland FC ????",
+                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Pre-Season Friendly (Women) 2026: Chelsea vs \ud83c\uddf3\ud83c\uddff Auckland FC",
                 "channels": [
                     {
                         "channel_name": "beIN Sports Malaysia",
@@ -1199,7 +1203,7 @@
             },
             {
                 "time": "08:00",
-                "event": "? ???? Romania Liga II : Concordia Chiajna ???? vs FC Bihor Oradea ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Liga II: Concordia Chiajna vs FC Bihor Oradea",
                 "channels": [
                     {
                         "channel_name": "Digi Sport 1 Romania",
@@ -1209,7 +1213,7 @@
             },
             {
                 "time": "08:30",
-                "event": "? ???? Poland Ekstraklasa Women : Pogon Szczecin ???? vs G\u00f3rnik Leczna ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland Ekstraklasa Women: Pogo\u0144 Szczecin vs G\u00f3rnik \u0141\u0119czna",
                 "channels": [
                     {
                         "channel_name": "TVP Sport Poland",
@@ -1219,7 +1223,7 @@
             },
             {
                 "time": "09:00",
-                "event": "? ???? Russia FNL : Yenisey ???? vs Tekstilshchik ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia FNL: Yenisey vs Tekstilshchik",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
@@ -1229,7 +1233,7 @@
             },
             {
                 "time": "10:00",
-                "event": "? ???? Portugal Segunda Liga : Chaves ???? vs Acad\u00e9mica ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Segunda Liga: Chaves vs Acad\u00e9mica",
                 "channels": [
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -1247,7 +1251,7 @@
             },
             {
                 "time": "10:00",
-                "event": "? ???? Ukrainian Premier League : Chornomorets ???? vs Kolos Kovalivka ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukrainian Premier League: Chornomorets vs Kolos Kovalivka",
                 "channels": [
                     {
                         "channel_name": "UPL.TV",
@@ -1257,7 +1261,7 @@
             },
             {
                 "time": "10:00",
-                "event": "? ???? Portugal Liga 3 : UD Oliveirense ???? vs Louletano ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Liga 3: UD Oliveirense vs Louletano",
                 "channels": [
                     {
                         "channel_name": "Canal 11 Portugal",
@@ -1267,7 +1271,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Germany Bundesliga 2 : Multiview",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Multiview",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 6",
@@ -1277,7 +1281,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Germany Bundesliga 2 : Simulcast",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Simulcast",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 1",
@@ -1291,7 +1295,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Germany Bundesliga 2 : Darmstadt 98 ???? vs Holstein Kiel ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Darmstadt 98 vs Holstein Kiel",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 3",
@@ -1341,7 +1345,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Germany Bundesliga 2 : Heidenheim ???? vs Osnabr\u00fcck ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Heidenheim vs Osnabr\u00fcck",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 2",
@@ -1383,7 +1387,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Germany Bundesliga 2 : Karlsruher SC ???? vs Arminia Bielefeld ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Karlsruher SC vs Arminia Bielefeld",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 4",
@@ -1437,7 +1441,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Germany Bundesliga 2 : Magdeburg ???? vs Eintracht Braunschweig ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Magdeburg vs Eintracht Braunschweig",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 5",
@@ -1483,7 +1487,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Sweden Superettan : Ljungskile ???? vs Oddevold ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan: Ljungskile vs Oddevold",
                 "channels": [
                     {
                         "channel_name": "TV4 Sportkanalen",
@@ -1493,7 +1497,7 @@
             },
             {
                 "time": "11:35",
-                "event": "? ???? China Super League : Dalian Young Boy ???? vs Liaoning Tieren ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China Super League: Dalian Young Boy vs Liaoning Tieren",
                 "channels": [
                     {
                         "channel_name": "GOL Play Spain",
@@ -1503,7 +1507,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? German 3. Liga : Simulcast",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: Simulcast",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 301",
@@ -1513,7 +1517,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? German 3. Liga : MSV Duisburg ???? vs Meppen ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: MSV Duisburg vs Meppen",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 302",
@@ -1539,7 +1543,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? German 3. Liga : Ingolstadt ???? vs FC W\u00fcrzburger Kickers ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: Ingolstadt vs FC W\u00fcrzburger Kickers",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 306",
@@ -1561,7 +1565,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? German 3. Liga : Havelse ???? vs Stuttgart II ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: Havelse vs Stuttgart II",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 305",
@@ -1579,7 +1583,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? German 3. Liga : FC Viktoria K\u00f6ln ???? vs SSV Jahn Regensburg ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: FC Viktoria K\u00f6ln vs SSV Jahn Regensburg",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 304",
@@ -1597,7 +1601,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? German 3. Liga : SV Wehen Wiesbaden ???? vs SC Preu\u00dfen M\u00fcnster ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: SV Wehen Wiesbaden vs SC Preu\u00dfen M\u00fcnster",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 303",
@@ -1619,7 +1623,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? Denmark 1st Division : Aarhus Fremad vs Koge",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Denmark 1st Division: Aarhus Fremad vs Koge",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
@@ -1629,7 +1633,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? CSL : Yunnan Yukun vs Chengdu Rongcheng",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 CSL: Yunnan Yukun vs Chengdu Rongcheng",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
@@ -1639,7 +1643,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? CSL : Zhejiang Professional vs Wuhan Three Towns",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 CSL: Zhejiang Professional vs Wuhan Three Towns",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
@@ -1649,7 +1653,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? CSL : Dalian Yingbo vs Liaoning Tieren",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 CSL: Dalian Yingbo vs Liaoning Tieren",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
@@ -1659,7 +1663,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ???? Kazakhstan Premier League : Altai ???? vs Kyzyl-Zhar ????",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League: Altai vs Kyzyl-Zhar",
                 "channels": [
                     {
                         "channel_name": "Qazsport",
@@ -1669,7 +1673,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? Norway Eliteserien, : V\u00e5lerenga vs Bod\u00f8 / Glimt",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien: V\u00e5lerenga vs Bod\u00f8/Glimt",
                 "channels": [
                     {
                         "channel_name": "TV 2 Play Norway",
@@ -1683,7 +1687,7 @@
             },
             {
                 "time": "12:30",
-                "event": "? ???? Russia Premier League : Krylya Sovetov ???? vs Baltika ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia Premier League: Krylya Sovetov vs Baltika",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
@@ -1697,7 +1701,7 @@
             },
             {
                 "time": "12:30",
-                "event": "? ???? Ukrainian Premier League : Livyi Bereh ???? vs Kudrivka ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukrainian Premier League: Livyi Bereh vs Kudrivka",
                 "channels": [
                     {
                         "channel_name": "UPL.TV",
@@ -1711,7 +1715,7 @@
             },
             {
                 "time": "12:30",
-                "event": "? ???? Germany Amateur Regionalliga Northeast : Lokomotive Leipzig ???? vs Hertha BSC II ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Amateur Regionalliga Northeast: Lokomotive Leipzig vs Hertha BSC II",
                 "channels": [
                     {
                         "channel_name": "MDR DE",
@@ -1725,7 +1729,7 @@
             },
             {
                 "time": "12:45",
-                "event": "? ???? Poland Ekstraklasa : Radomiak Radom ???? vs G\u00f3rnik Zabrze ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland Ekstraklasa: Radomiak Radom vs G\u00f3rnik Zabrze",
                 "channels": [
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
@@ -1755,7 +1759,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ???? Portugal Segunda Liga : Penafiel ???? vs Portimonense ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Segunda Liga: Penafiel vs Portimonense",
                 "channels": [
                     {
                         "channel_name": "Sport TV+ Portugal",
@@ -1765,7 +1769,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ???? Sweden Allsvenskan : \u00d6rgryte ???? vs AIK ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Allsvenskan: \u00d6rgryte vs AIK",
                 "channels": [
                     {
                         "channel_name": "TV4 Fotboll",
@@ -1779,7 +1783,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ???? ASEAN Championship : Malaysia ???? vs Philippines ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfe ASEAN Championship: Malaysia vs Philippines",
                 "channels": [
                     {
                         "channel_name": "Astro Arena",
@@ -1789,7 +1793,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ???? Latvia Virsliga : Daugavpils ???? vs FK Tukums 2000/Telms ????",
+                "event": "\u26bd \ud83c\uddf1\ud83c\uddfb Latvia Virsliga: Daugavpils vs FK Tukums 2000/Telms",
                 "channels": [
                     {
                         "channel_name": "TV4 Latvia",
@@ -1799,7 +1803,7 @@
             },
             {
                 "time": "13:10",
-                "event": "? ???? Belarus Premier League : Torpedo BelAZ ???? vs Dinamo Brest ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddfe Belarus Premier League: Torpedo BelAZ vs Dinamo Brest",
                 "channels": [
                     {
                         "channel_name": "Belarus 5",
@@ -1809,7 +1813,7 @@
             },
             {
                 "time": "13:30",
-                "event": "? ???? Liga Paname\u00f1a de F\u00fatbol : San Francisco ???? vs Herrera ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\udde6 Liga Paname\u00f1a de F\u00fatbol: San Francisco vs Herrera",
                 "channels": [
                     {
                         "channel_name": "RPC Panama",
@@ -1819,7 +1823,7 @@
             },
             {
                 "time": "13:30",
-                "event": "? ???? Hungary NB I : Vasas ???? vs Zalaegerszegi TE ????",
+                "event": "\u26bd \ud83c\udded\ud83c\uddfa Hungary NB I: Vasas vs Zalaegerszegi TE",
                 "channels": [
                     {
                         "channel_name": "M4 Sport Hungary",
@@ -1833,7 +1837,7 @@
             },
             {
                 "time": "13:30",
-                "event": "? ???? Poland 1. Liga : Puszcza Niepolomice ???? vs OKS Odra Opole ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland 1. Liga: Puszcza Niepo\u0142omice vs OKS Odra Opole",
                 "channels": [
                     {
                         "channel_name": "TVP 3 Poland",
@@ -1843,7 +1847,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? Norway Eliteserien, : Viking vs Sarpsborg 08",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien: Viking vs Sarpsborg 08",
                 "channels": [
                     {
                         "channel_name": "TV 2 Play Norway",
@@ -1853,7 +1857,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ???? Denmark 1st Division : Hobro ???? vs AB ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Denmark 1st Division: Hobro vs AB",
                 "channels": [
                     {
                         "channel_name": "Viaplay Sports News Denmark",
@@ -1863,7 +1867,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ???? Kazakhstan Premier League : Kairat ???? vs Zhenys ????",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League: Kairat vs Zhenys",
                 "channels": [
                     {
                         "channel_name": "Qazsport",
@@ -1873,7 +1877,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ???? Slovakia 2. Futbalov\u00e1 Liga : Tatran Pre\u0161ov ???? vs Liptovsk\u00fd Mikul\u00e1\u0161 ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 Slovakia 2. Futbalov\u00e1 Liga: Tatran Pre\u0161ov vs Liptovsk\u00fd Mikul\u00e1\u0161",
                 "channels": [
                     {
                         "channel_name": "RTVS Sport Slovakia",
@@ -1883,7 +1887,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ???? Turkey 1. Lig : Bandirmaspor ???? vs Istanbulspor ????",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 Turkey 1. Lig: Band\u0131rmaspor vs \u0130stanbulspor",
                 "channels": [
                     {
                         "channel_name": "TRT Spor Turkey",
@@ -1893,7 +1897,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ???? UEFA Champions League Women Qualification : KFF Vllaznia ???? vs Apollon Limassol ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf1 UEFA Champions League Women Qualification: KFF Vllaznia vs Apollon Limassol",
                 "channels": [
                     {
                         "channel_name": "Cytavision Sports 2",
@@ -1903,7 +1907,7 @@
             },
             {
                 "time": "14:30",
-                "event": "? ???? Portugal Primeira Liga : Mar\u00edtimo ???? vs Casa Pia ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Primeira Liga: Mar\u00edtimo vs Casa Pia",
                 "channels": [
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -1921,7 +1925,7 @@
             },
             {
                 "time": "14:30",
-                "event": "? ???? Netherlands Eredivisie : Den Bosch ???? vs Almere City ????",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands Eredivisie: Den Bosch vs Almere City",
                 "channels": [
                     {
                         "channel_name": "ESPN 1 NL",
@@ -1931,7 +1935,7 @@
             },
             {
                 "time": "14:30",
-                "event": "? ???? UEFA Champions League Women Qualification : SK Brann Kvinner ???? vs PAOK ????",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 UEFA Champions League Women Qualification: SK Brann Kvinner vs PAOK",
                 "channels": [
                     {
                         "channel_name": "ERT 2 Greece",
@@ -1941,7 +1945,7 @@
             },
             {
                 "time": "14:30",
-                "event": "? ???? German 3. Liga : Sonnenhof Gro\u00dfaspach ???? vs Fortuna K\u00f6ln ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea German 3. Liga: Sonnenhof Gro\u00dfaspach vs Fortuna K\u00f6ln",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 307",
@@ -1967,7 +1971,7 @@
             },
             {
                 "time": "14:30",
-                "event": "? ???? Netherlands Eredivisie : NEC ???? vs Telstar ????",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands Eredivisie: NEC vs Telstar",
                 "channels": [
                     {
                         "channel_name": "ESPN 2 NL",
@@ -1981,7 +1985,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Croatia HNL : Rijeka ???? vs Dinamo Zagreb ????",
+                "event": "\u26bd \ud83c\udded\ud83c\uddf7 Croatia HNL: Rijeka vs Dinamo Zagreb",
                 "channels": [
                     {
                         "channel_name": "MAX Sport 1 Croatia",
@@ -1995,7 +1999,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Czech First League : Teplice ???? vs Viktoria Plzen ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddff Czech First League: Teplice vs Viktoria Plze\u0148",
                 "channels": [
                     {
                         "channel_name": "Sportdigital FUSSBALL",
@@ -2017,7 +2021,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Czech First League : Zl\u00edn ???? vs Bohemians 1905 ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddff Czech First League: Zl\u00edn vs Bohemians 1905",
                 "channels": [
                     {
                         "channel_name": "Oneplay Sport 3 CZ",
@@ -2031,7 +2035,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Ukrainian Premier League : Bukovyna ???? vs Obolon-Brovar ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukrainian Premier League: Bukovyna vs Obolon-Brovar",
                 "channels": [
                     {
                         "channel_name": "UPL.TV",
@@ -2041,7 +2045,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Sweden Superettan : Norrk\u00f6ping ???? vs Brage ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan: Norrk\u00f6ping vs Brage",
                 "channels": [
                     {
                         "channel_name": "TV4 Sportkanalen",
@@ -2051,7 +2055,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Austria Bundesliga : Grazer AK ???? vs Austria Lustenau ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf9 Austria Bundesliga: Grazer AK vs Austria Lustenau",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Austria 1",
@@ -2073,7 +2077,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Russia Premier League : Lokomotiv Moskva ???? vs Akron ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia Premier League: Lokomotiv Moskva vs Akron",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
@@ -2087,7 +2091,7 @@
             },
             {
                 "time": "15:10",
-                "event": "? ???? Belarus Premier League : Vitebsk ???? vs Neman Grodno ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddfe Belarus Premier League: Vitebsk vs Neman Grodno",
                 "channels": [
                     {
                         "channel_name": "Belarus 5",
@@ -2097,7 +2101,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? Sweden Allsvenskan : Mj\u00e4llby ???? vs Elfsborg ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Allsvenskan: Mj\u00e4llby vs Elfsborg",
                 "channels": [
                     {
                         "channel_name": "TV4 Fotboll",
@@ -2111,7 +2115,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? Hungary NB I : V\u00e1rda SE ???? vs \u00dajpest ????",
+                "event": "\u26bd \ud83c\udded\ud83c\uddfa Hungary NB I: V\u00e1rda SE vs \u00dajpest",
                 "channels": [
                     {
                         "channel_name": "M4 Sport Hungary",
@@ -2125,7 +2129,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? Portugal Campeonato Nacional de Juniores : Porto U19 ???? vs Feirense U19 ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Campeonato Nacional de Juniores: Porto U19 vs Feirense U19",
                 "channels": [
                     {
                         "channel_name": "Porto Canal Portugal",
@@ -2135,7 +2139,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? Romania Liga I : Farul Constan?a ???? vs Csikszereda ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Liga I: Farul Constan\u021ba vs Csikszereda",
                 "channels": [
                     {
                         "channel_name": "Digi Sport 1 Romania",
@@ -2157,7 +2161,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? Poland Ekstraklasa : Pogon Szczecin ???? vs Motor Lublin ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland Ekstraklasa: Pogo\u0144 Szczecin vs Motor Lublin",
                 "channels": [
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
@@ -2175,7 +2179,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? South Africa Varsity Football : Cape Peninsula University Of Technology ???? vs University Of Pretoria ????",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Varsity Football: Cape Peninsula University Of Technology vs University Of Pretoria",
                 "channels": [
                     {
                         "channel_name": "SuperSport Variety 4",
@@ -2185,7 +2189,7 @@
             },
             {
                 "time": "15:30",
-                "event": "? ???? Serbia Mozzart Bet Prva Liga : Vrsac ???? vs Proleter 023 ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf8 Serbia Mozzart Bet Prva Liga: Vr\u0161ac vs Proleter 023",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 10 Serbia",
@@ -2195,7 +2199,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Bulgaria First League : Lokomotiv Sofia 1929 ???? vs CSKA 1948 ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddec Bulgaria First League: Lokomotiv Sofia 1929 vs CSKA 1948",
                 "channels": [
                     {
                         "channel_name": "Diema Sport Bulgaria",
@@ -2213,7 +2217,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Turkey 1. Lig : Sivasspor ???? vs Erokspor ????",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 Turkey 1. Lig: Sivasspor vs Erokspor",
                 "channels": [
                     {
                         "channel_name": "TRT Spor Turkey",
@@ -2227,7 +2231,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Turkey 1. Lig : \u00dcmraniyespor ???? vs Mardin 1969 ????",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 Turkey 1. Lig: \u00dcmraniyespor vs Mardin 1969",
                 "channels": [
                     {
                         "channel_name": "tabii Sport 6 Turkey",
@@ -2237,7 +2241,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Switzerland Super League : Lausanne Sport ???? vs Young Boys ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\udded Switzerland Super League: Lausanne Sport vs Young Boys",
                 "channels": [
                     {
                         "channel_name": "Blue Sport D 1",
@@ -2255,7 +2259,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Poland II Liga : Zawisza Bydgoszcz ???? vs Resovia Rzesz\u00f3w ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland II Liga: Zawisza Bydgoszcz vs Resovia Rzesz\u00f3w",
                 "channels": [
                     {
                         "channel_name": "TVP Sport Poland",
@@ -2265,7 +2269,7 @@
             },
             {
                 "time": "16:30",
-                "event": "? ???? Croatia HNL : Rude\u0161 ???? vs Osijek ????",
+                "event": "\u26bd \ud83c\udded\ud83c\uddf7 Croatia HNL: Rude\u0161 vs Osijek",
                 "channels": [
                     {
                         "channel_name": "MAX Sport 1 Croatia",
@@ -2279,7 +2283,7 @@
             },
             {
                 "time": "16:45",
-                "event": "? ???? Netherlands Eredivisie : Go Ahead Eagles ???? vs Willem II ????",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands Eredivisie: Go Ahead Eagles vs Willem II",
                 "channels": [
                     {
                         "channel_name": "ESPN 3 NL",
@@ -2293,7 +2297,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Portugal Primeira Liga : Vit\u00f3ria Guimar\u00e3es ???? vs Arouca ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Primeira Liga: Vit\u00f3ria Guimar\u00e3es vs Arouca",
                 "channels": [
                     {
                         "channel_name": "Sport TV2 Portugal",
@@ -2311,7 +2315,7 @@
             },
             {
                 "time": "16:50",
-                "event": "? ?? Africa Cup of Nations : Ivory Coast ???? vs Algeria ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddee Africa Cup of Nations: Ivory Coast vs \ud83c\udde9\ud83c\uddff Algeria",
                 "channels": [
                     {
                         "channel_name": "beIN Sports Malaysia",
@@ -2333,7 +2337,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Canadian Premier League : Atl\u00e9tico Ottawa ???? vs HFX Wanderers ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\udde6 Canadian Premier League: Atl\u00e9tico Ottawa vs HFX Wanderers",
                 "channels": [
                     {
                         "channel_name": "Fox Soccer Plus",
@@ -2351,7 +2355,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Israel Toto Cup : Maccabi Petah Tikva ???? vs Hapoel Ramat Gan ????",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf1 Israel Toto Cup: Maccabi Petah Tikva vs Hapoel Ramat Gan",
                 "channels": [
                     {
                         "channel_name": "Sport 3 Israel",
@@ -2361,7 +2365,7 @@
             },
             {
                 "time": "17:30",
-                "event": "? ???? Portugal Segunda Liga : Tondela ???? vs Amarante ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Segunda Liga: Tondela vs Amarante",
                 "channels": [
                     {
                         "channel_name": "Sport TV3 Portugal",
@@ -2375,7 +2379,7 @@
             },
             {
                 "time": "17:30",
-                "event": "? ???? Israel Toto Cup : Bnei Sakhnin ???? vs Maccabi Haifa ????",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf1 Israel Toto Cup: Bnei Sakhnin vs Maccabi Haifa",
                 "channels": [
                     {
                         "channel_name": "Sport 2 Israel",
@@ -2385,7 +2389,7 @@
             },
             {
                 "time": "17:30",
-                "event": "? ???? South Africa Varsity Football : University Of The Witwatersrand ???? vs Tshwane University Of Technology ????",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Varsity Football: University Of The Witwatersrand vs Tshwane University Of Technology",
                 "channels": [
                     {
                         "channel_name": "SuperSport Variety 4",
@@ -2395,7 +2399,7 @@
             },
             {
                 "time": "17:30",
-                "event": "? ???? Russia Premier League : CSKA Moskva ???? vs Rostov ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russia Premier League: CSKA Moskva vs Rostov",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
@@ -2413,7 +2417,7 @@
             },
             {
                 "time": "17:30",
-                "event": "? ???? Israel Toto Cup : Hapoel Haifa ???? vs Ironi Kiryat Shmona ????",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf1 Israel Toto Cup: Hapoel Haifa vs Ironi Kiryat Shmona",
                 "channels": [
                     {
                         "channel_name": "5 Live Israel",
@@ -2423,7 +2427,7 @@
             },
             {
                 "time": "17:30",
-                "event": "? ???? Austria Bundesliga : Hartberg ???? vs Sturm Graz ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf9 Austria Bundesliga: Hartberg vs Sturm Graz",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Austria 1",
@@ -2441,7 +2445,7 @@
             },
             {
                 "time": "17:45",
-                "event": "? ???? Argentine Primera Division : Atl\u00e9tico Tucum\u00e1n ???? vs Sarmiento ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentine Primera Division: Atl\u00e9tico Tucum\u00e1n vs Sarmiento",
                 "channels": [
                     {
                         "channel_name": "ESPN Premium Argentina",
@@ -2451,7 +2455,7 @@
             },
             {
                 "time": "17:45",
-                "event": "? ???? Argentine Primera Division : Deportivo Riestra ???? vs Estudiantes ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentine Primera Division: Deportivo Riestra vs Estudiantes",
                 "channels": [
                     {
                         "channel_name": "TNT Sports Argentina",
@@ -2461,7 +2465,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Czech First League : Mlad\u00e1 Boleslav ???? vs Sparta Praha ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddff Czech First League: Mlad\u00e1 Boleslav vs Sparta Praha",
                 "channels": [
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
@@ -2475,7 +2479,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Montenegro First League : Buducnost ???? vs Decic ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddea Montenegro First League: Budu\u0107nost vs De\u010di\u0107",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 9 Serbia",
@@ -2485,7 +2489,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Serbia SuperLiga : Crvena Zvezda ???? vs Novi Pazar ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf8 Serbia SuperLiga: Crvena Zvezda vs Novi Pazar",
                 "channels": [
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -2499,7 +2503,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Serbia SuperLiga : Radnicki 1923 ???? vs Zemun ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf8 Serbia SuperLiga: Radni\u010dki 1923 vs Zemun",
                 "channels": [
                     {
                         "channel_name": "Arena 2 Premium Serbia",
@@ -2509,7 +2513,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Netherlands Eredivisie : PSV ???? vs Fortuna Sittard ????",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands Eredivisie: PSV vs Fortuna Sittard",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -2571,7 +2575,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Peru Primera Division : UTC Cajamarca ???? vs ADT ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddea Peru Primera Division: UTC Cajamarca vs ADT",
                 "channels": [
                     {
                         "channel_name": "Liga 1 Max Peru",
@@ -2581,7 +2585,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Serbia Mozzart Bet Prva Liga : FK Teleoptik Zemun ???? vs FK Jedinstvo Ub ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf8 Serbia Mozzart Bet Prva Liga: FK Teleoptik Zemun vs FK Jedinstvo Ub",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 10 Serbia",
@@ -2591,7 +2595,7 @@
             },
             {
                 "time": "18:15",
-                "event": "? ???? Poland Ekstraklasa : Korona Kielce ???? vs Legia Warszawa ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland Ekstraklasa: Korona Kielce vs Legia Warszawa",
                 "channels": [
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
@@ -2617,7 +2621,7 @@
             },
             {
                 "time": "18:15",
-                "event": "? ???? Bulgaria First League : Dunav 2010 ???? vs Arda ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddec Bulgaria First League: Dunav 2010 vs Arda",
                 "channels": [
                     {
                         "channel_name": "Diema Sport Bulgaria",
@@ -2635,7 +2639,7 @@
             },
             {
                 "time": "18:15",
-                "event": "? ???? Poland I Liga : Podbeskidzie ???? vs Lechia Gdansk ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland I Liga: Podbeskidzie vs Lechia Gdansk",
                 "channels": [
                     {
                         "channel_name": "TVP Sport Poland",
@@ -2645,7 +2649,7 @@
             },
             {
                 "time": "18:15",
-                "event": "? ???? Slovenia Prva Liga : Celje ???? vs Olimpija ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddee Slovenia Prva Liga: Celje vs Olimpija",
                 "channels": [
                     {
                         "channel_name": "\u0160TV 1 Slovenia",
@@ -2659,7 +2663,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? UEFA Champions League Women : Spartak Myjava ???? vs Czarni Sosnowiec ????",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 UEFA Champions League Women: Spartak Myjava vs Czarni Sosnowiec",
                 "channels": [
                     {
                         "channel_name": "Cytavision Sports 2 Cyprus",
@@ -2669,7 +2673,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Switzerland Super League : Servette ???? vs Grasshopper ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\udded Switzerland Super League: Servette vs Grasshopper",
                 "channels": [
                     {
                         "channel_name": "SRF zwei",
@@ -2683,7 +2687,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Turkey 1. Lig : Antalyaspor ???? vs Ke\u00e7i\u00f6reng\u00fcc\u00fc ????",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 Turkey 1. Lig: Antalyaspor vs Ke\u00e7i\u00f6reng\u00fcc\u00fc",
                 "channels": [
                     {
                         "channel_name": "TRT Spor Turkey",
@@ -2697,7 +2701,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Romania Liga I : Dinamo Bucuresti ???? vs Voluntari ????",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Liga I: Dinamo Bucure\u0219ti vs Voluntari",
                 "channels": [
                     {
                         "channel_name": "Digi Sport 1 Romania",
@@ -2715,7 +2719,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Germany Bundesliga 2 : Wolfsburg ???? vs Kaiserslautern ????",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Germany Bundesliga 2: Wolfsburg vs Kaiserslautern",
                 "channels": [
                     {
                         "channel_name": "Sky Sport Bundesliga 1",
@@ -2793,7 +2797,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Simulcast ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Simulcast",
                 "channels": [
                     {
                         "channel_name": "beIN Sports 2 France",
@@ -2803,7 +2807,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Boulogne ???? vs Nancy ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Boulogne vs Nancy",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 4 France",
@@ -2817,7 +2821,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Clermont ???? vs Reims ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Clermont vs Reims",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 5 France",
@@ -2831,7 +2835,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Dunkerque ???? vs Grenoble Foot 38 ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Dunkerque vs Grenoble Foot 38",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 6 France",
@@ -2845,7 +2849,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Metz ???? vs Guingamp ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Metz vs Guingamp",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 7 France",
@@ -2859,7 +2863,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Montpellier ???? vs Dijon ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Montpellier vs Dijon",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 8 France",
@@ -2873,7 +2877,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Nantes ???? vs Red Star ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Nantes vs Red Star",
                 "channels": [
                     {
                         "channel_name": "beIN Sports 3 France",
@@ -2903,7 +2907,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Pau ???? vs Annecy ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Pau vs Annecy",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 9 France",
@@ -2917,7 +2921,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Rodez ???? vs Laval ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Rodez vs Laval",
                 "channels": [
                     {
                         "channel_name": "beIN Sports MAX 10 France",
@@ -2931,7 +2935,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? France Ligue 2 : Sochaux ???? vs Saint-\u00c9tienne ????",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Ligue 2: Sochaux vs Saint-\u00c9tienne",
                 "channels": [
                     {
                         "channel_name": "beIN Sports 1 France",
@@ -2965,7 +2969,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? Belgium Pro League : Sint-Truiden vs Lommel United",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddea Belgium Pro League: Sint-Truiden vs Lommel United",
                 "channels": [
                     {
                         "channel_name": "DAZN Pro League 2",
@@ -2975,7 +2979,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? Belgium Pro League : Westerlo vs Union Saint-Gilloise",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddea Belgium Pro League: Westerlo vs Union Saint-Gilloise",
                 "channels": [
                     {
                         "channel_name": "DAZN Pro League 1",
@@ -2985,7 +2989,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Brasileir\u00e3o Serie A : Gr\u00eamio ???? vs S\u00e3o Paulo ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brasileir\u00e3o Serie A: Gr\u00eamio vs S\u00e3o Paulo",
                 "channels": [
                     {
                         "channel_name": "Premiere Brazil",
@@ -3019,7 +3023,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Portugal - Liga 3 : Mafra ???? vs Vit\u00f3ria de Sernache ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Liga 3: Mafra vs Vit\u00f3ria de Sernache",
                 "channels": [
                     {
                         "channel_name": "Canal 11 Portugal",
@@ -3029,7 +3033,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Chile Primera Divisi\u00f3n : Huachipato ???? vs Everton ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf1 Chile Primera Divisi\u00f3n: Huachipato vs Everton",
                 "channels": [
                     {
                         "channel_name": "TNT SPORTS Premium Chile",
@@ -3039,7 +3043,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Bosnia and Herzegovina Premier League : Sarajevo ???? vs Radnik Bijeljina ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\udde6 Bosnia and Herzegovina Premier League: Sarajevo vs Radnik Bijeljina",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 5 Serbia",
@@ -3049,7 +3053,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Bosnia and Herzegovina Premier League : \u0160iroki Brijeg ???? vs Sloga Doboj ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\udde6 Bosnia and Herzegovina Premier League: \u0160iroki Brijeg vs Sloga Doboj",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 7 Croatia",
@@ -3059,7 +3063,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Columbia Primera A : Santa Fe ???? vs Boyac\u00e1 Chic\u00f3 ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera A: Santa Fe vs Boyac\u00e1 Chic\u00f3",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol",
@@ -3069,7 +3073,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Croatia HNL : Lokomotiva Zagreb ???? vs Gorica ????",
+                "event": "\u26bd \ud83c\udded\ud83c\uddf7 Croatia HNL: Lokomotiva Zagreb vs Gorica",
                 "channels": [
                     {
                         "channel_name": "MAX Sport 1 Croatia",
@@ -3083,7 +3087,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Netherlands Eredivisie : AZ ???? vs ADO Den Haag ????",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands Eredivisie: AZ vs ADO Den Haag",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -3117,7 +3121,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Brazil Serie B : Vila Nova ???? vs Sport Recife ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Serie B: Vila Nova vs Sport Recife",
                 "channels": [
                     {
                         "channel_name": "ESPN Brasil",
@@ -3127,7 +3131,7 @@
             },
             {
                 "time": "19:30",
-                "event": "? ???? Portugal Primeira Liga : Estrela ???? vs Sporting CP ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Primeira Liga: Estrela vs Sporting CP",
                 "channels": [
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -3189,7 +3193,7 @@
             },
             {
                 "time": "19:50",
-                "event": "? ?? Africa Cup of Nations : Morocco ???? vs South Africa ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\udde6 Africa Cup of Nations: Morocco vs \ud83c\uddff\ud83c\udde6 South Africa",
                 "channels": [
                     {
                         "channel_name": "beIN Sports 2 Malaysia",
@@ -3207,7 +3211,7 @@
             },
             {
                 "time": "20:00",
-                "event": "? ???? NWSL : Denver Summit ???? vs Utah Royals ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL: Denver Summit vs Utah Royals",
                 "channels": [
                     {
                         "channel_name": "ion USA",
@@ -3221,7 +3225,7 @@
             },
             {
                 "time": "20:00",
-                "event": "? ???? Brazil - Serie C : Botafogo PB ???? vs Santa Cruz ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Serie C: Botafogo PB vs Santa Cruz",
                 "channels": [
                     {
                         "channel_name": "Band TV",
@@ -3231,7 +3235,7 @@
             },
             {
                 "time": "20:00",
-                "event": "? ???? Argentine Primera Division : Tigre ???? vs River Plate ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentine Primera Division: Tigre vs River Plate",
                 "channels": [
                     {
                         "channel_name": "TNT Sports Argentina",
@@ -3265,7 +3269,7 @@
             },
             {
                 "time": "20:30",
-                "event": "? ???? Peru Primera Division : Juan Pablo II College ???? vs Atl\u00e9tico Grau ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddea Peru Primera Division: Juan Pablo II College vs Atl\u00e9tico Grau",
                 "channels": [
                     {
                         "channel_name": "Liga 1 Max Peru",
@@ -3275,7 +3279,7 @@
             },
             {
                 "time": "21:00",
-                "event": "? ???? Canadian Championship : Pacific FC ???? vs Inter Toronto ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\udde6 Canadian Championship: Pacific FC vs Inter Toronto",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -3285,7 +3289,7 @@
             },
             {
                 "time": "21:20",
-                "event": "? ???? Columbia Primera B : Fortaleza CEIF ???? vs C\u00facuta Deportivo ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera B: Fortaleza CEIF vs C\u00facuta Deportivo",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol",
@@ -3295,7 +3299,7 @@
             },
             {
                 "time": "21:30",
-                "event": "? ???? Brasileir\u00e3o Serie A : Remo ???? vs Atl\u00e9tico Mineiro ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brasileir\u00e3o Serie A: Remo vs Atl\u00e9tico Mineiro",
                 "channels": [
                     {
                         "channel_name": "Premiere 2 Brazil",
@@ -3309,7 +3313,7 @@
             },
             {
                 "time": "21:30",
-                "event": "? ???? Chile Primera Divisi\u00f3n : Coquimbo Unido ???? vs La Serena ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf1 Chile Primera Divisi\u00f3n: Coquimbo Unido vs La Serena",
                 "channels": [
                     {
                         "channel_name": "TNT SPORTS Premium Chile",
@@ -3319,7 +3323,7 @@
             },
             {
                 "time": "22:15",
-                "event": "? ???? Argentine Primera Division : Boca Juniors ???? vs V\u00e9lez Sarsfield ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentine Primera Division: Boca Juniors vs V\u00e9lez Sarsfield",
                 "channels": [
                     {
                         "channel_name": "ESPN Premium Argentina",
@@ -3357,7 +3361,7 @@
             },
             {
                 "time": "22:30",
-                "event": "? ???? Leagues Cup : Orlando City SC ???? vs Le\u00f3n ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Leagues Cup: Orlando City SC vs \ud83c\uddf2\ud83c\uddfd Le\u00f3n",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -3367,7 +3371,7 @@
             },
             {
                 "time": "22:30",
-                "event": "? ???? NWSL : Washington Spirit ???? vs North Carolina Courage ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL: Washington Spirit vs North Carolina Courage",
                 "channels": [
                     {
                         "channel_name": "ion USA",
@@ -3377,7 +3381,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? Liga de Expansi\u00f3n MX : Venados ???? vs Tapat\u00edo ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd Liga de Expansi\u00f3n MX: Venados vs Tapat\u00edo",
                 "channels": [
                     {
                         "channel_name": "ESPN 4 MX",
@@ -3387,7 +3391,7 @@
             },
             {
                 "time": "23:25",
-                "event": "? ???? Columbia Primera A : Deportes Tolima ???? vs Inter Bogot\u00e1 ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera A: Deportes Tolima vs Inter Bogot\u00e1",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol",
@@ -3397,7 +3401,7 @@
             },
             {
                 "time": "23:30",
-                "event": "? ???? Brasileir\u00e3o Serie A : Coritiba ???? vs Chapecoense ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brasileir\u00e3o Serie A: Coritiba vs Chapecoense",
                 "channels": [
                     {
                         "channel_name": "Premiere 3 Brazil",
@@ -3407,7 +3411,7 @@
             },
             {
                 "time": "00:00",
-                "event": "? ???? Leagues Cup : Inter Miami ???? vs Monterrey ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Leagues Cup: Inter Miami vs \ud83c\uddf2\ud83c\uddfd Monterrey",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -3417,7 +3421,7 @@
             },
             {
                 "time": "00:00",
-                "event": "? ???? Brasileir\u00e3o Serie A : Botafogo ???? vs Fluminense ????",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brasileir\u00e3o Serie A: Botafogo vs Fluminense",
                 "channels": [
                     {
                         "channel_name": "SporTV Brazil",
@@ -3443,7 +3447,7 @@
             },
             {
                 "time": "00:00",
-                "event": "? ???? Canadian Premier League : Supra du Quebec ???? vs Cavalry ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\udde6 Canadian Premier League: Supra du Quebec vs Cavalry",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -3453,7 +3457,7 @@
             },
             {
                 "time": "00:00",
-                "event": "? ???? Costa Rica Primera Division : Escorpiones Bel\u00e9n ???? vs P\u00e9rez Zeled\u00f3n ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf7 Costa Rica Primera Division: Escorpiones Bel\u00e9n vs P\u00e9rez Zeled\u00f3n",
                 "channels": [
                     {
                         "channel_name": "FUTV",
@@ -3463,7 +3467,7 @@
             },
             {
                 "time": "00:30",
-                "event": "? ???? Argentine Primera Division : Independiente ???? vs Platense ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentine Primera Division: Independiente vs Platense",
                 "channels": [
                     {
                         "channel_name": "TNT Sports Argentina",
@@ -3473,7 +3477,7 @@
             },
             {
                 "time": "00:30",
-                "event": "? ???? Argentine Primera Division : Instituto De C\u00f3rdoba ???? vs Gimnasia y Esgrima Mendoza ????",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentine Primera Division: Instituto de C\u00f3rdoba vs Gimnasia y Esgrima Mendoza",
                 "channels": [
                     {
                         "channel_name": "ESPN Premium Argentina",
@@ -3483,7 +3487,7 @@
             },
             {
                 "time": "00:45",
-                "event": "? ???? NWSL : Houston Dash ???? vs Kansas City Current ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NWSL: Houston Dash vs Kansas City Current",
                 "channels": [
                     {
                         "channel_name": "ion USA",
@@ -3493,7 +3497,7 @@
             },
             {
                 "time": "01:00",
-                "event": "? ???? Leagues Cup : Guadalajara ???? vs Dallas ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Leagues Cup: Guadalajara vs Dallas",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 1 USA",
@@ -3523,7 +3527,7 @@
             },
             {
                 "time": "01:00",
-                "event": "? ???? Liga de Expansi\u00f3n MX : Atl\u00e9tico Morelia ???? vs Canc\u00fan ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd Liga de Expansi\u00f3n MX: Atl\u00e9tico Morelia vs Canc\u00fan",
                 "channels": [
                     {
                         "channel_name": "AYM Sports MX",
@@ -3533,7 +3537,7 @@
             },
             {
                 "time": "01:00",
-                "event": "? ???? Liga Premier de M\u00e9xico : CDS Tampico Madero ???? vs Cruz Azul Hidalgo ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd Liga Premier de M\u00e9xico: CDS Tampico Madero vs Cruz Azul Hidalgo",
                 "channels": [
                     {
                         "channel_name": "VIX MX",
@@ -3543,7 +3547,7 @@
             },
             {
                 "time": "01:00",
-                "event": "? ???? Peru Primera Division : Sport Boys ???? vs Alianza Lima ????",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddea Peru Primera Division: Sport Boys vs Alianza Lima",
                 "channels": [
                     {
                         "channel_name": "Liga 1 Max Peru",
@@ -3553,7 +3557,7 @@
             },
             {
                 "time": "01:30",
-                "event": "? ???? Columbia Primera A : Deportivo Pasto ???? vs Deportivo Cali ????",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera A: Deportivo Pasto vs Deportivo Cali",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol",
@@ -3563,7 +3567,7 @@
             },
             {
                 "time": "02:00",
-                "event": "? ???? Leagues Cup : Real Salt Lake ???? vs Atlante ????",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Leagues Cup: Real Salt Lake vs \ud83c\uddf2\ud83c\uddfd Atlante",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -3573,7 +3577,7 @@
             },
             {
                 "time": "03:10",
-                "event": "? ???? Leagues Cup : Toluca ???? vs Los Angeles FC ????",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd Leagues Cup: Toluca vs \ud83c\uddfa\ud83c\uddf8 Los Angeles FC",
                 "channels": [
                     {
                         "channel_name": "Fox Sports 1 USA",
@@ -3594,10 +3598,10 @@
                 ]
             }
         ],
-        "Club Friendly ?": [
+        "Club Friendly \u26bd": [
             {
                 "time": "09:00",
-                "event": "? ???? Club Friendly : Rennes ???? vs Brentford U21 ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddeb\ud83c\uddf7 Rennes vs \ud83c\udff4 Brentford U21",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ 3 France",
@@ -3607,7 +3611,7 @@
             },
             {
                 "time": "10:00",
-                "event": "? ???? Club Friendly : Lens ???? vs Sunderland ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddeb\ud83c\uddf7 Lens vs \ud83c\udff4 Sunderland",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ France",
@@ -3621,7 +3625,7 @@
             },
             {
                 "time": "11:00",
-                "event": "? ???? Club Friendly : Juventus ???? vs Internazionale ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Juventus vs \ud83c\uddee\ud83c\uddf9 Internazionale",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo USA",
@@ -3695,7 +3699,7 @@
             },
             {
                 "time": "12:00",
-                "event": "? ?? Club Friendly : Chelsea ?? vs Milan ????",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Chelsea vs \ud83c\uddee\ud83c\uddf9 Milan",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
@@ -3757,7 +3761,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ?? Club Friendly : Leeds United ?? vs RB Leipzig ????",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Leeds United vs \ud83c\udde9\ud83c\uddea RB Leipzig",
                 "channels": [
                     {
                         "channel_name": "Servus TV",
@@ -3767,7 +3771,7 @@
             },
             {
                 "time": "13:00",
-                "event": "? ???? Club Friendly : Hamburger SV ???? vs Lille ????",
+                "event": "\u26bd Club Friendly : \ud83c\udde9\ud83c\uddea Hamburger SV vs \ud83c\uddeb\ud83c\uddf7 Lille",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ 2 France",
@@ -3777,7 +3781,7 @@
             },
             {
                 "time": "13:30",
-                "event": "? ???? Club Friendly : Bayer Leverkusen ???? vs Sevilla ????",
+                "event": "\u26bd Club Friendly : \ud83c\udde9\ud83c\uddea Bayer Leverkusen vs \ud83c\uddea\ud83c\uddf8 Sevilla",
                 "channels": [
                     {
                         "channel_name": "beIN Sports Malaysia",
@@ -3815,7 +3819,7 @@
             },
             {
                 "time": "13:30",
-                "event": "? ???? Club Friendly : 1. FC K\u00f6ln ???? vs Real Sociedad ????",
+                "event": "\u26bd Club Friendly : \ud83c\udde9\ud83c\uddea 1. FC K\u00f6ln vs \ud83c\uddea\ud83c\uddf8 Real Sociedad",
                 "channels": [
                     {
                         "channel_name": "Magenta Sport 318",
@@ -3829,7 +3833,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? Club Friendly : Brighton &amp; Hove Albion ?? vs Roma ????",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Brighton & Hove Albion vs \ud83c\uddee\ud83c\uddf9 Roma",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo",
@@ -3863,7 +3867,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? Club Friendly : Ipswich Town ?? vs Rayo Vallecano ????",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Ipswich Town vs \ud83c\uddea\ud83c\uddf8 Rayo Vallecano",
                 "channels": [
                     {
                         "channel_name": "Arena 5 Premium Serbia",
@@ -3877,7 +3881,7 @@
             },
             {
                 "time": "14:00",
-                "event": "? ?? Club Friendly : Tottenham Hotspur vs Getafe",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Tottenham Hotspur vs \ud83c\uddea\ud83c\uddf8 Getafe",
                 "channels": [
                     {
                         "channel_name": "Backup Stream",
@@ -3887,7 +3891,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ?? Club Friendly : Manchester United ?? vs PSG ????",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Manchester United vs \ud83c\uddeb\ud83c\uddf7 PSG",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
@@ -3933,7 +3937,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Club Friendly : Schalke 04 ???? vs Atalanta ????",
+                "event": "\u26bd Club Friendly : \ud83c\udde9\ud83c\uddea Schalke 04 vs \ud83c\uddee\ud83c\uddf9 Atalanta",
                 "channels": [
                     {
                         "channel_name": "DAZN Zona IT",
@@ -3971,7 +3975,7 @@
             },
             {
                 "time": "15:00",
-                "event": "? ???? Club Friendly : Stuttgart ???? vs Everton ??",
+                "event": "\u26bd Club Friendly : \ud83c\udde9\ud83c\uddea Stuttgart vs \ud83c\udff4 Everton",
                 "channels": [
                     {
                         "channel_name": "Sport TV5 Portugal",
@@ -3993,7 +3997,7 @@
             },
             {
                 "time": "16:00",
-                "event": "Norway Eliteserien Start vs Fredrikstad",
+                "event": "\u26bd Norway Eliteserien : \ud83c\uddf3\ud83c\uddf4 Start vs \ud83c\uddf3\ud83c\uddf4 Fredrikstad",
                 "channels": [
                     {
                         "channel_name": "TV 2 Play Norway",
@@ -4003,7 +4007,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Club Friendly : Rennes ???? vs Brentford ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddeb\ud83c\uddf7 Rennes vs \ud83c\udff4 Brentford",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ France",
@@ -4017,7 +4021,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Club Friendly : Auxerre ???? vs Troyes ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddeb\ud83c\uddf7 Auxerre vs \ud83c\uddeb\ud83c\uddf7 Troyes",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ 4 France",
@@ -4027,7 +4031,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? ???? Club Friendly : AEK Larnaca ???? vs Omonia Aradippou ????",
+                "event": "\u26bd Club Friendly : \ud83c\udde8\ud83c\uddfe AEK Larnaca vs \ud83c\udde8\ud83c\uddfe Omonia Aradippou",
                 "channels": [
                     {
                         "channel_name": "Cytavision Sports 1",
@@ -4037,7 +4041,7 @@
             },
             {
                 "time": "16:00",
-                "event": "? Finland Veikkaus liiga : Jaro vs VPS",
+                "event": "\u26bd Finland Veikkausliiga : \ud83c\uddeb\ud83c\uddee Jaro vs \ud83c\uddeb\ud83c\uddee VPS",
                 "channels": [
                     {
                         "channel_name": "Ruutu+",
@@ -4047,7 +4051,7 @@
             },
             {
                 "time": "16:30",
-                "event": "? ???? Club Friendly : Brest ???? vs Venezia ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddeb\ud83c\uddf7 Brest vs \ud83c\uddee\ud83c\uddf9 Venezia",
                 "channels": [
                     {
                         "channel_name": "Ligue1+ 1 France",
@@ -4061,7 +4065,7 @@
             },
             {
                 "time": "16:30",
-                "event": "? ?? Club Friendly : Coventry City ?? vs Espanyol ????",
+                "event": "\u26bd Club Friendly : \ud83c\udff4 Coventry City vs \ud83c\uddea\ud83c\uddf8 Espanyol",
                 "channels": [
                     {
                         "channel_name": "Esport 3 Spain",
@@ -4075,7 +4079,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Club Friendly : Legan\u00e9s vs Tenerife",
+                "event": "\u26bd Club Friendly : \ud83c\uddea\ud83c\uddf8 Legan\u00e9s vs \ud83c\uddea\ud83c\uddf8 Tenerife",
                 "channels": [
                     {
                         "channel_name": "TV Canaria",
@@ -4085,7 +4089,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Club Friendly : AEK Athens ???? vs Athens Kallithea FC ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddec\ud83c\uddf7 AEK Athens vs \ud83c\uddec\ud83c\uddf7 Athens Kallithea FC",
                 "channels": [
                     {
                         "channel_name": "Cosmote Sport 3 HD",
@@ -4095,7 +4099,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Greece Friendly Games : Aris Thessaloniki ???? vs MGS Panserraikos ????",
+                "event": "\u26bd Greece Friendly Games : \ud83c\uddec\ud83c\uddf7 Aris Thessaloniki vs \ud83c\uddec\ud83c\uddf7 MGS Panserraikos",
                 "channels": [
                     {
                         "channel_name": "Nova Sports Prime",
@@ -4105,7 +4109,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Club Friendly : APOEL Nicosia ???? vs AE Kifisia ????",
+                "event": "\u26bd Club Friendly : \ud83c\udde8\ud83c\uddfe APOEL Nicosia vs \ud83c\uddec\ud83c\uddf7 AE Kifisia",
                 "channels": [
                     {
                         "channel_name": "Cablenet Sports 1",
@@ -4119,7 +4123,7 @@
             },
             {
                 "time": "17:00",
-                "event": "? ???? Club Friendly : Ferencv\u00e1ros ???? vs Real Madrid ????",
+                "event": "\u26bd Club Friendly : \ud83c\udded\ud83c\uddfa Ferencv\u00e1ros vs \ud83c\uddea\ud83c\uddf8 Real Madrid",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
@@ -4160,12 +4164,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             },
             {
                 "time": "17:30",
-                "event": "? ???? Club Friendly : Real Zaragoza vs Real Sociedad B",
+                "event": "\u26bd Club Friendly : \ud83c\uddea\ud83c\uddf8 Real Zaragoza vs \ud83c\uddea\ud83c\uddf8 Real Sociedad B",
                 "channels": [
                     {
                         "channel_name": "Arag\u00f3n TV",
@@ -4175,7 +4183,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Club Friendly : Galatasaray ???? vs Villarreal ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddf9\ud83c\uddf7 Galatasaray vs \ud83c\uddea\ud83c\uddf8 Villarreal",
                 "channels": [
                     {
                         "channel_name": "TV100 Turkey",
@@ -4197,7 +4205,7 @@
             },
             {
                 "time": "18:00",
-                "event": "? ???? Club Friendly : Udinese ???? vs Nottingham Forest ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Udinese vs \ud83c\udff4 Nottingham Forest",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo",
@@ -4259,7 +4267,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Club Friendly : Real Betis ???? vs AFC Bournemouth ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddea\ud83c\uddf8 Real Betis vs \ud83c\udff4 AFC Bournemouth",
                 "channels": [
                     {
                         "channel_name": "Arena Sport 3 Serbia",
@@ -4269,7 +4277,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Club Friendly : Cagliari ???? vs Nice ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Cagliari vs \ud83c\uddeb\ud83c\uddf7 Nice",
                 "channels": [
                     {
                         "channel_name": "DAZN Zona IT",
@@ -4291,7 +4299,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Club Friendly : Gimn\u00e0stic Tarragona ???? vs Girona ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddea\ud83c\uddf8 Gimn\u00e0stic Tarragona vs \ud83c\uddea\ud83c\uddf8 Girona",
                 "channels": [
                     {
                         "channel_name": "Esport 3 Spain",
@@ -4305,7 +4313,7 @@
             },
             {
                 "time": "18:30",
-                "event": "? ???? Club Friendly : Avellino ???? vs Torino ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Avellino vs \ud83c\uddee\ud83c\uddf9 Torino",
                 "channels": [
                     {
                         "channel_name": "SportItalia",
@@ -4315,7 +4323,7 @@
             },
             {
                 "time": "18:45",
-                "event": "? ???? Club Friendly : Genoa ???? vs Deportivo La Coru\u00f1a ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Genoa vs \ud83c\uddea\ud83c\uddf8 Deportivo La Coru\u00f1a",
                 "channels": [
                     {
                         "channel_name": "TV Galicia",
@@ -4329,7 +4337,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Club Friendly : Valencia ???? vs Newcastle United ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddea\ud83c\uddf8 Valencia vs \ud83c\udff4 Newcastle United",
                 "channels": [
                     {
                         "channel_name": "GOL Play Spain",
@@ -4347,7 +4355,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Club Friendly : Napoli ???? vs Celta de Vigo ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Napoli vs \ud83c\uddea\ud83c\uddf8 Celta de Vigo",
                 "channels": [
                     {
                         "channel_name": "Sky Sport 251 IT",
@@ -4365,7 +4373,7 @@
             },
             {
                 "time": "19:00",
-                "event": "? ???? Club Friendly : Barcelona ???? vs Nottingham Forest ??",
+                "event": "\u26bd Club Friendly : \ud83c\uddea\ud83c\uddf8 Barcelona vs \ud83c\udff4 Nottingham Forest",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo",
@@ -4439,7 +4447,7 @@
             },
             {
                 "time": "20:00",
-                "event": "? ???? Club Friendly : Udinese ???? vs Barcelona ????",
+                "event": "\u26bd Club Friendly : \ud83c\uddee\ud83c\uddf9 Udinese vs \ud83c\uddea\ud83c\uddf8 Barcelona",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo USA",
@@ -4507,7 +4515,7 @@
         "MLS ?": [
             {
                 "time": "20:30",
-                "event": "? ???? MLS : New England ???? vs Houston Dynamo ????",
+                "event": "\u26bd MLS : \ud83c\uddfa\ud83c\uddf8 New England vs \ud83c\uddfa\ud83c\uddf8 Houston Dynamo",
                 "channels": [
                     {
                         "channel_name": "MLS Season Pass",
@@ -4516,10 +4524,10 @@
                 ]
             }
         ],
-        "USL Championship ?": [
+        "USL Championship \u26bd": [
             {
                 "time": "23:00",
-                "event": "? ???? USL Championship : Lexington ???? vs Phoenix Rising ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Lexington vs \ud83c\uddfa\ud83c\uddf8 Phoenix Rising",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4529,7 +4537,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL Championship : Loudoun United ???? vs Charleston Battery ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Loudoun United vs \ud83c\uddfa\ud83c\uddf8 Charleston Battery",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4539,7 +4547,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL Championship : Miami FC ???? vs Las Vegas Lights ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Miami FC vs \ud83c\uddfa\ud83c\uddf8 Las Vegas Lights",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4549,7 +4557,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL Championship : Pittsburgh Riverhounds ???? vs Sacramento Republic ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Pittsburgh Riverhounds vs \ud83c\uddfa\ud83c\uddf8 Sacramento Republic",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4563,7 +4571,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL Championship : Brooklyn ???? vs Birmingham Legion ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Brooklyn vs \ud83c\uddfa\ud83c\uddf8 Birmingham Legion",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4573,7 +4581,7 @@
             },
             {
                 "time": "23:30",
-                "event": "? ???? USL Championship : Rhode Island ???? vs Colorado Springs ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Rhode Island vs \ud83c\uddfa\ud83c\uddf8 Colorado Springs",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4583,7 +4591,7 @@
             },
             {
                 "time": "00:00",
-                "event": "? ???? USL Championship : Louisville City ???? vs San Antonio ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Louisville City vs \ud83c\uddfa\ud83c\uddf8 San Antonio",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4593,7 +4601,7 @@
             },
             {
                 "time": "00:30",
-                "event": "? ???? USL Championship : FC Tulsa ???? vs Detroit City ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 FC Tulsa vs \ud83c\uddfa\ud83c\uddf8 Detroit City",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo",
@@ -4603,7 +4611,7 @@
             },
             {
                 "time": "01:00",
-                "event": "? ???? USL Championship : El Paso Locomotive ???? vs Oakland Roots ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 El Paso Locomotive vs \ud83c\uddfa\ud83c\uddf8 Oakland Roots",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4617,7 +4625,7 @@
             },
             {
                 "time": "02:00",
-                "event": "? ???? USL Championship : Monterey Bay ???? vs New Mexico United ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Monterey Bay vs \ud83c\uddfa\ud83c\uddf8 New Mexico United",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
@@ -4627,7 +4635,7 @@
             },
             {
                 "time": "02:00",
-                "event": "? ???? USL Championship : Orange County SC ???? vs Tampa Bay Rowdies ????",
+                "event": "\u26bd USL Championship : \ud83c\uddfa\ud83c\uddf8 Orange County SC vs \ud83c\uddfa\ud83c\uddf8 Tampa Bay Rowdies",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4636,10 +4644,10 @@
                 ]
             }
         ],
-        "USL League One ?": [
+        "USL League One \u26bd": [
             {
                 "time": "23:00",
-                "event": "? ???? USL League One : Charlotte Independence ???? vs Greenville Triumph ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 Charlotte Independence vs \ud83c\uddfa\ud83c\uddf8 Greenville Triumph",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4649,7 +4657,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL League One : Chattanooga Red Wolves ???? vs Union Omaha ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 Chattanooga Red Wolves vs \ud83c\uddfa\ud83c\uddf8 Union Omaha",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4659,7 +4667,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL League One : NY Cosmos ???? vs Spokane Velocity ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 NY Cosmos vs \ud83c\uddfa\ud83c\uddf8 Spokane Velocity",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4669,7 +4677,7 @@
             },
             {
                 "time": "23:00",
-                "event": "? ???? USL League One : Portland Hearts of Pine ???? vs Corpus Christi ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 Portland Hearts of Pine vs \ud83c\uddfa\ud83c\uddf8 Corpus Christi",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4683,7 +4691,7 @@
             },
             {
                 "time": "23:30",
-                "event": "? ???? USL League One : One Knoxville ???? vs Sarasota Paradise ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 One Knoxville vs \ud83c\uddfa\ud83c\uddf8 Sarasota Paradise",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4693,7 +4701,7 @@
             },
             {
                 "time": "01:30",
-                "event": "? ???? USL League One : Boise ???? vs Forward Madison ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 Boise vs \ud83c\uddfa\ud83c\uddf8 Forward Madison",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -4703,7 +4711,7 @@
             },
             {
                 "time": "03:00",
-                "event": "? ???? USL League One : Alta ???? vs Fort Wayne ????",
+                "event": "\u26bd USL League One : \ud83c\uddfa\ud83c\uddf8 Alta vs \ud83c\uddfa\ud83c\uddf8 Fort Wayne",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
@@ -6622,6 +6630,10 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -6640,6 +6652,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -6782,6 +6798,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5005"
                     }
                 ]
             }
