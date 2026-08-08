@@ -227,6 +227,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20Plus%20US&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NESN+.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-10 23:07 - MLB - Toronto Blue Jays vs Boston Red Sox (NESN+ HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.09:.Athletics.@.Boston.Red.Sox.|.HOME.NESN.|.Fri.07.Aug.19:10.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-10 23:07 - MLB - Toronto Blue Jays vs Boston Red Sox (MLB 09: Athletics @ Boston Red Sox | HOME NESN | Fri 07 Aug 19:10 (Live))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2009%3A%20Athletics%20%40%20Boston%20Red%20Sox%20%7C%20HOME%20NESN%20%7C%20Fri%2007%20Aug%2019%3A10%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Pacific.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-10 23:07 - MLB - Toronto Blue Jays vs Boston Red Sox (Sportsnet Pacific CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Pacific%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-10 23:07 - MLB - Toronto Blue Jays vs Boston Red Sox (Sportsnet Ontario CA)
@@ -469,6 +471,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[Basketball] 2026-08-08 17:00 - WNBA - Minnesota Lynx vs Las Vegas Aces (CBS 2 (WCBS) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[Basketball] 2026-08-08 19:30 - WNBA - Chicago Sky vs Indiana Fever (ABC US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-08 19:30 - WNBA - Chicago Sky vs Indiana Fever (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-08 19:30 - WNBA - Chicago Sky vs Indiana Fever (ESPN Deportes US)
@@ -575,6 +579,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=us&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[Basketball] 2026-08-16 00:00 - WNBA - Las Vegas Aces vs Minnesota Lynx (CBS 2 (WCBS) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[Basketball] 2026-08-23 23:00 - WNBA - Chicago Sky vs Indiana Fever (ABC US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-23 23:00 - WNBA - Chicago Sky vs Indiana Fever (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-23 23:00 - WNBA - Chicago Sky vs Indiana Fever (ESPN Deportes US)
