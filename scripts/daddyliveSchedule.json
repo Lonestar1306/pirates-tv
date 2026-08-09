@@ -1254,6 +1254,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018"
                     }
                 ]
             },
@@ -1272,6 +1276,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -1310,6 +1318,10 @@
                     {
                         "channel_name": "TV 2 Play Norway",
                         "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -1340,6 +1352,10 @@
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -1516,6 +1532,10 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -1526,6 +1546,10 @@
                     {
                         "channel_name": "Sky Sport Premier League DE",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     },
                     {
                         "channel_name": "Sky Sport News HD DE",
@@ -1574,6 +1598,56 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd Denmark Betinia Liga : FC Fredericia vs Vendsyssel FF",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd Sweden Superettan : Varbergs BoIS vs Sandvikens IF",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd Latvia Virsliga : SK Super Nova vs FK Liepaj",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd Latvia Virsliga : FS Jelgava vs FK Auda",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd Kazakhstan Premier League : Astana vs FC Okzhetpes",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025"
                     }
                 ]
             },
@@ -1926,6 +2000,10 @@
                     {
                         "channel_name": "Oneplay Sport 3 CZ",
                         "channel_id": "1029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -5268,7 +5346,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "11:13",
+                "time": "11:55",
                 "event": "Snooker China Open Table 1",
                 "channels": [
                     {
@@ -5278,7 +5356,7 @@
                 ]
             },
             {
-                "time": "11:13",
+                "time": "11:55",
                 "event": "Snooker China Open Table 2",
                 "channels": [
                     {
