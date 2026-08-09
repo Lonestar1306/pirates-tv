@@ -524,6 +524,10 @@
                         "channel_id": "74"
                     },
                     {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
+                    },
+                    {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
                     },
@@ -924,6 +928,40 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "- Sweden Ettan Norra : Ume\u00e5 vs AFC Eskilstuna",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "- Denmark Betinia Liga : Hvidovre vs Esbjerg FB",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "- China Chinese Super League : Henan FC vs Qingdao West Coast",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -1244,6 +1282,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "6003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -1268,6 +1310,26 @@
                     {
                         "channel_name": "TV 2 Play Norway",
                         "channel_id": "3068"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "- Finland Ykkosliiga : HJK Klubi 04 vs KTP",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "- Finland Veikkausliiga : Kuopion Palloseura vs Turun Palloseura",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -5206,7 +5268,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "10:16",
+                "time": "11:13",
                 "event": "Snooker China Open Table 1",
                 "channels": [
                     {
@@ -5216,7 +5278,7 @@
                 ]
             },
             {
-                "time": "10:16",
+                "time": "11:13",
                 "event": "Snooker China Open Table 2",
                 "channels": [
                     {
