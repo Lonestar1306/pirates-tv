@@ -3356,6 +3356,24 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "\u26be Peru Liga 1, Clausura : Melgar vs FC Cajamarca",
+                "channels": [
+                    {
+                        "channel_name": "Liga 1 Max Peru",
+                        "channel_id": "7003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
+                    }
+                ]
+            },
+            {
                 "time": "20:45",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentina Primera Divisi\u00f3n : Defensa y Justicia \ud83c\udde6\ud83c\uddf7 vs Newell's Old Boys \ud83c\udde6\ud83c\uddf7",
                 "channels": [
@@ -3366,6 +3384,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7004"
                     }
                 ]
             },
@@ -3380,6 +3406,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -3390,6 +3420,26 @@
                     {
                         "channel_name": "FUTV",
                         "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Ecuador Lig aPro Serie A Primera : Delf\u00edn vs Orense SC",
+                "channels": [
+                    {
+                        "channel_name": "ECDF",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Brasileir\u00e3o S\u00e9rie B : Cuiab\u00e1 vs Fortaleza",
+                "channels": [
+                    {
+                        "channel_name": "BRTV",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -3408,6 +3458,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Real Potos\u00ed vs Blooming",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -3422,6 +3486,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
                     }
                 ]
             },
@@ -3430,8 +3498,12 @@
                 "event": "\u26bd Uruguay Liga AUF Uruguaya : Nacional vs Boston River",
                 "channels": [
                     {
-                        "channel_name": "Backup Stream",
+                        "channel_name": "Uruguay Stream",
                         "channel_id": "7068"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -3484,6 +3556,16 @@
                     {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "3001"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n Clausura : Nacional Asunci\u00f3n vs Guaran\u00ed",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -5554,7 +5636,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "18:34",
+                "time": "21:36",
                 "event": "Snooker China Open Table 1",
                 "channels": [
                     {
@@ -5564,7 +5646,7 @@
                 ]
             },
             {
-                "time": "18:34",
+                "time": "21:36",
                 "event": "Snooker China Open Table 2",
                 "channels": [
                     {
@@ -6186,20 +6268,6 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7061"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "\u26be Peru Liga 1, Clausura : Melgar vs FC Cajamarca",
-                "channels": [
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7062"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "7063"
                     }
                 ]
             },
@@ -7096,6 +7164,56 @@
                     {
                         "channel_name": "Polsat Sport Extra 2 Poland",
                         "channel_id": "994"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volleyball : World South America Copa Am\u00e9rica : Colombia vs Chile",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6021"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Volleyball : World South America Copa Am\u00e9rica : USA vs Costa Rica",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6022"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Volleyball : World South America Copa Am\u00e9rica : Cuba vs Dominican Republic",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6023"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Volleyball : World South America Copa Am\u00e9rica : Argentina vs Brazil",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6024"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Volleyball : World South America Copa Am\u00e9rica : Mexico vs Curacao",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6025"
                     }
                 ]
             }
