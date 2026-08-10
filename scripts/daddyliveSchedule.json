@@ -1045,6 +1045,16 @@
             },
             {
                 "time": "19:00",
+                "event": "\u26bd Ecuador Liga Pro Serie A : Tecnico U vs Mushuc Runa",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal Liga Revela\u00e7\u00e3o : Acad\u00e9mico Viseu U23 \ud83c\uddf5\ud83c\uddf9 vs Estrela U23 \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
                     {
@@ -1114,6 +1124,24 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Uruguay Segunda Division : Renters vs Plaza Colonia",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
                     }
                 ]
             },
@@ -1136,12 +1164,26 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7027"
+                    }
+                ]
+            },
+            {
+                "time": "19:15",
+                "event": "\u26bd Iceland Efsta deild : Fram vs KR Reykjavik",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
             {
                 "time": "21:00",
-                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera A : Rionegro \u00c1guilas \ud83c\udde8\ud83c\uddf4 vs Llaneros \ud83c\udde8\ud83c\uddf4",
+                "event": "\u26bd Colombia Liga DIMAYOR, Finalizacion : Rionegro \u00c1guilas vs Llaneros",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol Colombia",
@@ -1150,6 +1192,32 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7029"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n : Libertad vs Sportivo Trinidad",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -1160,6 +1228,36 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "TNT Sports Argentina",
+                        "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7033"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Deportivo Maldonado vs Racing",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7032"
                     }
                 ]
             },
@@ -1170,6 +1268,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7034"
                     }
                 ]
             },
@@ -1190,6 +1292,14 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059"
                     }
                 ]
             },
@@ -1214,6 +1324,14 @@
                     {
                         "channel_name": "ESPN Argentina",
                         "channel_id": "149"
+                    },
+                    {
+                        "channel_name": "ESPN Premium Argentina",
+                        "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7060"
                     }
                 ]
             },
@@ -1816,12 +1934,16 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "\ud83c\udfbe ATP Montreal: Guido Andreozzi/Manuel Guinard \ud83c\udde6\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7 v Orlando Luz/Rafael Matos \ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+                "event": "\ud83c\udfbe ATP Montreal: Guido Andreozzi/Manuel Guinard \ud83c\udde6\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7 vs Orlando Luz/Rafael Matos \ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -1831,31 +1953,51 @@
             },
             {
                 "time": "23:00",
-                "event": "\ud83c\udfbe WTA Toronto: Diana Shnaider \ud83c\uddf7\ud83c\uddfa v Iga Swiatek \ud83c\uddf5\ud83c\uddf1",
+                "event": "\ud83c\udfbe WTA Toronto: Diana Shnaider \ud83c\uddf7\ud83c\uddfa vs Iga Swiatek \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
             {
                 "time": "23:30",
-                "event": "\ud83c\udfbe ATP Montreal: Luciano Darderi \ud83c\uddee\ud83c\uddf9 v Brandon Nakashima \ud83c\uddfa\ud83c\uddf8",
+                "event": "\ud83c\udfbe ATP Montreal: Luciano Darderi \ud83c\uddee\ud83c\uddf9 vs Brandon Nakashima \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
             {
                 "time": "00:30",
-                "event": "\ud83c\udfbe WTA Toronto: Ekaterina Alexandrova \ud83c\uddf7\ud83c\uddfa v Elina Svitolina \ud83c\uddfa\ud83c\udde6",
+                "event": "\ud83c\udfbe WTA Toronto: Ekaterina Alexandrova \ud83c\uddf7\ud83c\uddfa vs Elina Svitolina \ud83c\uddfa\ud83c\udde6",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             }
@@ -1880,6 +2022,14 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
@@ -2037,7 +2187,7 @@
                 "channels": [
                     {
                         "channel_name": "BBC One UK",
-                        "channel_id": "256"
+                        "channel_id": "356"
                     },
                     {
                         "channel_name": "BBC Two UK",
@@ -2128,6 +2278,14 @@
                     {
                         "channel_name": "beIN Sports 4 Max France",
                         "channel_id": "494"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -2150,6 +2308,14 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -2164,6 +2330,14 @@
                     {
                         "channel_name": "MASN USA",
                         "channel_id": "829"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -2194,6 +2368,14 @@
                     {
                         "channel_name": "ESPN MX",
                         "channel_id": "925"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018"
                     }
                 ]
             },
@@ -2204,6 +2386,14 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019"
                     }
                 ]
             },
@@ -2214,6 +2404,14 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022"
                     }
                 ]
             },
@@ -2228,6 +2426,14 @@
                     {
                         "channel_name": "Fox Sports 3 Argentina",
                         "channel_id": "789"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020"
                     }
                 ]
             },
@@ -2242,6 +2448,14 @@
                     {
                         "channel_name": "NBCS California USA",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021"
                     }
                 ]
             },
@@ -2260,6 +2474,14 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023"
                     }
                 ]
             },
@@ -2278,6 +2500,14 @@
                     {
                         "channel_name": "Spectrum Sportsnet LA",
                         "channel_id": "764"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             }
@@ -2430,6 +2660,14 @@
                     {
                         "channel_name": "TSN1",
                         "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -2448,6 +2686,14 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             }
