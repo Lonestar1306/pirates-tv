@@ -1,5 +1,37 @@
 {
     "Monday 10th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfce\ufe0f Wild Thing Kart Series Stafford",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfcd\ufe0f American Flat Track Jackpine Gypsies",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfce\ufe0f Front Row Challenge Southern Iowa",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "153"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
