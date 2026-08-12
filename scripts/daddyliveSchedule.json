@@ -764,6 +764,10 @@
                         "channel_id": "365"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019"
+                    },
+                    {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
                     },
@@ -976,6 +980,10 @@
                         "channel_id": "771"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008"
+                    },
+                    {
                         "channel_name": "Sport TV2 Portugal",
                         "channel_id": "74"
                     },
@@ -1010,12 +1018,26 @@
                 ]
             },
             {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea World Club Friendly Games : FSV Frankfurt \ud83c\udde9\ud83c\uddea vs Eintracht Frankfurt \ud83c\udde9\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7007"
+                    }
+                ]
+            },
+            {
                 "time": "18:30",
                 "event": "\u26bd \ud83c\udff4\ud83c\uddee\ud83c\uddf9 Club Friendly: Arsenal \ud83c\udff4 vs Como \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
                         "channel_name": "Polsat Sport 2 Poland",
                         "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017"
                     },
                     {
                         "channel_name": "Abu Dhabi Sports 1",
@@ -1084,6 +1106,10 @@
                         "channel_id": "799"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7016"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
@@ -1138,6 +1164,10 @@
                         "channel_id": "558"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014"
+                    },
+                    {
                         "channel_name": "Sky Sport Top Event DE",
                         "channel_id": "556"
                     },
@@ -1174,6 +1204,10 @@
                     {
                         "channel_name": "TV Galicia",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -1232,6 +1266,10 @@
                     {
                         "channel_name": "Nova Sports Prime Greece",
                         "channel_id": "638"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015"
                     },
                     {
                         "channel_name": "Sky Sport 251 IT",
@@ -1325,6 +1363,26 @@
             },
             {
                 "time": "17:00",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddfe Paraguay Copa Paraguay : 29 de Setiembre FBC \ud83c\uddf5\ud83c\uddfe vs Sportivo San Lorenzo \ud83c\uddf5\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7009"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddec\ud83c\uddf7 Greece Super Cup : AEK Athens \ud83c\uddec\ud83c\uddf7 vs OFI Crete \ud83c\uddec\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "\u26bd \ud83c\udde9\ud83c\uddff\ud83c\uddf2\ud83c\uddfc Women's Africa Cup of Nations: Algeria \ud83c\udde9\ud83c\uddff vs Malawi \ud83c\uddf2\ud83c\uddfc",
                 "channels": [
                     {
@@ -1334,6 +1392,10 @@
                     {
                         "channel_name": "Ziggo Sport 2 NL",
                         "channel_id": "398"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7010"
                     },
                     {
                         "channel_name": "Arryadia TNT",
@@ -1356,6 +1418,30 @@
                     {
                         "channel_name": "SuperSport Variety 3",
                         "channel_id": "418"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Milford FC \ud83c\uddff\ud83c\udde6 vs Siwelele FC \ud83c\uddff\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Durban City FC \ud83c\uddff\ud83c\udde6 vs Lamontville Golden Arrows \ud83c\uddff\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -1366,6 +1452,24 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Community Shield : Young Africans SC \ud83c\uddf9\ud83c\uddff vs Simba SC \ud83c\uddf9\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -3298,6 +3402,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1580"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -3348,6 +3456,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1585"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             },
@@ -3358,6 +3474,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1586"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -3368,6 +3488,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1587"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             }
