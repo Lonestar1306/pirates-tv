@@ -1,5 +1,45 @@
 {
     "Thursday 13th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "02:30",
+                "event": "\ud83c\udfce\ufe0f Hasty Bake High Limit Room Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "\ud83c\udfce\ufe0f Nos Energy Knoxville Nationals",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "04:40",
+                "event": "\ud83c\udfce\ufe0f FALS Cup Special Fairbury",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "00:00",
