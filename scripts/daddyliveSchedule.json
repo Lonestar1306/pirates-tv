@@ -1371,6 +1371,16 @@
             },
             {
                 "time": "13:30",
+                "event": "\u26bd \ud83c\udf0d Club Friendly : 1. FSV Mainz 05 vs Bournemouth",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7000"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
                 "event": "\u26bd \ud83c\udf0d Club Friendly : Union Berlin \ud83c\udde9\ud83c\uddea vs Ipswich Town \ud83c\udff4",
                 "channels": [
                     {
@@ -1594,7 +1604,7 @@
                 ]
             },
             {
-                "time": "13:57",
+                "time": "15:26",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -2996,6 +3006,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7057"
                     }
                 ]
             },
@@ -3014,6 +3028,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4124"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7055"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "\u26bd Hungary NB 1 : Ujpest vs MTK Budapest",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7056"
                     }
                 ]
             },
@@ -3032,6 +3060,10 @@
                     {
                         "channel_name": "Magenta Sport 307",
                         "channel_id": "3099"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -3046,6 +3078,10 @@
                     {
                         "channel_name": "ESPN 3 NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7059"
                     }
                 ]
             },
@@ -5562,8 +5598,12 @@
                 "event": "ATP - Singles: \ud83c\udde7\ud83c\uddea Alexander Blockx vs \ud83c\udde6\ud83c\uddf7 Mariano Navone",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -5572,8 +5612,12 @@
                 "event": "ATP - Singles: \ud83c\uddf7\ud83c\uddf8 Miomir Kecmanovi\u0107 vs \ud83c\uddee\ud83c\uddf9 Flavio Cobolli",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -5582,8 +5626,12 @@
                 "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Mart\u00edn Landaluce vs \ud83c\uddee\ud83c\uddf9 Matteo Arnaldi",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -5724,8 +5772,12 @@
                 "event": "WTA - Singles: \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a vs \ud83c\uddf5\ud83c\uddf1 Maja Chwali\u0144ska",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -5734,8 +5786,12 @@
                 "event": "WTA - Singles: \ud83c\uddf5\ud83c\udded Alexandra Eala vs \ud83c\uddf7\ud83c\uddf4 Gabriela Ruse",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
                     }
                 ]
             },
@@ -5744,8 +5800,12 @@
                 "event": "WTA - Singles: \ud83c\uddf9\ud83c\uddf7 Zeynep S\u00f6nmez vs \ud83c\uddfa\ud83c\uddf8 Amanda Anisimova",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -5754,8 +5814,12 @@
                 "event": "WTA - Singles: \ud83c\udde8\ud83c\uddf3 Zhang Shuai vs \ud83c\uddfa\ud83c\uddf8 Kayla Day",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -6103,6 +6167,16 @@
             },
             {
                 "time": "14:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 AMA Supercross Championship : New Berlin \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
                 "event": "\ud83c\udfce\ufe0f Formula E London : Race",
                 "channels": [
                     {
@@ -6138,6 +6212,16 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "3082"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 USAC Road Racing : Road America \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
                     }
                 ]
             },
