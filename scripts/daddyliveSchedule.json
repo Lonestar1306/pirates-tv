@@ -1212,6 +1212,10 @@
                 "event": "\u26bd \ud83c\udf0d Club Friendly : Chelsea \ud83c\udff4 vs Real Sociedad \ud83c\uddea\ud83c\uddf8",
                 "channels": [
                     {
+                        "channel_name": "English Event Feed",
+                        "channel_id": "5000"
+                    },
+                    {
                         "channel_name": "ETB 1 Spain",
                         "channel_id": "1"
                     },
@@ -1256,36 +1260,6 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "7026"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Ykk\u00f6sliiga : JIPPO \ud83c\uddeb\ud83c\uddee vs SJK Akatemia \ud83c\uddeb\ud83c\uddee",
-                "channels": [
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "7027"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Roseng\u00e5rd W \ud83c\uddf8\ud83c\uddea vs Eskilstuna United W \ud83c\uddf8\ud83c\uddea",
-                "channels": [
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "7028"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Hammarby W \ud83c\uddf8\ud83c\uddea vs Pite\u00e5 W \ud83c\uddf8\ud83c\uddea",
-                "channels": [
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "7028"
                     }
                 ]
             },
