@@ -5,6 +5,8 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.12tvparma.it/wp-content/uploads/2021/11/ogg-image.jpg" group-title="Altro",12 TV PARMA
 https://vavoo.to/vavoo-iptv/play/631792369df7bdd7e9291
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",51 CUSANO ITALIA TV
+https://vavoo.to/vavoo-iptv/play/4124613557378009dcb051
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",7 YOU & ME
 https://vavoo.to/vavoo-iptv/play/178775175831e62385f371
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",70-80.IT
@@ -117,8 +119,12 @@ https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA (2)
 https://vavoo.to/vavoo-iptv/play/590125569052ce0130373
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV (1)
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV (2)
+https://vavoo.to/vavoo-iptv/play/1444531463b67ef011dc18
+#EXTINF:-1 tvg-id="equtv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/equ-tv-it.png?raw=true" group-title="Altro",EQU TV
+https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/etv-logo-attuale.png?w=640" group-title="Altro",ESPANSIONE TV
 https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_ESPERIAtv.png" group-title="Altro",ESPERIA TV
@@ -591,10 +597,6 @@ https://vavoo.to/vavoo-iptv/play/15694139179634c11062a2
 https://vavoo.to/vavoo-iptv/play/39657019376a0123c5f968
 #EXTINF:-1 tvg-id="radiomontecarlo.it" tvg-logo="" group-title="Musica",RADIO MONTE CARLO
 https://vavoo.to/vavoo-iptv/play/36504228878f7128ca6771
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO NUMBER ONE
-https://vavoo.to/vavoo-iptv/play/20943914064f53073f1ec3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO STUDIO DELTA TV
-https://vavoo.to/vavoo-iptv/play/392192791518851ccc8b0a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -669,6 +671,10 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORTS 24
+https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
+https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sport",SKY SPORTS GOLF
 https://vavoo.to/vavoo-iptv/play/27177400159a49bec8b4e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
@@ -835,9 +841,7 @@ https://vavoo.to/vavoo-iptv/play/2451443049820d9180f232
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (1)
 https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
