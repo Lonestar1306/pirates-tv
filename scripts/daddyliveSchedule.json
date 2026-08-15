@@ -542,6 +542,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -1218,6 +1222,80 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : GIF Sundsvall \ud83c\uddf8\ud83c\uddea vs Helsingborgs IF \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7024"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : Nordic United FC \ud83c\uddf8\ud83c\uddea vs Varbergs BoIS \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udf0f Asia ASEAN Championship : Singapore \ud83c\uddf8\ud83c\uddec vs Thailand \ud83c\uddf9\ud83c\udded",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7026"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Ykk\u00f6sliiga : JIPPO \ud83c\uddeb\ud83c\uddee vs SJK Akatemia \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7027"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Roseng\u00e5rd W \ud83c\uddf8\ud83c\uddea vs Eskilstuna United W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7028"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Hammarby W \ud83c\uddf8\ud83c\uddea vs Pite\u00e5 W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7028"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Polisi Tanzania \ud83c\uddf9\ud83c\uddff vs Azam FC \ud83c\uddf9\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7029"
                     }
                 ]
             },
@@ -2432,6 +2510,10 @@
                         "channel_id": "128"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
+                    },
+                    {
                         "channel_name": "Arena Sport 1x2 Serbia",
                         "channel_id": "612"
                     },
@@ -2464,6 +2546,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : AmaZulu FC \ud83c\uddff\ud83c\udde6 vs Siwelele FC \ud83c\uddff\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -2474,6 +2570,10 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
