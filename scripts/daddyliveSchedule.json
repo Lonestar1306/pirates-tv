@@ -1320,6 +1320,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
                     }
                 ]
             },
@@ -1342,6 +1346,10 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
                     }
                 ]
             },
@@ -1356,6 +1364,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
                     }
                 ]
             },
@@ -1370,6 +1382,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -1388,6 +1404,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             },
@@ -1402,6 +1422,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -1416,6 +1440,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -1430,6 +1458,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -1444,6 +1476,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
                     }
                 ]
             },
@@ -1458,6 +1494,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
                     }
                 ]
             },
@@ -1472,6 +1512,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
                     }
                 ]
             }
@@ -1828,7 +1872,7 @@
                 ]
             },
             {
-                "time": "19:59",
+                "time": "21:38",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -5182,6 +5226,40 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7040"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional Guabir\u00e1 vs The Strongest",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7041"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Ecuador LigaPro Serie A, Primera Etapa : Guayaquil City vs Libertad",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7042"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n, Clausura : Sportivo Trinidense vs Nacional Asunci\u00f3n",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7043"
                     }
                 ]
             },
@@ -5204,6 +5282,10 @@
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7046"
                     }
                 ]
             },
@@ -5218,6 +5300,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7044"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Brazil Brasileir\u00e3o S\u00e9rie B : Juventude vs Fortaleza",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7045"
                     }
                 ]
             },
@@ -6896,6 +6992,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -6954,6 +7054,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
