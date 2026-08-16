@@ -693,6 +693,16 @@
         "Club Friendly \u26bd": [
             {
                 "time": "11:00",
+                "event": "\u26bd \ud83c\udff4 Friendly : Tottenham Hotspur \ud83c\udff4 vs TSG Hoffenheim \ud83c\udde9\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7009"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
                 "event": "\u26bd Club Friendly : Liverpool \ud83c\uddec\ud83c\udde7 vs Como \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
@@ -1097,6 +1107,16 @@
             },
             {
                 "time": "11:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : IFK V\u00e4rnamo \ud83c\uddf8\ud83c\uddea vs \u00d6stersunds FK \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7010"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland - II Liga : Zawisza Bydgoszcz \ud83c\uddf5\ud83c\uddf1 vs Lechia Zielona G\u00f3ra \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
@@ -1112,6 +1132,10 @@
                     {
                         "channel_name": "Magenta Sport 301",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7016"
                     },
                     {
                         "channel_name": "Sportklub 4 Croatia",
@@ -1134,6 +1158,10 @@
                     {
                         "channel_name": "Match TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -1174,6 +1202,10 @@
                         "channel_id": "948"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015"
+                    },
+                    {
                         "channel_name": "Eleven Sports 2 Poland",
                         "channel_id": "72"
                     },
@@ -1202,6 +1234,10 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 2",
                         "channel_id": "946"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014"
                     },
                     {
                         "channel_name": "Sky Sport Top Event DE",
@@ -1290,6 +1326,10 @@
                         "channel_id": "947"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013"
+                    },
+                    {
                         "channel_name": "Eleven Sports 3 Poland",
                         "channel_id": "428"
                     },
@@ -1330,6 +1370,10 @@
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -1344,6 +1388,10 @@
                     {
                         "channel_name": "TV2 Sport X Denmark",
                         "channel_id": "3069"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -1358,6 +1406,10 @@
                     {
                         "channel_name": "TV3 Sport Denmark",
                         "channel_id": "3068"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -1368,6 +1420,10 @@
                     {
                         "channel_name": "Viaplay Sports News Denmark",
                         "channel_id": "806"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -1394,6 +1450,10 @@
                         "channel_id": "3075"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2006"
                     }
@@ -1412,6 +1472,10 @@
                         "channel_id": "3072"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
                     }
@@ -1428,6 +1492,10 @@
                     {
                         "channel_name": "TV4 Fotball",
                         "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -6084,6 +6152,10 @@
                 "event": "\ud83c\udfcd\ufe0f World Championship Sweden | MX2 | Race 1",
                 "channels": [
                     {
+                        "channel_name": "TNT Sport Feed",
+                        "channel_id": "68"
+                    },
+                    {
                         "channel_name": "Automoto La cha\u00eene",
                         "channel_id": "951"
                     },
@@ -6177,6 +6249,10 @@
                 "time": "12:00",
                 "event": "\ud83c\udfcd\ufe0f World Championship Sweden | MXGP | Race 1",
                 "channels": [
+                    {
+                        "channel_name": "TNT Sport Feed",
+                        "channel_id": "68"
+                    },
                     {
                         "channel_name": "Automoto La cha\u00eene",
                         "channel_id": "951"
@@ -6324,6 +6400,10 @@
                 "event": "\ud83c\udfcd\ufe0f World Championship Sweden | MX2 | Race 2",
                 "channels": [
                     {
+                        "channel_name": "TNT Sport Feed",
+                        "channel_id": "68"
+                    },
+                    {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
                     },
@@ -6351,6 +6431,10 @@
                 "time": "15:00",
                 "event": "\ud83c\udfcd\ufe0f World Championship Sweden | MXGP | Race 2",
                 "channels": [
+                    {
+                        "channel_name": "TNT Sport Feed",
+                        "channel_id": "68"
+                    },
                     {
                         "channel_name": "Automoto La cha\u00eene",
                         "channel_id": "951"
