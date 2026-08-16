@@ -692,6 +692,36 @@
         ],
         "Club Friendly \u26bd": [
             {
+                "time": "11:00",
+                "event": "\u26bd Club Friendly : Liverpool \ud83c\uddec\ud83c\udde7 vs Como \ud83c\uddee\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "LFCTV",
+                        "channel_id": "826"
+                    },
+                    {
+                        "channel_name": "Sky Sport Bundesliga 1",
+                        "channel_id": "558"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004"
+                    },
+                    {
+                        "channel_name": "Sky Sport Top Event DE",
+                        "channel_id": "556"
+                    },
+                    {
+                        "channel_name": "FOX Deportes",
+                        "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Sport 1 Israel",
+                        "channel_id": "140"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "\u26bd Club Friendly : Nottingham Forest \ud83c\uddec\ud83c\udde7 vs Brest \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
@@ -830,6 +860,10 @@
                         "channel_id": "826"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004"
+                    },
+                    {
                         "channel_name": "Sky Sport Bundesliga 1",
                         "channel_id": "558"
                     },
@@ -939,11 +973,25 @@
             },
             {
                 "time": "10:00",
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J.League : Tokushima Vortis \ud83c\uddef\ud83c\uddf5 vs Sagan Tosu \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7000"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
                 "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukrainian Premier League : LNZ Cherkasy \ud83c\uddfa\ud83c\udde6 vs Chornomorets \ud83c\uddfa\ud83c\udde6",
                 "channels": [
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -968,6 +1016,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003"
                     }
                 ]
             },
@@ -984,8 +1036,52 @@
                         "channel_id": "3088"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7002"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division : Pite\u00e5 IF \ud83c\uddf8\ud83c\uddea vs Vasalunds IF \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7005"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Ulsan HD FC \ud83c\uddf0\ud83c\uddf7 vs Gangwon FC \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Incheon United \ud83c\uddf0\ud83c\uddf7 vs Gimcheon Sangmu FC \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7007"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Bucheon FC 1995 \ud83c\uddf0\ud83c\uddf7 vs Jeonbuk Hyundai Motors \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
