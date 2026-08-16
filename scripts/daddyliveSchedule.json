@@ -1,5 +1,67 @@
 {
     "Sunday 16th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "\ud83e\udd3c GCW Homecoming Part 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "\ud83c\udfce\ufe0f Super DIRTcar Series: Weedsport",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfce\ufe0f USAC National Midgets: Jacksonville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfce\ufe0f GO Kart Night: Slinger",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd4a Anthony Pettis FC 24",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83e\udd3c Primos Pro Wrestling: Scorched Summer 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
