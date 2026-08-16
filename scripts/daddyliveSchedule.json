@@ -556,6 +556,10 @@
                     {
                         "channel_name": "RTE 2 Ireland",
                         "channel_id": "365"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7029"
                     }
                 ]
             },
@@ -742,6 +746,10 @@
                     {
                         "channel_name": "Ligue1+ France",
                         "channel_id": "3051"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7025"
                     }
                 ]
             },
@@ -1510,6 +1518,20 @@
                     {
                         "channel_name": "TV 2 Play Norway",
                         "channel_id": "3067"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland I Liga : \u0141KS \u0141\u00f3d\u017a \ud83c\uddf5\ud83c\uddf1 vs Bruk-Bet Termalica Nieciecza \ud83c\uddf5\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -1528,6 +1550,10 @@
                     {
                         "channel_name": "CBS Sports Golazo USA",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7001"
                     },
                     {
                         "channel_name": "beIN Sports MAX 4 France",
@@ -1604,6 +1630,10 @@
                         "channel_id": "379"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003"
+                    },
+                    {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "571"
                     },
@@ -1668,6 +1698,10 @@
                     {
                         "channel_name": "ESPN 3 NL",
                         "channel_id": "3089"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7002"
                     }
                 ]
             },
@@ -1678,6 +1712,10 @@
                     {
                         "channel_name": "UPL.TV",
                         "channel_id": "151"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7006"
                     }
                 ]
             },
@@ -1700,6 +1738,10 @@
                         "channel_id": "259"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7007"
+                    },
+                    {
                         "channel_name": "Arena Sport 3 Croatia",
                         "channel_id": "434"
                     },
@@ -1716,6 +1758,60 @@
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udff4 Scottish League Cup : Hibernian \ud83c\udff4 vs Partick Thistle \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7009"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udff4 Scottish League Cup : Heart of Midlothian \ud83c\udff4 vs Inverness Caledonian Thistle \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7010"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udff4 Scottish League Cup : Stenhousemuir \ud83c\udff4 vs Motherwell \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7023"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddfe Paraguay Primera Divisi\u00f3n : Cerro Porte\u00f1o \ud83c\uddf5\ud83c\uddfe vs San Lorenzo \ud83c\uddf5\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7026"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : IFK Norrk\u00f6ping Women \ud83c\uddf8\ud83c\uddea vs Kristianstads DFF Women \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7027"
                     }
                 ]
             },
@@ -1726,6 +1822,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3077"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7030"
                     }
                 ]
             },
@@ -1736,6 +1836,20 @@
                     {
                         "channel_name": "Oneplay Sport 3 CZ",
                         "channel_id": "1029"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7031"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfe ASEAN Championship : Malaysia \ud83c\uddf2\ud83c\uddfe vs Vietnam \ud83c\uddfb\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7032"
                     }
                 ]
             },
@@ -1746,6 +1860,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -8162,6 +8280,10 @@
                     {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "592"
+                    },
+                    {
+                        "channel_name": "Event Streams",
+                        "channel_id": "7024"
                     },
                     {
                         "channel_name": "SuperSport Rugby",
