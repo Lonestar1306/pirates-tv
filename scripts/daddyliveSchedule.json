@@ -750,12 +750,26 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "\u26bd Denmark Oddset Pokalen : Nykobing vs Naestved",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
                 "time": "17:45",
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddfa Russian Cup : Akhmat Grozny \ud83c\uddf7\ud83c\uddfa vs Fakel Voronezh \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
                         "channel_name": "MATCH! Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
                     }
                 ]
             },
@@ -766,6 +780,10 @@
                     {
                         "channel_name": "MATCH TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
                     }
                 ]
             },
@@ -786,6 +804,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
                     }
                 ]
             },
@@ -796,6 +818,80 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Greece Greece Cup : Levadiakos vs Asteras Tripolis",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd England EFL Trophy : Northampton vs Brighton U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd England EFL Trophy : Reading vs Wycombe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd England EFL Trophy : Stockport County vs Everton U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd England EFL Trophy : Wigan vs Aston Villa U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd England EFL Trophy : Barnet vs Arsenal U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Bolivia Copa Bolivia : SA Bulo Bulo vs Aurora",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
                     }
                 ]
             },
@@ -944,6 +1040,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     }
                 ]
             },
@@ -1078,6 +1178,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
                     }
                 ]
             },
@@ -1192,6 +1296,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     }
                 ]
             },
