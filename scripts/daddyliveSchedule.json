@@ -1,5 +1,37 @@
 {
     "Tuesday 18th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:45",
+                "event": "\ud83c\udfce\ufe0f Super DIRTcar Series: Land of Legends",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfce\ufe0f Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfce\ufe0f FloRacing Night: Marshalltown",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
