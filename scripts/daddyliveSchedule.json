@@ -871,7 +871,137 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "151"
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd England EFL Trophy : Leyton Orient vs AFC Wimbledon",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Boreham Wood vs Leeds U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Boston Utd vs Birmingham U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Sutton vs Leicester U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Scunthorpe vs Stoke City U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Truro vs Southampton U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Gateshead vs Nottingham U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd National League Cup : Northampton vs Brighton U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\u26bd National League Cup : Braintree vs Ipswich U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\u26bd National League Cup : Worthing vs West Ham U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd National League Cup : Aldershot vs Fulham U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd National League Cup : Tamworth vs Newcastle Utd U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd National League Cup : Woking vs West Brom U21",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
                     }
                 ]
             },
@@ -909,11 +1039,15 @@
                     },
                     {
                         "channel_name": "Canal+ Sport360 France",
-                        "channel_id": "3053"
+                        "channel_id": "464"
                     },
                     {
                         "channel_name": "Cosmote Sport 1 Greece",
                         "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport360 France",
+                        "channel_id": "3053"
                     }
                 ]
             },
@@ -1044,6 +1178,14 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "paramount+",
+                        "channel_id": "6001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -1182,6 +1324,14 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "paramount+",
+                        "channel_id": "6002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -1300,6 +1450,14 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "paramount+",
+                        "channel_id": "6003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -2314,6 +2472,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
