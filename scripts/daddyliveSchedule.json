@@ -969,7 +969,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "55"
+                        "channel_id": "105"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -983,11 +983,21 @@
             },
             {
                 "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 Slovakia Slovnaft Cup : TJ Jednota B\u00e1nov\u00e1 \ud83c\uddf8\ud83c\uddf0 vs AS Tren\u010d\u00edn \ud83c\uddf8\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Mash'al Mubarek \ud83c\uddfa\ud83c\uddff vs FC Andijon \ud83c\uddfa\ud83c\uddff",
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "55"
+                        "channel_id": "106"
                     }
                 ]
             },
