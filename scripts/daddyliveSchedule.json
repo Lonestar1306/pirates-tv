@@ -922,6 +922,26 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddec\ud83c\uddf7 Greece Cup, Qualification : GS Niki Volou \ud83c\uddec\ud83c\uddf7 vs GSS Panionios \ud83c\uddec\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : FC OKMK \ud83c\uddfa\ud83c\uddff vs Dinamo Samarqand \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "SD Stream",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
                 "time": "14:15",
                 "event": "\u26bd \ud83c\uddec\ud83c\uddf7 Greece - Greek Cup : Kalamata \ud83c\uddec\ud83c\uddf7 vs Panaitolikos \ud83c\uddec\ud83c\uddf7",
                 "channels": [
@@ -932,6 +952,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
                     }
                 ]
             },
@@ -944,12 +968,26 @@
                         "channel_id": "400"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    },
+                    {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
                     },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4103"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Mash'al Mubarek \ud83c\uddfa\ud83c\uddff vs FC Andijon \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
                     }
                 ]
             },
@@ -2412,230 +2450,340 @@
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe ATP - Singles: Cincinnati (USA), Hard": [
+        "\ud83c\udfbe ATP Cincinnati / \ud83c\udfbe WTA Cincinnati": [
             {
                 "time": "15:00",
-                "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Rodrigo Jodar vs \ud83c\uddee\ud83c\uddf9 Flavio Cobolli",
+                "event": "\ud83c\udfbe ATP Cincinnati : Rafael Jodar \ud83c\uddea\ud83c\uddf8 vs Flavio Cobolli \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1071"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe ATP Cincinnati : Robert Galloway \ud83c\uddfa\ud83c\uddf8/Evan King \ud83c\uddfa\ud83c\uddf8 vs Luciano Darderi \ud83c\uddee\ud83c\uddf9/Tomas Martin Etcheverry \ud83c\udde6\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1087"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe ATP Cincinnati : Austin Krajicek \ud83c\uddfa\ud83c\uddf8/Nikola Mektic \ud83c\udded\ud83c\uddf7 vs Marcel Granollers \ud83c\uddea\ud83c\uddf8/Horacio Zeballos \ud83c\udde6\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1088"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA Cincinnati : Iga Swiatek \ud83c\uddf5\ud83c\uddf1 vs Diane Parry \ud83c\uddeb\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1079"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA Cincinnati : Magali Kempen \ud83c\udde7\ud83c\uddea/Alexandra Panova \ud83c\uddf7\ud83c\uddfa vs Anna Danilina \ud83c\uddf0\ud83c\uddff/Aleksandra Krunic \ud83c\uddf7\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1089"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "ATP - Singles: \ud83c\udde6\ud83c\uddf7 Thiago Agustin Tirante vs \ud83c\udde8\ud83c\uddff Jakub Mensik",
+                "event": "\ud83c\udfbe ATP Cincinnati : Thiago Agustin Tirante \ud83c\udde6\ud83c\uddf7 vs Jakub Mensik \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1072"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe WTA Cincinnati : Sorana Cirstea \ud83c\uddf7\ud83c\uddf4 vs Jessica Pegula \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1081"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "ATP - Singles: \ud83c\udde9\ud83c\uddea Alexander Zverev vs \ud83c\uddfa\ud83c\uddf8 Tommy Paul",
+                "event": "\ud83c\udfbe ATP Cincinnati : Alexander Zverev \ud83c\udde9\ud83c\uddea vs Tommy Paul \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1073"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe WTA Cincinnati : Marta Kostyuk \ud83c\uddfa\ud83c\udde6 vs Mirra Andreeva \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1081"
                     }
                 ]
             },
             {
                 "time": "18:00",
-                "event": "ATP - Singles: \ud83c\uddeb\ud83c\uddf7 Arthur Fils vs \ud83c\udde6\ud83c\uddfa Alex de Minaur",
+                "event": "\ud83c\udfbe ATP Cincinnati : Arthur Fils \ud83c\uddeb\ud83c\uddf7 vs Alex De Minaur \ud83c\udde6\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1074"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe WTA Cincinnati : Diana Shnaider \ud83c\uddf7\ud83c\uddfa vs Elena Rybakina \ud83c\uddf0\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1082"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe WTA Cincinnati : Linda Noskova \ud83c\udde8\ud83c\uddff vs Amanda Anisimova \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1083"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe WTA Cincinnati : Marta Kostyuk \ud83c\uddfa\ud83c\udde6/Peyton Stearns \ud83c\uddfa\ud83c\uddf8 vs Hanyu Guo \ud83c\udde8\ud83c\uddf3/Kristina Mladenovic \ud83c\uddeb\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1092"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe WTA Cincinnati : Coco Gauff \ud83c\uddfa\ud83c\uddf8 vs Marie Bouzkova \ud83c\udde8\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1084"
                     }
                 ]
             },
             {
                 "time": "19:30",
-                "event": "ATP - Singles: \ud83c\uddf5\ud83c\uddf9 Nuno Borges vs \ud83c\uddfa\ud83c\uddf8 Brandon Nakashima",
+                "event": "\ud83c\udfbe ATP Cincinnati : Nuno Borges \ud83c\uddf5\ud83c\uddf9 vs Brandon Nakashima \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1075"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe ATP Cincinnati : Marcelo Melo \ud83c\udde7\ud83c\uddf7/Alexander Zverev \ud83c\udde9\ud83c\uddea vs Orlando Luz \ud83c\udde7\ud83c\uddf7/Rafael Matos \ud83c\udde7\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1091"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe WTA Cincinnati : Gabriela Dabrowski \ud83c\udde8\ud83c\udde6/Barbora Krejcikova \ud83c\udde8\ud83c\uddff vs Marie Bouzkova \ud83c\udde8\ud83c\uddff/Linda Noskova \ud83c\udde8\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1094"
                     }
                 ]
             },
             {
                 "time": "21:00",
-                "event": "ATP - Singles: \ud83c\uddf5\ud83c\uddf9 Jaime Faria vs \ud83c\uddee\ud83c\uddf9 Lorenzo Musetti",
+                "event": "\ud83c\udfbe ATP Cincinnati : Jaime Faria \ud83c\uddf5\ud83c\uddf9 vs Lorenzo Musetti \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1075"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe ATP Cincinnati : Sadio Doumbia \ud83c\uddeb\ud83c\uddf7/Fabien Reboul \ud83c\uddeb\ud83c\uddf7 vs Jakob Schnaitter \ud83c\udde9\ud83c\uddea/Mark Wallner \ud83c\udde9\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1093"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe WTA Cincinnati : Katerina Siniakova \ud83c\udde8\ud83c\uddff/Taylor Townsend \ud83c\uddfa\ud83c\uddf8 vs Iva Jovic \ud83c\uddfa\ud83c\uddf8/Caty McNally \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1090"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Taylor Fritz vs \ud83c\udde6\ud83c\uddfa Christopher O'Connell",
+                "event": "\ud83c\udfbe ATP Cincinnati : Taylor Fritz \ud83c\uddfa\ud83c\uddf8 vs Christopher O'Connell \ud83c\udde6\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles: Cincinnati (USA), Hard": [
-            {
-                "time": "15:00",
-                "event": "WTA - Singles: \ud83c\uddf5\ud83c\uddf1 Iga Swiatek vs \ud83c\uddeb\ud83c\uddf7 Diane Parry",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1571"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "WTA - Singles: \ud83c\uddf7\ud83c\uddf4 Sorana Cirstea vs \ud83c\uddfa\ud83c\uddf8 Jessica Pegula",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\uddf7\ud83c\uddfa Mirra Andreeva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "WTA - Singles: \ud83c\uddf7\ud83c\uddfa Diana Shnaider vs \ud83c\uddf0\ud83c\uddff Elena Rybakina",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Singles: \ud83c\udde8\ud83c\uddff Linda Noskova vs \ud83c\uddfa\ud83c\uddf8 Amanda Anisimova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1077"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Madison Keys vs \ud83c\udde8\ud83c\uddf3 Wang Xiyu",
+                "event": "\ud83c\udfbe WTA Cincinnati : Madison Keys \ud83c\uddfa\ud83c\uddf8 vs Xiyu Wang \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1572"
+                    },
+                    {
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1085"
                     }
                 ]
             },
             {
                 "time": "00:30",
-                "event": "WTA - Singles: \ud83c\udde7\ud83c\uddfe Aryna Sabalenka vs \ud83c\udde8\ud83c\uddff Sara Bejlek",
+                "event": "\ud83c\udfbe ATP Cincinnati : Frances Tiafoe \ud83c\uddfa\ud83c\uddf8 vs F\u00e9lix Auger-Aliassime \ud83c\udde8\ud83c\udde6",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - DOUBLES: Cincinnati (USA), hard": [
-            {
-                "time": "15:00",
-                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddf8 Robert Galloway / \ud83c\uddfa\ud83c\uddf8 Evan King vs \ud83c\uddee\ud83c\uddf9 Luciano Darderi / \ud83c\udde6\ud83c\uddf7 Tomas Martin Etcheverry",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1573"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1078"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "ATP - Doubles: \ud83c\uddfa\ud83c\uddf8 Austin Krajicek / \ud83c\uddf2\ud83c\udde8 Nikola Mektic vs \ud83c\uddea\ud83c\uddf8 Marcel Granollers / \ud83c\udde6\ud83c\uddf7 Horacio Zeballos",
+                "time": "00:30",
+                "event": "\ud83c\udfbe WTA Cincinnati : Aryna Sabalenka \ud83c\udde7\ud83c\uddfe vs Sara Bejlek \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "ATP - Doubles: \ud83c\udde7\ud83c\uddf7 Marcelo Melo / \ud83c\udde9\ud83c\uddea Alexander Zverev vs \ud83c\udde7\ud83c\uddf7 Orlando Luz / \ud83c\udde7\ud83c\uddf7 Rafael Matos",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "ATP - Doubles: \ud83c\uddeb\ud83c\uddf7 Sadio Doumbia / \ud83c\uddeb\ud83c\uddf7 Fabien Reboul vs \ud83c\udde9\ud83c\uddea Jakob Schnaitter / \ud83c\udde9\ud83c\uddea Mark Wallner",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - DOUBLES: Cincinnati (USA), hard": [
-            {
-                "time": "15:00",
-                "event": "WTA - Doubles: \ud83c\udde7\ud83c\uddea Magali Kempen / \ud83c\uddfd\ud83c\uddf0 Anastasia Panova vs \ud83c\uddf0\ud83c\uddff Anna Danilina / \ud83c\uddf7\ud83c\uddf8 Aleksandra Krunic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "WTA - Doubles: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk / \ud83c\uddfa\ud83c\uddf8 Peyton Stearns vs \ud83c\udde8\ud83c\uddf3 Hanyu Guo / \ud83c\uddeb\ud83c\uddf7 Kristina Mladenovic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "WTA - Doubles: \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\udde8\ud83c\uddff Barbora Krejcikova vs \ud83c\udde8\ud83c\uddff Marie Bouzkova / \ud83c\udde8\ud83c\uddff Linda Noskova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "WTA - Doubles: \ud83c\udde8\ud83c\uddff Katerina Siniakova / \ud83c\uddfa\ud83c\uddf8 Taylor Townsend vs \ud83c\uddfa\ud83c\uddf8 Iva Jovic / \ud83c\uddfa\ud83c\uddf8 Caty McNally",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis TV HD",
+                        "channel_id": "1086"
                     }
                 ]
             }
