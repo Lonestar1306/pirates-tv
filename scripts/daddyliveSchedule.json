@@ -423,7 +423,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "76"
+                        "channel_id": "106"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -914,6 +914,16 @@
                     {
                         "channel_name": "STV 1 Slovenia",
                         "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd \ud83c\udded\ud83c\uddf7 UEFA Conference League : HNK Hajduk Split \ud83c\udded\ud83c\uddf7 vs Rak\u00f3w Cz\u0119stochowa \ud83c\uddf5\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Hajduk TV Croatia",
+                        "channel_id": "158"
                     }
                 ]
             }
