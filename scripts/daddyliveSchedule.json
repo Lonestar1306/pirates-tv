@@ -1,5 +1,47 @@
 {
     "Thursday 20th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 Southern Nationals: Toccoa",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd4b UFC BJJ 10: Tackett vs Gracie",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "28"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfc1 High Limit Racing: Santa Maria",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83e\udd3c Primos Pro Wrestling: Scorched Summer 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
