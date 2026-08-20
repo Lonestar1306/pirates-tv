@@ -700,6 +700,10 @@
                 "event": "\u26bd \ud83c\uddec\ud83c\uddf7 UEFA Europa League : Benfica vs AGF",
                 "channels": [
                     {
+                        "channel_name": "SIC Portugal",
+                        "channel_id": "722"
+                    },
+                    {
                         "channel_name": "TV Portugal",
                         "channel_id": "3021"
                     },
@@ -1155,7 +1159,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "158"
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -1177,7 +1181,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "159"
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -1195,7 +1199,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "160"
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -1220,6 +1224,16 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Bolivia Copa Bolivia : Always Ready vs Real Oruro",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     }
                 ]
             },
