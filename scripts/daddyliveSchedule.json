@@ -384,12 +384,46 @@
         ],
         "UEFA Europa League \u26bd": [
             {
+                "time": "14:30",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Cup : Selimbar \ud83c\uddf7\ud83c\uddf4 vs FC Botosani \ud83c\uddf7\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Ykkosliiga : KaPa \ud83c\uddeb\ud83c\uddee vs Jippo \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Xorazm Urganch \ud83c\uddfa\ud83c\uddff vs Lokomotiv Tashkent \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "\u26bd \ud83c\uddf0\ud83c\uddff UEFA Europa League : Kairat \ud83c\uddf0\ud83c\uddff vs Anderlecht \ud83c\udde7\ud83c\uddea",
                 "channels": [
                     {
                         "channel_name": "QazSport",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -424,6 +458,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddec\ud83c\uddee UEFA Conference League : Lincoln Red Imps \ud83c\uddec\ud83c\uddee vs Larne \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee UEFA Conference League : Inter Turku \ud83c\uddeb\ud83c\uddee vs FC Copenhagen \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
                     }
                 ]
             },
@@ -442,6 +500,10 @@
                     {
                         "channel_name": "Polsat Sport Premium 1 Poland",
                         "channel_id": "3061"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     }
                 ]
             },
@@ -888,6 +950,20 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Bunyodkor \ud83c\uddfa\ud83c\uddff vs Kokand 1912 \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
                     }
                 ]
             },
@@ -916,6 +992,26 @@
                 ]
             },
             {
+                "time": "15:30",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Young Africans \ud83c\uddf9\ud83c\uddff vs Coastal Union \ud83c\uddf9\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddfe Belarus Vysshaya Liga : Dinamo Minsk \ud83c\udde7\ud83c\uddfe vs Torpedo-BelAZ Zhodino \ud83c\udde7\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway - Toppserien : Rosenborg \ud83c\uddf3\ud83c\uddf4 vs Lyn \ud83c\uddf3\ud83c\uddf4",
                 "channels": [
@@ -932,6 +1028,46 @@
                     {
                         "channel_name": "Canal 11 Portugal",
                         "channel_id": "540"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : Vasalund \ud83c\uddf8\ud83c\uddea vs IFK Norrk\u00f6ping \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : Pite\u00e5 IF FF \ud83c\uddf8\ud83c\uddea vs AIK \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : H\u00e4ssleholms IF \ud83c\uddf8\ud83c\uddea vs Landskrona BoIS \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : FC Arlanda \ud83c\uddf8\ud83c\uddea vs \u00d6stersunds FK \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
                     }
                 ]
             },
@@ -3658,6 +3794,10 @@
                     {
                         "channel_name": "Sky Sports Golf DE",
                         "channel_id": "785"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
                     },
                     {
                         "channel_name": "ESPN USA",
