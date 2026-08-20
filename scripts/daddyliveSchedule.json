@@ -562,6 +562,14 @@
                     {
                         "channel_name": "SRF zwei",
                         "channel_id": "3016"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6008"
                     }
                 ]
             },
@@ -572,6 +580,14 @@
                     {
                         "channel_name": "S Sport+ Turkey",
                         "channel_id": "3091"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6005"
                     }
                 ]
             },
@@ -594,6 +610,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6009"
                     }
                 ]
             },
@@ -608,6 +632,14 @@
                     {
                         "channel_name": "Cytavision Sports 1 Cyprus",
                         "channel_id": "3024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6010"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     }
                 ]
             },
@@ -630,6 +662,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -652,6 +688,10 @@
                     {
                         "channel_name": "Cosmote Sport 1 Greece",
                         "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -673,11 +713,29 @@
         "UEFA Conference League \u26bd": [
             {
                 "time": "17:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Conference League : Midtjylland vs Rijeka",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6002"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Conference League : Nordsj\u00e6lland \ud83c\udde9\ud83c\uddf0 vs St. Gallen \ud83c\udde8\ud83c\udded",
                 "channels": [
                     {
                         "channel_name": "SRF Zwei",
                         "channel_id": "439"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -688,6 +746,48 @@
                     {
                         "channel_name": "VG+",
                         "channel_id": "3076"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Conference League : Univ Craiova vs Ararat-Armenia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6006"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Conference League : Egnatia vs Lillestrom",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6007"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Conference League : Klaksvik vs Riga FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     }
                 ]
             },
@@ -706,6 +806,10 @@
                     {
                         "channel_name": "Open TV Greece",
                         "channel_id": "3025"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             },
@@ -732,6 +836,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddec\ud83c\uddf7 UEFA Conference League : Drita vs Inter Escaldes",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
                     }
                 ]
             },
@@ -762,6 +880,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 UEFA Conference League : Vikingur Reykjavik vs Borac Banja Luka",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
                     }
                 ]
             },
@@ -776,6 +908,10 @@
                     {
                         "channel_name": "Ziggo Sport NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
                     }
                 ]
             },
@@ -1148,6 +1284,10 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6004"
                     }
                 ]
             },
