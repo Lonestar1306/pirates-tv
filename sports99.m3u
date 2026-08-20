@@ -2453,6 +2453,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X%20HD%20DK&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[NFL] 2026-08-21 00:00 - NFL - Houston Texans vs Las Vegas Raiders (ESPN 3 Primera HD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20Primera%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-08-21 02:00 - NFL - Los Angeles Chargers vs San Francisco 49ers (NFL Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-21 23:00 - NFL - Pittsburgh Steelers vs New York Jets (NFL Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-22 01:00 - NFL - Denver Broncos vs Green Bay Packers (NFL Network US)
@@ -2601,6 +2603,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-07 22:00 - CFL - Calgary Stampeders vs Edmonton Elks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NFL Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-12 17:00 - CFL - Toronto Argonauts vs Ottawa Redblacks (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-12 17:00 - CFL - Toronto Argonauts vs Ottawa Redblacks (TSN 3 HD CA)
@@ -2763,22 +2767,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 16:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 16:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (MLB | St. Louis Cardinals)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (MLB | Tampa Bay Rays)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (MLB | Toronto Blue Jays)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (Sportsnet West HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Cleveland Guardians vs San Francisco Giants (MLB | Cleveland Guardians)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Cleveland Guardians vs San Francisco Giants (MLB | San Francisco Giants)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-12-13 21:25 - NFL - San Francisco 49ers vs Los Angeles Rams (NFL Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-12-18 01:15 - NFL - Los Angeles Chargers vs San Francisco 49ers (NFL Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 18:10 - MLB - Milwaukee Brewers vs Seattle Mariners (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 18:10 - MLB - Milwaukee Brewers vs Seattle Mariners (MLB | Seattle Mariners)
@@ -6949,8 +6941,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2041)%20%7C%20Pract
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 21:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 21:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 21:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 21:00 - UFC -  vs  (UFC Starzplay)
@@ -6963,8 +6953,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (UFC Starzplay)
@@ -6977,8 +6965,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Starzplay)
@@ -6991,8 +6977,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7005,8 +6989,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Starzplay)
@@ -7019,8 +7001,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7033,8 +7013,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7047,8 +7025,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7061,8 +7037,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7075,8 +7049,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7089,8 +7061,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7103,8 +7073,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7117,8 +7085,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7131,8 +7097,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7145,8 +7109,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7159,8 +7121,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7173,8 +7133,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (UFC Starzplay)
@@ -7231,8 +7189,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 21:30 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 21:30 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 21:30 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 21:30 - Professional Fighters League -  vs  (UFC Starzplay)
@@ -7245,8 +7201,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
@@ -7259,8 +7213,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
