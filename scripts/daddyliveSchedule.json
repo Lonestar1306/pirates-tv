@@ -1078,6 +1078,14 @@
                     {
                         "channel_name": "Sportklub 8 Croatia",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4118"
                     }
                 ]
             },
@@ -1246,6 +1254,18 @@
                     {
                         "channel_name": "SuperSport Laliga",
                         "channel_id": "415"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4123"
                     }
                 ]
             },
@@ -1300,6 +1320,14 @@
                     {
                         "channel_name": "beIN Sports MENA English 1",
                         "channel_id": "61"
+                    },
+                    {
+                        "channel_name": "Sky Sports Football UK",
+                        "channel_id": "3005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4101"
                     }
                 ]
             },
@@ -1318,6 +1346,10 @@
                     {
                         "channel_name": "beIN Sports MENA English 2",
                         "channel_id": "90"
+                    },
+                    {
+                        "channel_name": "Sport TV2 Portugal",
+                        "channel_id": "3022"
                     }
                 ]
             },
@@ -1348,6 +1380,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Sportdigital FUSSBALL",
+                        "channel_id": "3019"
                     }
                 ]
             },
@@ -1382,6 +1418,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "sportdigital1+",
+                        "channel_id": "3020"
                     }
                 ]
             },
@@ -1474,6 +1514,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "sportdigital1+",
+                        "channel_id": "3020"
                     }
                 ]
             },
@@ -1508,6 +1552,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Sportdigital FUSSBALL",
+                        "channel_id": "3019"
                     }
                 ]
             },
@@ -3187,11 +3235,55 @@
         "Ice Hockey \ud83c\udfd2": [
             {
                 "time": "16:00",
+                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Almtuna IS vs HV71",
+                "channels": [
+                    {
+                        "channel_name": "Sportbladet Plus",
+                        "channel_id": "3072"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Brynas vs IF Bjorkloven",
                 "channels": [
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "TV4 Hockey Sweden",
+                        "channel_id": "3074"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : F\u00e4rjestad BK vs Leksands IF",
+                "channels": [
+                    {
+                        "channel_name": "Expressen +Allt Sweden",
+                        "channel_id": "3073"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Kalmar HC vs Malm\u00f6 Redhawks",
+                "channels": [
+                    {
+                        "channel_name": "Sportbladet Plus Sweden",
+                        "channel_id": "3071"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Modo Hockey vs Skellefte\u00e5 AIK",
+                "channels": [
+                    {
+                        "channel_name": "Sportbladet Plus Sweden",
+                        "channel_id": "3075"
                     }
                 ]
             }
@@ -3368,6 +3460,14 @@
                     {
                         "channel_name": "Kanal 1 Sport Slovakia",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "QazSport",
+                        "channel_id": "3067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111"
                     }
                 ]
             },
@@ -3378,6 +3478,14 @@
                     {
                         "channel_name": "Servus TV Austria",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Sport Bladet Play",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4103"
                     }
                 ]
             },
@@ -3392,6 +3500,10 @@
                     {
                         "channel_name": "Polsat Sport Premium 1 Poland",
                         "channel_id": "991"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Premium 1 Poland",
+                        "channel_id": "3061"
                     }
                 ]
             },
@@ -3406,6 +3518,20 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "SRF zwei",
+                        "channel_id": "3016"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 UEFA Europa League : Be\u015fikta\u015f vs Kauno \u017dalgiris",
+                "channels": [
+                    {
+                        "channel_name": "S Sport+ Turkey",
+                        "channel_id": "3091"
                     }
                 ]
             },
@@ -3420,6 +3546,14 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "M4 Sports Hungary",
+                        "channel_id": "3064"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4110"
                     }
                 ]
             },
@@ -3430,6 +3564,10 @@
                     {
                         "channel_name": "Cytavision Sports 1 Cyprus",
                         "channel_id": "911"
+                    },
+                    {
+                        "channel_name": "Cytavision Sports 1 Cyprus",
+                        "channel_id": "3024"
                     }
                 ]
             },
@@ -3444,6 +3582,14 @@
                     {
                         "channel_name": "Nova Sport 5 CZ",
                         "channel_id": "1025"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1P",
+                        "channel_id": "3065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4111"
                     }
                 ]
             },
@@ -3458,6 +3604,28 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Diema Sport Bulgaria",
+                        "channel_id": "3048"
+                    },
+                    {
+                        "channel_name": "Cosmote Sport 1 Greece",
+                        "channel_id": "3023"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd \ud83c\uddec\ud83c\uddf7 UEFA Europa League : Benfica vs AGF",
+                "channels": [
+                    {
+                        "channel_name": "TV Portugal",
+                        "channel_id": "3021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4125"
                     }
                 ]
             }
@@ -3474,6 +3642,16 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 UEFA Conference League : Troms\u00f8 vs Brighton & Hove Albion",
+                "channels": [
+                    {
+                        "channel_name": "VG+",
+                        "channel_id": "3076"
+                    }
+                ]
+            },
+            {
                 "time": "17:45",
                 "event": "\u26bd \ud83c\uddec\ud83c\uddf7 UEFA Conference League : PAOK \ud83c\uddec\ud83c\uddf7 vs Brann \ud83c\uddf3\ud83c\uddf4",
                 "channels": [
@@ -3484,6 +3662,10 @@
                     {
                         "channel_name": "5 SPORT Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Open TV Greece",
+                        "channel_id": "3025"
                     }
                 ]
             },
@@ -3498,6 +3680,18 @@
                     {
                         "channel_name": "Polsat Sport Premium 2 Poland",
                         "channel_id": "992"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Premium 2 Poland",
+                        "channel_id": "3062"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4104"
                     }
                 ]
             },
@@ -3520,6 +3714,28 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "CBC Sport Azerbaijan",
+                        "channel_id": "3063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4108"
+                    }
+                ]
+            },
+            {
+                "time": "18:15",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 UEFA Conference League : Sion vs Ajax",
+                "channels": [
+                    {
+                        "channel_name": "RTS 2 Serbia",
+                        "channel_id": "3014"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport NL",
+                        "channel_id": "3088"
                     }
                 ]
             },
@@ -3548,6 +3764,14 @@
                     {
                         "channel_name": "5Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "RTL+ DE",
+                        "channel_id": "3013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4103"
                     }
                 ]
             },
@@ -3558,6 +3782,14 @@
                     {
                         "channel_name": "Skai TV",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Skai TV",
+                        "channel_id": "3026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4109"
                     }
                 ]
             },
@@ -3576,6 +3808,18 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Sky Sport Calcio IT",
+                        "channel_id": "3047"
+                    },
+                    {
+                        "channel_name": "RSI La 2",
+                        "channel_id": "3015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4107"
                     }
                 ]
             },
@@ -3590,6 +3834,18 @@
                     {
                         "channel_name": "Kanal 1 Xtra Slovakia",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "ORF eins Austria",
+                        "channel_id": "3020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4105"
                     }
                 ]
             },
@@ -3600,6 +3856,14 @@
                     {
                         "channel_name": "Rangers TV",
                         "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4102"
                     }
                 ]
             },
@@ -3610,6 +3874,14 @@
                     {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
+                    },
+                    {
+                        "channel_name": "Sport TV5 Portugal",
+                        "channel_id": "3022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4122"
                     }
                 ]
             },
@@ -3624,6 +3896,10 @@
                     {
                         "channel_name": "SuperSport 1 Digitalb",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "SuperSport 1 Digitalb",
+                        "channel_id": "3099"
                     }
                 ]
             },
@@ -5304,6 +5580,10 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "CBS Sports Network USA",
+                        "channel_id": "3008"
                     }
                 ]
             },
@@ -5358,6 +5638,14 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "3086"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "3002"
                     }
                 ]
             },
@@ -5376,6 +5664,10 @@
                     {
                         "channel_name": "FOX Sports 2 Mexico",
                         "channel_id": "930"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "3001"
                     }
                 ]
             }
@@ -5420,6 +5712,14 @@
                     {
                         "channel_name": "Sky Sport 3 NZ",
                         "channel_id": "590"
+                    },
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "3083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             }
@@ -5448,6 +5748,10 @@
                     {
                         "channel_name": "Sky Sport 2 NZ",
                         "channel_id": "589"
+                    },
+                    {
+                        "channel_name": "FOX Sports 2 USA",
+                        "channel_id": "3082"
                     }
                 ]
             }
