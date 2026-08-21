@@ -1052,6 +1052,20 @@
                     {
                         "channel_name": "Benfica TV Portugal",
                         "channel_id": "380"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Ettan, Norra : FC Stockholm Internazionale vs FC J\u00e4rf\u00e4lla",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
                     }
                 ]
             },
@@ -1076,6 +1090,10 @@
                     {
                         "channel_name": "TV4 Fotball",
                         "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
                     }
                 ]
             },
@@ -1086,6 +1104,50 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Denmark Betinia Liga : Round 5FC Fredericia vs Aarhus Fremad",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Armenia Fastex Premier League : FC Alashkert vs FC Gandzasar",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Egypt Premier League : Abu Qir Semad vs National Bank Egypt",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Egypt Premier League : Zamalek vs Al Ittihad",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -1100,6 +1162,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -1110,6 +1176,10 @@
                     {
                         "channel_name": "Blue Sport 1 Live",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -1120,6 +1190,20 @@
                     {
                         "channel_name": "Blue Sport 2 Live",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Faroe Islands Premier League : Vikingur vs B36 Torshavn",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -1134,6 +1218,10 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
@@ -1152,6 +1240,10 @@
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "3015"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     }
                 ]
             },
@@ -1882,6 +1974,54 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
+                    },
+                    {
+                        "channel_name": "Backup Stream 4K",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FR)",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream (PT)",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream (PL)",
+                        "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Backup Stream (PL)",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -4970,6 +5110,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
                     }
                 ]
             },
