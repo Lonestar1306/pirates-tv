@@ -8,6 +8,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -28,6 +32,10 @@
                     {
                         "channel_name": "FloRacing",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -1951,6 +1959,26 @@
             },
             {
                 "time": "23:30",
+                "event": "\u26bd Brazil S\u00e9rie B : Novorizontino vs America MG",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf9 CONCACAF Caribbean Cup : Cavalier vs Salcedo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
                 "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 NCAA Women's Soccer : Arkansas \ud83c\uddfa\ud83c\uddf8 vs North Carolina \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
@@ -2022,6 +2050,10 @@
                     {
                         "channel_name": "sportdigital1+",
                         "channel_id": "3020"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "206"
                     }
                 ]
             },
@@ -2064,12 +2096,36 @@
                 ]
             },
             {
+                "time": "00:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Copa Sudamericana : Botafogo \ud83c\udde7\ud83c\uddf7 vs Cienciano \ud83c\uddf5\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
                 "time": "01:00",
                 "event": "\u26bd \ud83c\uddf8\ud83c\uddfb CONCACAF Central American Cup : Alianza \ud83c\uddf8\ud83c\uddfb vs Olimpia \ud83c\udded\ud83c\uddf3",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\u26bd Colombia Copa DIMAYOR : Ind Medellin vs Dep Pasto",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
                     }
                 ]
             },
@@ -2090,6 +2146,10 @@
                     {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212"
                     }
                 ]
             }
@@ -3576,6 +3636,10 @@
                     {
                         "channel_name": "Astro Cricket",
                         "channel_id": "370"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
                     }
                 ]
             }
@@ -4074,6 +4138,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
                     }
                 ]
             },
@@ -4552,6 +4620,18 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3002"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -4574,6 +4654,18 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5004"
                     }
                 ]
             }
@@ -4880,6 +4972,10 @@
                     {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -4894,6 +4990,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "204"
                     }
                 ]
             }
@@ -4938,6 +5038,10 @@
                     {
                         "channel_name": "Amazon Prime",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
                     }
                 ]
             },
@@ -4948,6 +5052,10 @@
                     {
                         "channel_name": "NBCS Boston",
                         "channel_id": "754"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
                     }
                 ]
             },
@@ -4958,6 +5066,10 @@
                     {
                         "channel_name": "Amazon Prime",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
                     }
                 ]
             }
