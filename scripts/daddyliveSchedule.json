@@ -1,5 +1,17 @@
 {
     "Saturday 22nd Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "12:00",
+                "event": "\ud83e\udd4a \ud83c\udde6\ud83c\uddfa Eternal MMA 109: Geelong",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1394,6 +1406,20 @@
                     {
                         "channel_name": "GOL PLAY Spain",
                         "channel_id": "530"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "11:35",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China Super League : Shenzhen Xinpengcheng \ud83c\udde8\ud83c\uddf3 vs Zhejiang Professional \ud83c\udde8\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
                     }
                 ]
             },
@@ -1408,6 +1434,10 @@
                     {
                         "channel_name": "beIN Sports 2 France",
                         "channel_id": "3052"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "203"
                     }
                 ]
             },
@@ -1422,6 +1452,10 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "3051"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202"
                     }
                 ]
             },
@@ -1432,6 +1466,10 @@
                     {
                         "channel_name": "Magenta Sport 303",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "204"
                     }
                 ]
             },
@@ -1442,6 +1480,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
                     }
                 ]
             },
@@ -1472,6 +1514,26 @@
                     {
                         "channel_name": "Match TV Russia",
                         "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China Super League : Qingdao West Coast \ud83c\udde8\ud83c\uddf3 vs Shandong Taishan \ud83c\udde8\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 China Super League : Beijing Guoan \ud83c\udde8\ud83c\uddf3 vs Yunnan Yukun \ud83c\udde8\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "206"
                     }
                 ]
             },
@@ -1520,6 +1582,46 @@
                     {
                         "channel_name": "Sport TV+ Portugal",
                         "channel_id": "13"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\udded ASEAN Championship : Thailand \ud83c\uddf9\ud83c\udded vs Vietnam \ud83c\uddfb\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Kristianstad W \ud83c\uddf8\ud83c\uddea vs Rosengard W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Eskilstuna Utd W \ud83c\uddf8\ud83c\uddea vs Vaxjo DFF W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Djurgarden W \ud83c\uddf8\ud83c\uddea vs IF Brommapojkarna W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
                     }
                 ]
             },
