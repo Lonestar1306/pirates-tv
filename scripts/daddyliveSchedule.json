@@ -4623,7 +4623,7 @@
                 "channels": [
                     {
                         "channel_name": "SRF zwei",
-                        "channel_id": "439"
+                        "channel_id": "493"
                     },
                     {
                         "channel_name": "SRF zwei",
@@ -4886,6 +4886,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2031"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     }
                 ]
             },
@@ -4928,6 +4932,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2032"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
                     }
                 ]
             },
@@ -5010,6 +5018,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     }
                 ]
             },
@@ -5036,6 +5048,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2033"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     }
                 ]
             },
@@ -5162,6 +5178,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4123"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     }
                 ]
             },
@@ -5220,6 +5240,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -5234,6 +5258,26 @@
                 ]
             },
             {
+                "time": "18:45",
+                "event": "\u26bd Bosnia & Herzegovin aWWIN Liga BiH : Velez Mostar vs Sloga Meridian",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd Bosnia & Herzegovin aWWIN Liga BiH : Siroki Brijeg vs Radnik Bijeljina",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
                 "time": "19:00",
                 "event": "\u26bd \ud83c\uddf7\ud83c\uddf8 Serbia - Super Liga : OFK Beograd \ud83c\uddf7\ud83c\uddf8 vs Zemun \ud83c\uddf7\ud83c\uddf8",
                 "channels": [
@@ -5244,6 +5288,10 @@
                     {
                         "channel_name": "Arena 3 Premium Serbia",
                         "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
                     }
                 ]
             },
@@ -5262,6 +5310,20 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Ecuador Liga Pro Serie A : U Catolica vs Manta",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -5272,6 +5334,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     }
                 ]
             },
@@ -5282,6 +5348,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
                     }
                 ]
             },
@@ -5292,6 +5362,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
                     }
                 ]
             },
@@ -5366,6 +5440,20 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Academia del Balompie vs GV San Jose",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -5376,6 +5464,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -5398,6 +5490,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
                     }
                 ]
             },
@@ -5408,6 +5504,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     }
                 ]
             },
@@ -7405,7 +7505,7 @@
                     },
                     {
                         "channel_name": "SRF zwei",
-                        "channel_id": "439"
+                        "channel_id": "493"
                     },
                     {
                         "channel_name": "Arena Adrenalin",
@@ -9663,7 +9763,7 @@
                     },
                     {
                         "channel_name": "SRF zwei",
-                        "channel_id": "439"
+                        "channel_id": "493"
                     },
                     {
                         "channel_name": "Sport 5 PLUS Israel",
