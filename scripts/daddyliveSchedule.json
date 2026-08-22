@@ -254,6 +254,56 @@
                 ]
             },
             {
+                "time": "07:10",
+                "event": "\u26f3\ud83c\uddf3\ud83c\uddf1 Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 \u2013 13 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf",
+                        "channel_id": "70"
+                    }
+                ]
+            },
+            {
+                "time": "08:00",
+                "event": "\ud83d\udeb5\ud83c\uddee\ud83c\uddf9 UCI Mountain Bike World Championships | Val di Sole, Italy | 26 \u2013 30 August 2026",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 1 GR",
+                        "channel_id": "41"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "\ud83c\udfce\ufe0f\ud83c\uddea\ud83c\uddf8 Formula 1 Gran Premio de Espa\u00f1a | Madrid, Spain | 11 \u2013 13 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports F1 UK",
+                        "channel_id": "60"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "\ud83c\udfce\ufe0f\ud83c\uddee\ud83c\uddf9 Formula 1 Gran Premio Heineken d\u2019Italia | Monza, Italy | 4 \u2013 6 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports F1 UK",
+                        "channel_id": "60"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "\u26bd\ud83c\uddf5\ud83c\uddf1 FIFA U-20 Women\u2019s World Cup | Poland | 5 \u2013 27 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
                 "time": "11:30",
                 "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 US Open | New York, USA | 23 August\u201313 September 2026",
                 "channels": [
@@ -272,12 +322,32 @@
                 ]
             },
             {
-                "time": "12:30",
-                "event": "\ud83c\udfc3\ud83c\udde8\ud83c\udded Lausanne Diamond League | Lausanne, Switzerland | 21 August 2026",
+                "time": "12:00",
+                "event": "\ud83c\udfcd\ufe0f\ud83c\uddea\ud83c\uddf8 Arag\u00f3n Grand Prix | Arag\u00f3n, Spain | 28 \u2013 30 August 2026",
                 "channels": [
                     {
-                        "channel_name": "Eurosport 1 GR",
-                        "channel_id": "41"
+                        "channel_name": "TNT Sport 1",
+                        "channel_id": "31"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\ud83c\udfcd\ufe0f\ud83c\udde6\ud83c\uddf9 Grand Prix of Austria | Spielberg, Austria | 18 \u2013 20 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sport 1",
+                        "channel_id": "31"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe\ud83c\uddfa\ud83c\uddf8 US Open | New York, NY, USA | 23 August \u2013 13 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "44"
                     }
                 ]
             },
@@ -288,6 +358,26 @@
                     {
                         "channel_name": "Tennis Channel",
                         "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfc3\ud83c\udded\ud83c\uddfa World Athletics Ultimate Championships | Budapest, Hungary | 11 \u2013 13 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfc3\ud83c\udde7\ud83c\uddea Brussels Diamond League | Brussels, Belgium | 4 \u2013 5 September 2026",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sport 1",
+                        "channel_id": "31"
                     }
                 ]
             },
@@ -5758,6 +5848,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
                     }
                 ]
             },
@@ -5772,6 +5866,40 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Aurora vs Real Potosi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Ecuador Liga Pro Serie A : T\u00e9cnico Universitario vs Guayaquil City",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Cuiab\u00e1 vs Goi\u00e1s",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
                     }
                 ]
             },
@@ -5782,6 +5910,10 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
                     }
                 ]
             },
@@ -5800,6 +5932,20 @@
                     {
                         "channel_name": "Arena Sport 1 Croatia",
                         "channel_id": "432"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Maldonado vs Penarol",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212"
                     }
                 ]
             },
@@ -5830,6 +5976,10 @@
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
                         "channel_id": "3019"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
                     }
                 ]
             },
@@ -7034,6 +7184,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1072"
                     }
                 ]
             },
@@ -7122,6 +7276,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
                     }
                 ]
             },
@@ -7174,6 +7332,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074"
                     }
                 ]
             }
@@ -8120,6 +8282,10 @@
                     {
                         "channel_name": "Sportsnet+",
                         "channel_id": "3006"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214"
                     }
                 ]
             },
@@ -8194,6 +8360,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214"
                     }
                 ]
             }
