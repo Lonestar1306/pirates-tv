@@ -2413,6 +2413,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-08-22 23:00 - NFL - New England Patriots vs Philadelphia Eagles (NFL Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[NFL] 2026-08-22 23:00 - NFL - New England Patriots vs Philadelphia Eagles (ESPN 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-22 23:00 - CFL - Toronto Argonauts vs Hamilton Tiger-Cats (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-22 23:00 - CFL - Toronto Argonauts vs Hamilton Tiger-Cats (TSN 3 HD CA)
@@ -2463,8 +2465,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20HD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.HD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-24 00:00 - NFL - Tennessee Titans vs Seattle Seahawks (Sky Sport Top Event HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.FHD.DE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-24 00:00 - NFL - Tennessee Titans vs Seattle Seahawks (Sky Sport Top Event FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.FHD.LAM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-24 00:00 - NFL - Tennessee Titans vs Seattle Seahawks (Fox Deportes FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.CHL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-24 00:00 - NFL - Tennessee Titans vs Seattle Seahawks (Fox Deportes HD CHL)
@@ -6603,8 +6603,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MatchTV.RU" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",[UFC] 2026-08-22 21:00 - UFC -  vs  (MatchTV RU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RMC.Sport.1.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1-fr.webp",[UFC] 2026-08-22 21:00 - UFC -  vs  (RMC Sport 1 FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RMC.Sport.1.HD.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1-hd-fr.webp",[UFC] 2026-08-22 21:00 - UFC -  vs  (RMC Sport 1 HD FR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cytavision.Sports.7.HD.CY" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-7-hd-cy.webp",[UFC] 2026-08-22 21:00 - UFC -  vs  (Cytavision Sports 7 HD CY)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%207%20HD%20CY&code=cy&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[UFC] 2026-08-22 21:00 - UFC -  vs  (Max Sport 2 FHD BG)
