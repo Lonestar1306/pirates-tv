@@ -1,5 +1,37 @@
 {
     "Sunday 23rd Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:50",
+                "event": "2026 IRA Sprints at Angell Park Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "TNA Wrestling :  TNA Lockdown",
+                "channels": [
+                    {
+                        "channel_name": "PPV TNA+",
+                        "channel_id": "6"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Husets Speedway Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "8"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -534,6 +566,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1092"
                     }
                 ]
             },
@@ -5024,6 +5060,22 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "1134"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ENG)",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream (ESP)",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream (AR)",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream (FR)",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -5110,6 +5162,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1105"
                     }
                 ]
             },
@@ -5130,6 +5186,20 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1091"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\u26bd Ecuador Liga Pro Serie A : Delfin vs Aucas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1086"
                     }
                 ]
             },
@@ -5144,6 +5214,26 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "\u26bd Brazil S\u00e9rie B : Operario-PR vs Vila Nova FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1093"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Colombia Liga DIMAYOR : Dep Pasto vs Llaneros",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1094"
+                    }
+                ]
+            },
+            {
                 "time": "21:05",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia - Primera A : Deportivo Pasto \ud83c\udde8\ud83c\uddf4 vs Llaneros \ud83c\udde8\ud83c\uddf4",
                 "channels": [
@@ -5154,12 +5244,26 @@
                 ]
             },
             {
+                "time": "21:15",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Guabira vs Blooming",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1095"
+                    }
+                ]
+            },
+            {
                 "time": "21:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Brasileir\u00e3o : Chapecoense \ud83c\udde7\ud83c\uddf7 vs S\u00e3o Paulo \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "Premiere 4 BR",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1097"
                     }
                 ]
             },
@@ -5178,6 +5282,10 @@
                     {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1098"
                     }
                 ]
             },
@@ -5188,6 +5296,20 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1096"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Nacional vs Progreso",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1099"
                     }
                 ]
             },
@@ -5226,6 +5348,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1102"
                     }
                 ]
             },
@@ -5252,6 +5378,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1103"
                     }
                 ]
             },
@@ -5418,6 +5548,10 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1104"
                     }
                 ]
             },
@@ -5428,6 +5562,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1101"
                     }
                 ]
             },
@@ -8908,6 +9046,10 @@
                     {
                         "channel_name": "Marquee Sports Network",
                         "channel_id": "770"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1084"
                     }
                 ]
             },
@@ -8918,6 +9060,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "264"
                     }
                 ]
             },
@@ -8940,6 +9086,10 @@
                     {
                         "channel_name": "Spectrum Sportsnet LA",
                         "channel_id": "764"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "263"
                     }
                 ]
             },
@@ -8950,6 +9100,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1095"
                     }
                 ]
             },
@@ -9092,6 +9246,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "262"
                     }
                 ]
             },
