@@ -3078,6 +3078,26 @@
                 ]
             },
             {
+                "time": "16:15",
+                "event": "\u26bd Faroe Islands Premier League : Toftir vs Skala Itrottarfelag",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "250"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf9 Italy - Serie A : \ud83c\uddee\ud83c\uddf9 Simulcast",
+                "channels": [
+                    {
+                        "channel_name": "DAZN IT",
+                        "channel_id": "262"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "\u26bd \ud83c\uddee\ud83c\uddf9 Italy - Serie A : \ud83c\uddee\ud83c\uddf9 Frosinone vs \ud83c\uddee\ud83c\uddf9 Juventus",
                 "channels": [
@@ -3192,6 +3212,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4120"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "256"
                     }
                 ]
             },
@@ -3262,6 +3286,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "257"
                     }
                 ]
             },
@@ -3276,6 +3304,10 @@
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "258"
                     }
                 ]
             },
@@ -3286,6 +3318,30 @@
                     {
                         "channel_name": "Magenta Sport 301",
                         "channel_id": "6"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "251"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd Bosnia & Herzegovina : Borac Banja Luka vs Celik Zenica",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "252"
+                    }
+                ]
+            },
+            {
+                "time": "16:35",
+                "event": "\u26bd UAE Pro League : Al Sharjah vs Al Jazira",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "261"
                     }
                 ]
             },
@@ -3316,6 +3372,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4125"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1097"
                     }
                 ]
             },
@@ -3334,6 +3394,10 @@
                     {
                         "channel_name": "Cosmote Sport 9 Greece",
                         "channel_id": "3023"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "255"
                     }
                 ]
             },
@@ -3352,6 +3416,20 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "253"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd Lithuania TOPLYGA : Zalgiris vs Dziugas Telsiai",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "254"
                     }
                 ]
             },
@@ -3406,6 +3484,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "169"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1095"
                     }
                 ]
             },
@@ -3424,6 +3506,10 @@
                     {
                         "channel_name": "Arena Sport 4 Serbia",
                         "channel_id": "581"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1096"
                     }
                 ]
             },
@@ -3438,6 +3524,14 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion 2",
                         "channel_id": "3027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1102"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1082"
                     }
                 ]
             },
@@ -3452,6 +3546,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1083"
                     }
                 ]
             },
@@ -3476,6 +3574,10 @@
                     {
                         "channel_name": "Arena 1 Premium Serbia",
                         "channel_id": "134"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1099"
                     }
                 ]
             },
@@ -3486,6 +3588,24 @@
                     {
                         "channel_name": "Arena Sport 1 Serbia",
                         "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1080"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Zilina vs Komarno",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1101"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1081"
                     }
                 ]
             },
@@ -3508,6 +3628,10 @@
                     {
                         "channel_name": "Bandsports Brasil",
                         "channel_id": "275"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1098"
                     }
                 ]
             },
@@ -3518,6 +3642,20 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1068"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Belarus Vysshaya League : ML Vitebsk vs BATE",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1067"
                     }
                 ]
             },
@@ -3528,6 +3666,10 @@
                     {
                         "channel_name": "ON Sport 1 Egypt",
                         "channel_id": "611"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1069"
                     }
                 ]
             },
@@ -3538,6 +3680,50 @@
                     {
                         "channel_name": "ON Sport Max Egypt",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1070"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Iceland Efsta deild : Akranes vs Hafnarfjordur",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1091"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Iceland Efsta deild : KA Akureyri vs KR Reykjavik",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1092"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Iceland Efsta deild : Keflavik vs Vestmannaeyjar",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1093"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Iceland Efsta deild : Stjarnan vs Thor Akureyri",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1094"
                     }
                 ]
             },
@@ -3548,6 +3734,20 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1084"
+                    }
+                ]
+            },
+            {
+                "time": "17:15",
+                "event": "\u26bd Belgium Challenger Pro League : Royal Francs Borains vs Koninklijke Sporting Hasselt",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1085"
                     }
                 ]
             },
@@ -3650,6 +3850,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1086"
                     }
                 ]
             },
