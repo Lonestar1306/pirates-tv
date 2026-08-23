@@ -2176,6 +2176,10 @@
                         "channel_id": "451"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "229"
+                    },
+                    {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
                     },
@@ -2286,6 +2290,10 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "237"
+                    },
+                    {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
                     }
@@ -2312,6 +2320,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "238"
                     }
                 ]
             },
@@ -2322,6 +2334,36 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 Slovakia Nike liga : Trencin \ud83c\uddf8\ud83c\uddf0 vs Trnava \ud83c\uddf8\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "239"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddf1 Poland Division 1 : Puszcza \ud83c\uddf5\ud83c\uddf1 vs Skierniewice \ud83c\uddf5\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "240"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Veikkausliiga : TPS \ud83c\uddeb\ud83c\uddee vs Inter Turku \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "241"
                     }
                 ]
             },
@@ -2342,6 +2384,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "242"
                     },
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
@@ -2376,6 +2422,10 @@
                     {
                         "channel_name": "Ligue1+ France",
                         "channel_id": "960"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "228"
                     },
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -2441,11 +2491,25 @@
             },
             {
                 "time": "15:30",
+                "event": "\u26bd \ud83c\uddf1\ud83c\uddf9 Lithuania Toplyga : Hegelmann \ud83c\uddf1\ud83c\uddf9 vs Banga \ud83c\uddf1\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "224"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
                 "event": "\u26bd \ud83c\udded\ud83c\uddfa Hungary NB1 : Gy\u0151ri ETO \ud83c\udded\ud83c\uddfa vs Zalaegerszegi TE \ud83c\udded\ud83c\uddfa",
                 "channels": [
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "226"
                     }
                 ]
             },
@@ -2456,6 +2520,10 @@
                     {
                         "channel_name": "Duna World Hungary",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "227"
                     }
                 ]
             },
@@ -2470,6 +2538,10 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222"
                     }
                 ]
             },
@@ -2484,6 +2556,10 @@
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -2658,6 +2734,10 @@
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
                         "channel_id": "259"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "225"
                     },
                     {
                         "channel_name": "Canal+ Premium Poland",
