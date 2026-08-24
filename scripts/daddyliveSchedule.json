@@ -584,6 +584,36 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "Uzbekistan Super League : Kokand 1912 vs Buxoro",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "Belarus Vysshaya Liga : Isloch vs Dinamo Minsk",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Tanzania Ligi Kuu Bara : Young Africans vs JKT Tanzania",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
                 "time": "14:30",
                 "event": "\u26bd Russia - FNL : \ud83c\uddf7\ud83c\uddfa KAMAZ vs Sochi \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
@@ -1170,6 +1200,16 @@
                 ]
             },
             {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : \ud83c\uddf8\ud83c\uddea \u00d6stersund vs \ud83c\uddf8\ud83c\uddea Ljungskile",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
                 "time": "17:05",
                 "event": "\u26bd Sweden - Superettan : \ud83c\uddf8\ud83c\uddea V\u00e4rnamo vs Landskrona \ud83c\uddf8\ud83c\uddea",
                 "channels": [
@@ -1180,6 +1220,16 @@
                     {
                         "channel_name": "Event SD Stream",
                         "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : \ud83c\uddf8\ud83c\uddea H\u00e4ssleholms IF vs \ud83c\uddf8\ud83c\uddea Laholms FK",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     }
                 ]
             },
@@ -1282,6 +1332,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     }
                 ]
             },
@@ -1296,6 +1350,20 @@
                     {
                         "channel_name": "Arena Sport 2 Serbia",
                         "channel_id": "430"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Tanzania Premier League : Coastal Union vs TRA United",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -1306,6 +1374,10 @@
                     {
                         "channel_name": "Belarus 5",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     }
                 ]
             },
