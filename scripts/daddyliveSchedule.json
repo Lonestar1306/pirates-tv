@@ -564,6 +564,16 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "time": "12:15",
+                "event": "\u26bd Malaysia Super League : \ud83c\uddf2\ud83c\uddfe Sabah vs Star City \ud83c\uddf2\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
                 "time": "14:00",
                 "event": "\u26bd Serbian Women's Super League : \ud83c\uddf7\ud83c\uddf8 \u017dFK Vojvodina vs \u017dFK Crvena zvezda \ud83c\uddf7\ud83c\uddf8",
                 "channels": [
@@ -626,12 +636,26 @@
                         "channel_id": "400"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
+                    },
+                    {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
                     },
                     {
                         "channel_name": "Arena Sport 2 Croatia",
                         "channel_id": "433"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "\u26bd Lithuania Toplyga : \ud83c\uddf1\ud83c\uddf9 Transinvest vs FA Siauliai \ud83c\uddf1\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
                     }
                 ]
             },
