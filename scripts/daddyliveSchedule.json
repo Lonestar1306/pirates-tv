@@ -1,27 +1,5 @@
 {
     "Tuesday 25th Aug 2026 - Schedule Time UK GMT": {
-        "PPV Events": [
-            {
-                "time": "22:15",
-                "event": "\ud83c\udfce\ufe0f Millbridge Sprints",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "29"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "\ud83c\udfce\ufe0f Short Track Super Series: Middleford",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "30"
-                    }
-                ]
-            }
-        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -644,6 +622,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2039"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
                     }
                 ]
             },
@@ -662,6 +644,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2040"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "\u26bd North & Central America CONCACAF : Cartagines vs FAS",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "\u26bd North & Central America CONCACAF : Municipal vs Motagua",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
                     }
                 ]
             }
@@ -2192,6 +2198,16 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Universitario de Vinto vs Nacional Potosi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Copa do Brasil : Cruzeiro \ud83c\udde7\ud83c\uddf7 vs Atl\u00e9tico Mineiro \ud83c\udde7\ud83c\uddf7",
                 "channels": [
@@ -2210,6 +2226,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
                     }
                 ]
             },
@@ -2240,6 +2260,10 @@
                     {
                         "channel_name": "beIN Sports USA",
                         "channel_id": "3039"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
                     }
                 ]
             },
@@ -2250,6 +2274,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
                     }
                 ]
             },
@@ -3176,10 +3204,6 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1529"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "6051"
                     }
                 ]
             },
@@ -3798,6 +3822,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2020"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
                     }
                 ]
             }
@@ -3850,7 +3878,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "22:36",
+                "time": "23:19",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 1 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3860,7 +3888,7 @@
                 ]
             },
             {
-                "time": "22:36",
+                "time": "23:19",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 2 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3870,7 +3898,7 @@
                 ]
             },
             {
-                "time": "22:36",
+                "time": "23:19",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 3 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3880,7 +3908,7 @@
                 ]
             },
             {
-                "time": "22:36",
+                "time": "23:19",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 4 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3890,7 +3918,7 @@
                 ]
             },
             {
-                "time": "22:36",
+                "time": "23:19",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 5 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3900,7 +3928,7 @@
                 ]
             },
             {
-                "time": "22:36",
+                "time": "23:19",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 6 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -4152,6 +4180,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     }
                 ]
             },
@@ -4178,6 +4210,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2025"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
                     }
                 ]
             },
@@ -4200,6 +4236,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2026"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
                     }
                 ]
             },
@@ -4238,6 +4278,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
                     }
                 ]
             },
@@ -4260,6 +4304,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2028"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
                     }
                 ]
             },
@@ -4282,6 +4330,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2029"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
                     }
                 ]
             },
@@ -4304,6 +4356,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2030"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
                     }
                 ]
             },
@@ -4338,6 +4394,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2031"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     }
                 ]
             },
@@ -4360,6 +4420,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2032"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -4390,6 +4454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2033"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
                     }
                 ]
             },
@@ -4412,6 +4480,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2034"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     }
                 ]
             },
@@ -4434,6 +4506,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2035"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
                     }
                 ]
             }
@@ -4454,6 +4530,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2036"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     }
                 ]
             },
@@ -4484,6 +4564,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2037"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
                     }
                 ]
             },
@@ -4502,6 +4586,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2038"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     }
                 ]
             }
