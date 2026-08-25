@@ -1146,12 +1146,26 @@
                 ]
             },
             {
+                "time": "15:30",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Denmark Cup : Vatanspor \ud83c\udde9\ud83c\uddf0 vs AaB Aalborg \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
                 "time": "16:00",
                 "event": "\u26bd \ud83c\uddf1\ud83c\uddfb Latvia - Virsliga : FK Auda \ud83c\uddf1\ud83c\uddfb vs FK Liep\u0101ja \ud83c\uddf1\ud83c\uddfb",
                 "channels": [
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     }
                 ]
             },
@@ -1162,6 +1176,10 @@
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -1176,6 +1194,10 @@
                     {
                         "channel_name": "Thmanyah",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     },
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -1208,8 +1230,32 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    },
+                    {
                         "channel_name": "MAX Sport 3 Bulgaria",
                         "channel_id": "474"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : Utsikten \ud83c\uddf8\ud83c\uddea vs H\u00e4cken \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : Eskilsminne \ud83c\uddf8\ud83c\uddea vs \u00d6rgryte \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     }
                 ]
             },
@@ -1228,6 +1274,10 @@
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
                     },
                     {
                         "channel_name": "Ictimai TV",
@@ -3110,7 +3160,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "14:11",
+                "time": "15:48",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 1 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3120,7 +3170,7 @@
                 ]
             },
             {
-                "time": "14:11",
+                "time": "15:48",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 2 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3130,7 +3180,7 @@
                 ]
             },
             {
-                "time": "14:11",
+                "time": "15:48",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 3 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3140,7 +3190,7 @@
                 ]
             },
             {
-                "time": "14:11",
+                "time": "15:48",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 4 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3150,7 +3200,7 @@
                 ]
             },
             {
-                "time": "14:11",
+                "time": "15:48",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 5 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3160,7 +3210,7 @@
                 ]
             },
             {
-                "time": "14:11",
+                "time": "15:48",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 6 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
