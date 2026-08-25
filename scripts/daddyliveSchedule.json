@@ -618,6 +618,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2039"
                     }
                 ]
             },
@@ -632,6 +636,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2040"
                     }
                 ]
             }
@@ -2098,12 +2106,56 @@
                 ]
             },
             {
+                "time": "20:00",
+                "event": "\u26bd Peru Copa de la Liga : Alianza Atl\u00e9tico de Sullana vs Universidad T\u00e9cnica de Cajamarca",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "Uruguay Copa Uruguay : Defensor Sp vs Rentistas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Paraguay Primera Divisi\u00f3n : CS 2 de Mayo vs Guaran\u00ed",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Atletico GO vs Botafogo SP",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Juventude \ud83c\udde7\ud83c\uddf7 vs CRB \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     }
                 ]
             },
@@ -3772,7 +3824,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "19:21",
+                "time": "20:07",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 1 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3782,7 +3834,7 @@
                 ]
             },
             {
-                "time": "19:21",
+                "time": "20:07",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 2 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3792,7 +3844,7 @@
                 ]
             },
             {
-                "time": "19:21",
+                "time": "20:07",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 3 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3802,7 +3854,7 @@
                 ]
             },
             {
-                "time": "19:21",
+                "time": "20:07",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 4 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3812,7 +3864,7 @@
                 ]
             },
             {
-                "time": "19:21",
+                "time": "20:07",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 5 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3822,7 +3874,7 @@
                 ]
             },
             {
-                "time": "19:21",
+                "time": "20:07",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 6 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3984,6 +4036,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4015"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     }
                 ]
             },
@@ -3998,6 +4058,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -4012,6 +4080,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     }
                 ]
             },
@@ -4046,6 +4122,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
                     }
                 ]
             },
@@ -4068,6 +4148,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
                     }
                 ]
             },
@@ -4086,6 +4170,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
                     }
                 ]
             },
@@ -4120,6 +4208,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
                     }
                 ]
             },
@@ -4138,6 +4230,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
                     }
                 ]
             },
@@ -4156,6 +4252,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
                     }
                 ]
             },
@@ -4174,6 +4274,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
                     }
                 ]
             },
@@ -4204,6 +4308,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
                     }
                 ]
             },
@@ -4222,6 +4330,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2032"
                     }
                 ]
             },
@@ -4248,6 +4360,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2033"
                     }
                 ]
             },
@@ -4266,6 +4382,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2034"
                     }
                 ]
             },
@@ -4284,6 +4404,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2035"
                     }
                 ]
             }
@@ -4300,6 +4424,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2036"
                     }
                 ]
             },
@@ -4326,6 +4454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2037"
                     }
                 ]
             },
@@ -4340,6 +4472,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2038"
                     }
                 ]
             }
