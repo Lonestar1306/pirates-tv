@@ -1,5 +1,27 @@
 {
     "Tuesday 25th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfce\ufe0f Millbridge Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfce\ufe0f Short Track Super Series: Middleford",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "30"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -3154,6 +3176,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1529"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "6051"
                     }
                 ]
             },
@@ -3824,7 +3850,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "20:07",
+                "time": "22:36",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 1 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3834,7 +3860,7 @@
                 ]
             },
             {
-                "time": "20:07",
+                "time": "22:36",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 2 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3844,7 +3870,7 @@
                 ]
             },
             {
-                "time": "20:07",
+                "time": "22:36",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 3 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3854,7 +3880,7 @@
                 ]
             },
             {
-                "time": "20:07",
+                "time": "22:36",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 4 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3864,7 +3890,7 @@
                 ]
             },
             {
-                "time": "20:07",
+                "time": "22:36",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 5 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
@@ -3874,7 +3900,7 @@
                 ]
             },
             {
-                "time": "20:07",
+                "time": "22:36",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open : Table 6 \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
