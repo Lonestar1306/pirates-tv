@@ -801,6 +801,36 @@
             },
             {
                 "time": "17:00",
+                "event": "Denmark Oddset Pokalen : FA 2000 vs Lyngby",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Egypt Premier League : National Bank Egypt vs Zamalek",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Egypt Premier League : Petrojet vs El Gaish",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Odds BK vs \ud83c\uddf3\ud83c\uddf4 Kongsvinger",
                 "channels": [
                     {
@@ -811,21 +841,49 @@
             },
             {
                 "time": "17:30",
-                "event": "\u26bd \ud83c\uddff\ud83c\udde6 Richards Bay vs \ud83c\uddff\ud83c\udde6 Kaizer Chiefs",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Golden Arrows vs Stellenbosch",
                 "channels": [
                     {
-                        "channel_name": "SuperSport PSL",
-                        "channel_id": "413"
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
             {
                 "time": "17:30",
-                "event": "\u26bd \ud83c\uddff\ud83c\udde6 Mamelodi Sundowns vs \ud83c\uddff\ud83c\udde6 AmaZulu",
+                "event": "South Africa Premiership : Polokwane vs Milford FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Richards Bay vs \ud83c\uddff\ud83c\udde6 Kaizer Chiefs",
+                "channels": [
+                    {
+                        "channel_name": "SuperSport PSL",
+                        "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Mamelodi Sundowns vs \ud83c\uddff\ud83c\udde6 AmaZulu",
                 "channels": [
                     {
                         "channel_name": "SuperSport Football",
                         "channel_id": "56"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -871,7 +929,7 @@
             },
             {
                 "time": "18:45",
-                "event": "\u26bd \ud83c\udff4 Newcastle United vs \ud83c\udff4 West Bromwich Albion",
+                "event": "\u26bd \ud83c\udff4 EFL Cup : Newcastle United vs \ud83c\udff4 West Bromwich Albion",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -945,7 +1003,7 @@
             },
             {
                 "time": "18:45",
-                "event": "\u26bd \ud83c\udff4 Bradford City vs \ud83c\udff4 Burnley",
+                "event": "\u26bd \ud83c\udff4 EFL Cup : Bradford City vs \ud83c\udff4 Burnley",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -967,7 +1025,7 @@
             },
             {
                 "time": "18:45",
-                "event": "\u26bd \ud83c\udff4 Tottenham Hotspur vs \ud83c\udff4 Charlton Athletic",
+                "event": "\u26bd \ud83c\udff4 EFL Cup : Tottenham Hotspur vs \ud83c\udff4 Charlton Athletic",
                 "channels": [
                     {
                         "channel_name": "Sky Sports+",
@@ -1053,7 +1111,7 @@
             },
             {
                 "time": "19:00",
-                "event": "\u26bd \ud83c\udff4 Preston North End vs \ud83c\udff4 Everton",
+                "event": "\u26bd \ud83c\udff4 EFL Cup : Preston North End vs \ud83c\udff4 Everton",
                 "channels": [
                     {
                         "channel_name": "Sky Sports Football UK",
@@ -2408,6 +2466,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1551"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -2418,6 +2480,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1552"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -2428,6 +2494,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1553"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
                     }
                 ]
             },
@@ -2438,6 +2508,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1554"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -2448,6 +2522,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -2458,6 +2536,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2468,6 +2550,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -2478,6 +2564,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -2488,6 +2578,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
                     }
                 ]
             },
@@ -2498,6 +2592,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
@@ -2508,6 +2606,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1561"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2518,6 +2620,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -2528,6 +2634,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -2538,6 +2648,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1564"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -2558,6 +2672,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1566"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2568,6 +2686,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2578,6 +2700,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1568"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -2588,6 +2714,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -2598,6 +2728,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
@@ -2608,6 +2742,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1571"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -2618,6 +2756,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1572"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -2628,6 +2770,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1573"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
                     }
                 ]
             },
@@ -2638,6 +2784,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -2648,6 +2798,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1575"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -2658,6 +2812,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1576"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -2668,6 +2826,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1577"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -2678,6 +2840,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1578"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
                     }
                 ]
             },
@@ -2688,6 +2854,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1579"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -2698,6 +2868,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1580"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1071"
                     }
                 ]
             },
@@ -2708,6 +2886,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1581"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
                     }
                 ]
             },
@@ -2718,6 +2900,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1582"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
                     }
                 ]
             },
@@ -2738,6 +2924,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1584"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -2748,6 +2938,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1585"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -2758,6 +2952,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1586"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -2768,6 +2966,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1587"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
@@ -2778,6 +2980,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1588"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -2788,6 +2994,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1589"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -2798,6 +3008,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1590"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -2808,6 +3022,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1591"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2818,6 +3036,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1592"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -2828,6 +3050,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1593"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
                     }
                 ]
             },
@@ -2838,6 +3064,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1594"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -2848,6 +3078,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1595"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -2858,6 +3092,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1596"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -2868,6 +3106,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1597"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
                     }
                 ]
             },
@@ -2878,6 +3120,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1598"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1072"
                     }
                 ]
             },
@@ -2908,6 +3158,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1601"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -2918,6 +3172,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1602"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
@@ -2928,6 +3186,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1603"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
@@ -2938,6 +3200,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1604"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -2948,6 +3214,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1605"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
                     }
                 ]
             },
@@ -2958,6 +3228,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1606"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
                     }
                 ]
             },
@@ -2968,6 +3242,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1607"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
                     }
                 ]
             },
@@ -2978,6 +3256,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1608"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -2988,6 +3270,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1609"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
@@ -2998,6 +3284,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1610"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
                     }
                 ]
             },
@@ -3008,6 +3298,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1611"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -3018,6 +3312,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1612"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -3028,6 +3326,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1613"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             },
@@ -3038,6 +3340,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1614"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
@@ -3048,6 +3354,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1615"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
                     }
                 ]
             },
@@ -3062,12 +3372,124 @@
                 ]
             },
             {
+                "time": "21:30",
+                "event": "\ud83c\udfbe ATP Winston-Salem : Sonego L. vs Duckworth J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfbe ATP Winston-Salem : Kovacevic A. vs Tsitsipas S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1076"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfbe ATP Winston-Salem : Damm M. vs Marozsan F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1079"
+                    }
+                ]
+            },
+            {
                 "time": "21:00",
                 "event": "\ud83c\udfbe WTA Monterrey : Maria Timofeeva \ud83c\uddf7\ud83c\uddfa vs Ann Li \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1617"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1073"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe WTA Monterrey : Bucsa C. vs Vidmanova D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1074"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfbe WTA Monterrey : Udvardy P. vs Mertens E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1075"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfbe Mixed Doubles: \ud83c\uddf0\ud83c\uddff Anna Sergeyevna Danilina vs \ud83c\uddf7\ud83c\uddfa Maria Aleksandrovna Kozyreva",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1077"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfbe WTA Monterrey : Chwalinska M. vs Parks A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1081"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "\ud83c\udfbe WTA Monterrey : Alexandrova E. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1082"
                     }
                 ]
             },
@@ -3078,6 +3500,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1618"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -3088,6 +3514,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1619"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -3098,6 +3528,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1620"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -3118,6 +3552,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1622"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             }
@@ -3125,11 +3563,31 @@
         "Tennis \ud83c\udfbe Mixed Doubles: US Open (USA)": [
             {
                 "time": "23:00",
+                "event": "\ud83c\udfbe Mixed Doubles: \ud83c\udde6\ud83c\uddfa Maya Joint / \ud83c\udde8\ud83c\uddf3 Xu Yifan vs \ud83c\uddf5\ud83c\uddf1 Katarzyna Piter / \ud83c\uddee\ud83c\udde9 Janice Tjen",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1078"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
                 "event": "\ud83c\udfbe Mixed Doubles: \ud83c\uddfa\ud83c\udde6 Elina Svitolina & \ud83c\uddeb\ud83c\uddf7 Ga\u00ebl Monfils vs \ud83c\udde8\ud83c\udded Belinda Bencic & \ud83c\uddee\ud83c\uddf9 Flavio Cobolli",
                 "channels": [
                     {
                         "channel_name": "Channel Not Listed #JustAsk",
                         "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfbe \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a / \ud83c\uddfa\ud83c\uddf8 Nicole Melichar-Martinez vs \ud83c\uddf3\ud83c\uddf4 Ulrikke Eikeri / \ud83c\uddfa\ud83c\uddf8 Quinn Gleason",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1080"
                     }
                 ]
             },
@@ -3216,7 +3674,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "14:22",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 1",
                 "channels": [
                     {
@@ -3226,7 +3684,7 @@
                 ]
             },
             {
-                "time": "14:22",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 2",
                 "channels": [
                     {
@@ -3236,7 +3694,7 @@
                 ]
             },
             {
-                "time": "14:22",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 3",
                 "channels": [
                     {
@@ -3246,7 +3704,7 @@
                 ]
             },
             {
-                "time": "14:22",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 4",
                 "channels": [
                     {
@@ -3256,7 +3714,7 @@
                 ]
             },
             {
-                "time": "14:22",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 5",
                 "channels": [
                     {
@@ -3266,7 +3724,7 @@
                 ]
             },
             {
-                "time": "14:22",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Wuhan Open Table 6",
                 "channels": [
                     {
@@ -3452,6 +3910,10 @@
                     {
                         "channel_name": "Arena Sport 3 Serbia",
                         "channel_id": "431"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     }
                 ]
             },
