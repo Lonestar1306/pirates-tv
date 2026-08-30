@@ -462,6 +462,20 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : Varberg \ud83c\uddf8\ud83c\uddea vs Oddevold \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211"
                     }
                 ]
             },
@@ -472,6 +486,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222"
                     }
                 ]
             }
@@ -484,6 +502,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221"
                     }
                 ]
             },
@@ -494,6 +516,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "220"
                     }
                 ]
             }
@@ -1392,6 +1418,10 @@
                         "channel_id": "400"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "216"
+                    },
+                    {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
                     }
@@ -1414,6 +1444,30 @@
                     {
                         "channel_name": "Belarus 5",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "213"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Norrk\u00f6ping W \ud83c\uddf8\ud83c\uddea vs Djurg\u00e5rden W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "217"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Denmark Division 1 : Esbjerg \ud83c\udde9\ud83c\uddf0 vs Vendsyssel \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214"
                     }
                 ]
             },
@@ -1426,6 +1480,10 @@
                         "channel_id": "1027"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "215"
+                    },
+                    {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "3041"
                     }
@@ -1433,8 +1491,12 @@
             },
             {
                 "time": "13:00",
-                "event": "\ud83c\udff4 England - Premier League : Simulcast",
+                "event": "\ud83c\udff4 England - Premier League : Goal Rush/Simulcast",
                 "channels": [
+                    {
+                        "channel_name": "Goal Rush",
+                        "channel_id": "205"
+                    },
                     {
                         "channel_name": "Hub Premier 1",
                         "channel_id": "12"
@@ -1456,6 +1518,10 @@
                     {
                         "channel_name": "Hub Premier 4",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "206"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -1596,6 +1662,10 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "207"
+                    },
+                    {
                         "channel_name": "USA Network",
                         "channel_id": "343"
                     },
@@ -1718,6 +1788,10 @@
                         "channel_id": "15"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
+                    },
+                    {
                         "channel_name": "Sky Sports+ UK",
                         "channel_id": "36"
                     },
@@ -1796,6 +1870,10 @@
                         "channel_id": "960"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212"
+                    },
+                    {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
                     },
@@ -1860,6 +1938,10 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 2",
                         "channel_id": "946"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218"
                     },
                     {
                         "channel_name": "DAZN1 DE",
@@ -1970,6 +2052,10 @@
                     {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "219"
                     }
                 ]
             },
@@ -1980,6 +2066,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "245"
                     }
                 ]
             },
@@ -1992,8 +2082,62 @@
                         "channel_id": "808"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "240"
+                    },
+                    {
                         "channel_name": "TV2 Sport X Denmark",
                         "channel_id": "3069"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf1\ud83c\uddf9 Lithuania Toplyga : FA Siauliai \ud83c\uddf1\ud83c\uddf9 vs Suduva \ud83c\uddf1\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "246"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddea Estonia Meistriliiga : Flora \ud83c\uddea\ud83c\uddea vs Paide \ud83c\uddea\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "241"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf4 Faroe Islands Premier League : NSI Runavik \ud83c\uddeb\ud83c\uddf4 vs AB Argir \ud83c\uddeb\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "242"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf4 Faroe Islands Premier League : B36 Torshavn \ud83c\uddeb\ud83c\uddf4 vs Toftir \ud83c\uddeb\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "243"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddea Belgium Challenger Pro League : Virton \ud83c\udde7\ud83c\uddea vs Francs Borains \ud83c\udde7\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "238"
                     }
                 ]
             },
@@ -2004,6 +2148,10 @@
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "237"
                     },
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
@@ -2018,6 +2166,10 @@
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "239"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -2050,8 +2202,32 @@
                         "channel_id": "20"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "244"
+                    },
+                    {
                         "channel_name": "Sport Klub 10 Croatia",
                         "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Trelleborg \ud83c\uddf8\ud83c\uddea vs Utsikten \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "248"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Laholms \ud83c\uddf8\ud83c\uddea vs AFC Malm\u00f6 \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "249"
                     }
                 ]
             },
@@ -2070,6 +2246,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4128"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -2088,6 +2268,10 @@
                     {
                         "channel_name": "Magenta Sport 301",
                         "channel_id": "3015"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
                     }
                 ]
             },
@@ -2098,6 +2282,10 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     }
                 ]
             },
@@ -2110,12 +2298,20 @@
                         "channel_id": "573"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "247"
+                    },
+                    {
                         "channel_name": "Arena 3 Premium Serbia",
                         "channel_id": "139"
                     },
                     {
                         "channel_name": "BandSports Brazil",
                         "channel_id": "275"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
                     }
                 ]
             },
@@ -2152,6 +2348,10 @@
                     {
                         "channel_name": "Blue Sport D 1",
                         "channel_id": "3020"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     }
                 ]
             },
@@ -2166,6 +2366,10 @@
                     {
                         "channel_name": "Blue Sport 1 Live",
                         "channel_id": "3018"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
                     }
                 ]
             },
@@ -2176,6 +2380,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     }
                 ]
             },
@@ -2246,6 +2454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -2266,6 +2478,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "252"
                     }
                 ]
             },
@@ -2294,6 +2510,10 @@
                     {
                         "channel_name": "Sky Sport Austria 4",
                         "channel_id": "3099"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "264"
                     }
                 ]
             },
@@ -2304,6 +2524,10 @@
                     {
                         "channel_name": "Sky Sport Austria 3",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "263"
                     },
                     {
                         "channel_name": "Kanal 1 Xtra Slovakia",
@@ -2330,6 +2554,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3080"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1085"
                     }
                 ]
             },
@@ -2342,8 +2570,92 @@
                         "channel_id": "812"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "256"
+                    },
+                    {
                         "channel_name": "TV 2 Sport Norway",
                         "channel_id": "3064"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien : Viking \ud83c\uddf3\ud83c\uddf4 vs Aalesund \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "254"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien : Valerenga \ud83c\uddf3\ud83c\uddf4 vs Molde \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "255"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien : Start \ud83c\uddf3\ud83c\uddf4 vs KFUM Oslo \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "257"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien : Sandefjord \ud83c\uddf3\ud83c\uddf4 vs Brann \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "258"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway Eliteserien : HamKam \ud83c\uddf3\ud83c\uddf4 vs Kristiansund \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "261"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddea Ireland Premier Division : Derry City \ud83c\uddee\ud83c\uddea vs Shamrock Rovers \ud83c\uddee\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "262"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 Slovakia Nike Liga : Slovan Bratislava \ud83c\uddf8\ud83c\uddf0 vs Michalovce \ud83c\uddf8\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1083"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddf0 Slovakia Nike Liga : Skalica \ud83c\uddf8\ud83c\uddf0 vs Dun Streda \ud83c\uddf8\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1084"
                     }
                 ]
             },
@@ -2354,6 +2666,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1082"
                     },
                     {
                         "channel_name": "Oneplay Sport 4 CZ",
@@ -2374,6 +2690,10 @@
                         "channel_id": "1027"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1081"
+                    },
+                    {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "3042"
                     }
@@ -2386,6 +2706,10 @@
                     {
                         "channel_name": "M+ LALIGA TV",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "250"
                     },
                     {
                         "channel_name": "Movistar Plus+",
@@ -2518,6 +2842,10 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "251"
+                    },
+                    {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
                     }
@@ -2554,6 +2882,30 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Allsvenskan : Goteborg \ud83c\uddf8\ud83c\uddea vs Orgryte \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddf8 Spanish Liga F Women : Alaves W \ud83c\uddea\ud83c\uddf8 vs Valencia W \ud83c\uddea\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1086"
+                    }
+                ]
+            },
+            {
                 "time": "15:10",
                 "event": "\u26bd \ud83c\udff4 Scotland - SWPL 1 : Heart of Midlothian LFC vs Rangers LFC",
                 "channels": [
@@ -2570,6 +2922,10 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1089"
                     }
                 ]
             },
@@ -2580,6 +2936,10 @@
                     {
                         "channel_name": "Ligue1+ France",
                         "channel_id": "960"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1088"
                     },
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -2658,6 +3018,10 @@
                     {
                         "channel_name": "USA Network",
                         "channel_id": "343"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1090"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -2830,6 +3194,10 @@
                         "channel_id": "427"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1091"
+                    },
+                    {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "59"
                     },
@@ -2916,6 +3284,10 @@
                         "channel_id": "259"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1093"
+                    },
+                    {
                         "channel_name": "Canal+ Premium Poland",
                         "channel_id": "566"
                     },
@@ -2934,6 +3306,16 @@
                 ]
             },
             {
+                "time": "15:45",
+                "event": "\u26bd \ud83c\uddf1\ud83c\uddf9 Lithuania Toplyga : Banga \ud83c\uddf1\ud83c\uddf9 vs Kauno Zalgiris \ud83c\uddf1\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1095"
+                    }
+                ]
+            },
+            {
                 "time": "15:55",
                 "event": "\u26bd \ud83c\uddee\ud83c\uddf9 Italy - Serie A (Women) : Roma vs Sassuolo",
                 "channels": [
@@ -2944,12 +3326,16 @@
                 ]
             },
             {
-                "time": "18:15",
+                "time": "16:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddec Bulgaria - Parva Liga : Botev Plovdiv \ud83c\udde7\ud83c\uddec vs Levski Sofia \ud83c\udde7\ud83c\uddec",
                 "channels": [
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1103"
                     },
                     {
                         "channel_name": "Diema Sport Bulgaria",
@@ -2976,6 +3362,10 @@
                         "channel_id": "889"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1100"
+                    },
+                    {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "63"
                     }
@@ -2988,6 +3378,10 @@
                     {
                         "channel_name": "SportKlub 1 Slovenia",
                         "channel_id": "25"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1101"
                     },
                     {
                         "channel_name": "Sport Klub 8 Croatia",
@@ -3064,6 +3458,10 @@
                         "channel_id": "465"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1102"
+                    },
+                    {
                         "channel_name": "Sport Klub 10 Croatia",
                         "channel_id": "175"
                     },
@@ -3080,6 +3478,10 @@
                     {
                         "channel_name": "Cytavision Sports 1 Cyprus",
                         "channel_id": "911"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1096"
                     }
                 ]
             },
@@ -3090,6 +3492,10 @@
                     {
                         "channel_name": "TV3+ HD Denmark",
                         "channel_id": "819"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1097"
                     },
                     {
                         "channel_name": "TV3+ HD Denmark",
@@ -3126,12 +3532,46 @@
                         "channel_id": "62"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1099"
+                    },
+                    {
                         "channel_name": "beIN Sports 1 Turkey",
                         "channel_id": "3091"
                     },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddea Estonia Meistriliiga : Narva \ud83c\uddea\ud83c\uddea vs Tammeka \ud83c\uddea\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1104"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddea Peru Liga 1 Apertura : Moquegua \ud83c\uddf5\ud83c\uddea vs Alianza Atl \ud83c\uddf5\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1105"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddf1\ud83c\uddf9 Lithuania Toplyga : Panevezys \ud83c\uddf1\ud83c\uddf9 vs Zalgiris \ud83c\uddf1\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1108"
                     }
                 ]
             },
@@ -3144,8 +3584,22 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1109"
+                    },
+                    {
                         "channel_name": "Sportv Brazil",
                         "channel_id": "78"
+                    }
+                ]
+            },
+            {
+                "time": "16:15",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf4 Faroe Islands Premier League : Skala Itrottarfelag \ud83c\uddeb\ud83c\uddf4 vs 07 Vestur Sorvagur \ud83c\uddeb\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1111"
                     }
                 ]
             },
@@ -3156,6 +3610,10 @@
                     {
                         "channel_name": "Nova Sports 2 Greece",
                         "channel_id": "632"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1112"
                     },
                     {
                         "channel_name": "Nova Sports 2 Greece",
@@ -3180,6 +3638,10 @@
                     {
                         "channel_name": "Abu Dhabi Sports 1",
                         "channel_id": "600"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1116"
                     }
                 ]
             },
@@ -3194,6 +3656,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1115"
                     },
                     {
                         "channel_name": "DAZN1 IT",
@@ -3320,6 +3786,10 @@
                         "channel_id": "159"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1114"
+                    },
+                    {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "3049"
                     }
@@ -3332,6 +3802,10 @@
                     {
                         "channel_name": "Magenta Sport 302",
                         "channel_id": "7"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1117"
                     }
                 ]
             },
@@ -4976,6 +5450,10 @@
                         "channel_id": "33"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1113"
+                    },
+                    {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
                     },
@@ -6042,198 +6520,122 @@
         ],
         "Tennis US OPEN [Grand Slam] \ud83c\udfbe": [
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 10 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1067"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1510"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 9 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1068"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1509"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 16 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1069"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1516"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 13 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1070"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1513"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Stadium 17 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1071"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1517"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 15 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1072"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1515"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 11 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1073"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1511"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 14 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1074"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1514"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 8 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1075"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1508"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 6 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1076"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1506"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 7 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1077"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1518"
                     }
                 ]
             },
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 12 / Grand Slam",
+                "time": "17:19",
+                "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
-                        "channel_name": "Tennis HD Stream",
+                        "channel_name": "Live Feed",
                         "channel_id": "1078"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1512"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 4 / Grand Slam",
-                "channels": [
-                    {
-                        "channel_name": "Tennis HD Stream",
-                        "channel_id": "1079"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1504"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe Tennis : Court 5 / Grand Slam",
-                "channels": [
-                    {
-                        "channel_name": "Tennis HD Stream",
-                        "channel_id": "1080"
-                    },
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1505"
                     }
                 ]
             }
@@ -6528,6 +6930,448 @@
                     {
                         "channel_name": "Tennis Channel USA",
                         "channel_id": "40"
+                    }
+                ]
+            }
+        ],
+        "\ud83c\udfbe ATP US Open / \ud83c\udfbe WTA US Open": [
+            {
+                "time": "14:30",
+                "event": "\ud83c\udfbe US Open : 2026 US Open Radio Presented by American Express",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : US Open Press Conferences",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : RedZone v the US Open Presented by American Express",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : 2026 US Open Spanish Coverage",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 7 \u2014 Sho Shimabukuro vs Arthur Rinderknech",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 13 \u2014 Daniel Merida Aguilar vs Marton Fucsovics",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 10 \u2014 Dino Prizmic vs Alexander Shevchenko",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Grandstand \u2014 Jiri Lehecka vs Pablo Carreno Busta",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 11 \u2014 Wu Yibing vs Adam Walton",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 12 \u2014 Kamil Majchrzak vs Hamad Medjedovic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 6 \u2014 Renata Zarazua vs Polina Iatcenko",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 17 \u2014 Kamilla Rakhimova vs Barbora Krejcikova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Louis Armstrong \u2014 Jasmine Paolini vs Veronika Erjavec",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe US Open : Court 5 \u2014 Talia Gibson vs Donna Vekic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe US Open : Arthur Ashe \u2014 Jessica Pegula vs Elena-Gabriela Ruse",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe US Open : Court 5 \u2014 Luca Van Assche vs Cameron Norrie",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe US Open : Louis Armstrong \u2014 Coleman Wong vs Tommy Paul",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe US Open : Court 17 \u2014 Zhang Shuai vs Leylah Fernandez",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe US Open : Court 6 \u2014 Emiliana Arango vs Wang Xinyu",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe US Open : Court 13 \u2014 Jaume Munar vs Terence Atmane",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1571"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe US Open : Court 10 \u2014 Toby Samuel vs Tomas Machac",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1572"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe US Open : Court 12 \u2014 Lloyd Harris vs Jack Kennedy",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1573"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe US Open : Grandstand \u2014 Marta Kostyuk vs Storm Hunter",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe US Open : Court 7 \u2014 Lucrezia Stefanini vs Dayana Yastremska",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1575"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe US Open : Court 11 \u2014 Elvina Kalieva vs Lanlana Tararudee",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1576"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfbe US Open : Arthur Ashe \u2014 Daniil Medvedev vs Hugo Gaston",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1577"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe US Open : Court 6 \u2014 Thiago Agustin Tirante vs Adrian Mannarino",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1578"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe US Open : Court 17 \u2014 Jaime Faria vs Jenson Brooksby",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1579"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe US Open : Court 7 \u2014 Aleksandar Vukic vs Rei Sakamoto",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1580"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe US Open : Grandstand \u2014 Miomir Kecmanovic vs Denis Shapovalov",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1581"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe US Open : Court 5 \u2014 Carol Young Suh Lee vs Katie Boulter",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1582"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe US Open : Court 11 \u2014 McCartney Kessler vs Ekaterina Alexandrova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1583"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe US Open : Court 12 \u2014 Hanne Vandewinkel vs Karolina Pliskova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1585"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe US Open : Court 6 \u2014 Tomas Martin Etcheverry vs Vit Kopriva",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1586"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe US Open : Court 5 \u2014 Martin Landaluce vs Jacob Fearnley",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1587"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe US Open : Court 11 \u2014 Sebastian Gorzny vs Raphael Collignon",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1588"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\ud83c\udfbe US Open : Court 7 \u2014 Kimberly Birrell vs Petra Marcinko",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1590"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\ud83c\udfbe US Open : Court 12 \u2014 Taylah Preston vs Alycia Parks",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1591"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe US Open : Court 17 \u2014 Alex Michelsen vs Federico Cina",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1592"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe US Open : Grandstand \u2014 Emma Navarro vs Lois Boisson",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1593"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfbe US Open : Arthur Ashe \u2014 Mariano Navone vs Novak Djokovic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1594"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfbe US Open : Louis Armstrong \u2014 Elina Svitolina vs Solana Sierra",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1595"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfbe US Open : Louis Armstrong \u2014 Alexander Bublik vs J.J. Wolf",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1596"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfbe US Open : Arthur Ashe \u2014 Venus Williams vs Sofia Kenin",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1597"
                     }
                 ]
             }
@@ -7740,6 +8584,14 @@
                     {
                         "channel_name": "WWE PPV",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "195"
+                    },
+                    {
+                        "channel_name": "WWE PPV",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -7936,6 +8788,10 @@
                     {
                         "channel_name": "GOLF Channel USA",
                         "channel_id": "318"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1098"
                     },
                     {
                         "channel_name": "RDS CA",
@@ -8358,6 +9214,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1110"
                     }
                 ]
             },
@@ -8696,12 +9556,26 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "\ud83c\udfc0 \ud83c\udf0d World Cup - Qualification : Guinea \ud83c\uddec\ud83c\uddf3 vs Cameroon \ud83c\udde8\ud83c\uddf2",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1087"
+                    }
+                ]
+            },
+            {
                 "time": "15:30",
                 "event": "\ud83c\udfc0 \ud83c\udf0d World Cup - Qualification : \ud83c\uddf8\ud83c\uddea Sweden \ud83c\uddf8\ud83c\uddea vs \ud83c\uddeb\ud83c\uddf7 France \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "Kunskapskanalen",
                         "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1094"
                     }
                 ]
             },
@@ -8712,6 +9586,20 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1106"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfc0 Basketball World Cup Qualification : Estonia \ud83c\uddea\ud83c\uddea vs Finland \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1107"
                     }
                 ]
             },
@@ -8744,6 +9632,16 @@
                     {
                         "channel_name": "Arena Sport 3 Serbia",
                         "channel_id": "431"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\ud83c\udfc0 \ud83c\udf0d Basketball World Cup Qualification : Angola \ud83c\udde6\ud83c\uddf4 vs Ivory Coast \ud83c\udde8\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1092"
                     }
                 ]
             },
@@ -9108,7 +10006,7 @@
         ],
         "Darts \ud83c\udfaf": [
             {
-                "time": "12:07",
+                "time": "17:19",
                 "event": "\ud83c\udfaf PDC Darts Hungarian Board 1",
                 "channels": [
                     {
@@ -9118,7 +10016,7 @@
                 ]
             },
             {
-                "time": "12:07",
+                "time": "17:19",
                 "event": "\ud83c\udfaf PDC Darts Hungarian Board 2",
                 "channels": [
                     {
@@ -9128,7 +10026,7 @@
                 ]
             },
             {
-                "time": "12:07",
+                "time": "17:19",
                 "event": "\ud83c\udfaf PDC Darts Hungarian Board 3",
                 "channels": [
                     {
@@ -9138,7 +10036,7 @@
                 ]
             },
             {
-                "time": "12:07",
+                "time": "17:19",
                 "event": "\ud83c\udfaf PDC Darts Hungarian Board 4",
                 "channels": [
                     {
@@ -9148,7 +10046,7 @@
                 ]
             },
             {
-                "time": "12:07",
+                "time": "17:19",
                 "event": "\ud83c\udfaf PDC Darts Hungarian Board 5",
                 "channels": [
                     {
@@ -9158,7 +10056,7 @@
                 ]
             },
             {
-                "time": "12:07",
+                "time": "17:19",
                 "event": "\ud83c\udfaf PDC Darts Hungarian Board 6",
                 "channels": [
                     {
@@ -9738,6 +10636,10 @@
                     {
                         "channel_name": "Sky Sport 2 NZ",
                         "channel_id": "589"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
                     },
                     {
                         "channel_name": "SuperSport Rugby",
