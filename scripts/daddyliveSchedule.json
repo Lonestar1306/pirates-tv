@@ -670,6 +670,56 @@
                 ]
             },
             {
+                "time": "13:00",
+                "event": "Tanzania Ligi Kuu Bara : Fountain Gate vs Young Africans",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League : Asyut Petroleum \ud83c\uddea\ud83c\uddec vs National Bank Egypt \ud83c\uddea\ud83c\uddec",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Yelimay Semey \ud83c\uddf0\ud83c\uddff vs Kairat Almaty \ud83c\uddf0\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddff Azerbaijan Premier League : Araz \ud83c\udde6\ud83c\uddff vs Sabah Baku \ud83c\udde6\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf1 Albania Liga : Vora \ud83c\udde6\ud83c\uddf1 vs Egnatia \ud83c\udde6\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
                 "time": "14:00",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal - Liga Revela\u00e7\u00e3o : Torreense U23 \ud83c\uddf5\ud83c\uddf9 vs Sporting Braga U23 \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
@@ -686,6 +736,10 @@
                     {
                         "channel_name": "TV4 Latvia",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     }
                 ]
             },
@@ -696,6 +750,10 @@
                     {
                         "channel_name": "Digi Sport 1 Romania",
                         "channel_id": "400"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     },
                     {
                         "channel_name": "Prima Sport 1 Romania",
@@ -710,6 +768,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3075"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
                     }
                 ]
             },
@@ -720,6 +782,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3076"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
                     }
                 ]
             },
@@ -730,6 +796,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3077"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     }
                 ]
             },
@@ -740,6 +810,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3078"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -750,6 +824,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3074"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
                     }
                 ]
             },
@@ -760,6 +838,10 @@
                     {
                         "channel_name": "Ruutu+",
                         "channel_id": "3079"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     }
                 ]
             },
@@ -780,6 +862,36 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "1"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\u26bd Tanzania Ligi Kuu Bara : Simba vs Geita Gold",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "\u26bd Lithuania Toplyga : Dziugas Telsiai vs Hegelmann",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Azerbaijan Premier League : Sumqayit vs Qarabag",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
                     }
                 ]
             },
@@ -822,8 +934,22 @@
                         "channel_id": "465"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
+                    },
+                    {
                         "channel_name": "Sportklub 2 Croatia",
                         "channel_id": "102"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Armenia Premier League : Pyunik Yerevan vs Ararat-Armenia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
                     }
                 ]
             },
@@ -834,6 +960,10 @@
                     {
                         "channel_name": "Magenta Sport",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "201"
                     },
                     {
                         "channel_name": "DAZN1 DE",
@@ -876,6 +1006,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "55"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     },
                     {
                         "channel_name": "Sky Sport 252 IT",
@@ -996,6 +1130,10 @@
                         "channel_id": "632"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
+                    },
+                    {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
                     },
@@ -1018,12 +1156,36 @@
                         "channel_id": "779"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
+                    },
+                    {
                         "channel_name": "Arena Sport 9 Serbia",
                         "channel_id": "944"
                     },
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Superettan : Sundsvall vs Norrby",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Division  : Hammarby TFF vs Karlbergs",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
                     }
                 ]
             },
@@ -1054,6 +1216,10 @@
                         "channel_id": "808"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "184"
+                    },
+                    {
                         "channel_name": "Arena Sport 1x2 Serbia",
                         "channel_id": "612"
                     },
@@ -1076,6 +1242,10 @@
                         "channel_id": "135"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
                     }
@@ -1090,8 +1260,32 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    },
+                    {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "3026"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Egypt Premier League : Zamalek vs Petrojet",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Egypt Premier League : Al Masry vs Pyramids",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     }
                 ]
             },
@@ -1102,6 +1296,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
                     },
                     {
                         "channel_name": "TV4 Sportkanalen",
@@ -1118,6 +1316,10 @@
                         "channel_id": "703"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
+                    },
+                    {
                         "channel_name": "TV4 Sport Live 1",
                         "channel_id": "3071"
                     }
@@ -1132,8 +1334,22 @@
                         "channel_id": "747"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
+                    },
+                    {
                         "channel_name": "TV4 Fotball",
                         "channel_id": "3072"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Faroe Islands Premier League : Klaksvik vs Streymur",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
                     }
                 ]
             },
@@ -1144,6 +1360,10 @@
                     {
                         "channel_name": "M+ LALIGA TV",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -1248,6 +1468,10 @@
                         "channel_id": "400"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    },
+                    {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
                     },
@@ -1264,6 +1488,10 @@
                     {
                         "channel_name": "5Sport Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106"
                     }
                 ]
             },
@@ -1274,6 +1502,10 @@
                     {
                         "channel_name": "ESPN 2 NL",
                         "channel_id": "386"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110"
                     }
                 ]
             },
@@ -1284,6 +1516,20 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Tanzania Ligi Kuu Bara : Kagera Sugar vs Azam",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107"
                     }
                 ]
             },
@@ -1294,6 +1540,10 @@
                     {
                         "channel_name": "Diema Sport Bulgaria",
                         "channel_id": "465"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
                     },
                     {
                         "channel_name": "Diema Sport Bulgaria",
@@ -1310,6 +1560,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151"
+                    },
+                    {
                         "channel_name": "Blue Sport D 1",
                         "channel_id": "3020"
                     }
@@ -1322,6 +1576,10 @@
                     {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "63"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
                     },
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -1374,6 +1632,10 @@
                         "channel_id": "62"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    },
+                    {
                         "channel_name": "beIN Sports MAX 4 France",
                         "channel_id": "494"
                     },
@@ -1422,12 +1684,26 @@
                 ]
             },
             {
+                "time": "18:30",
+                "event": "\u26bd Uruguay Liga AUF : Racing Montevideo vs Albion",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
                 "time": "18:45",
                 "event": "\u26bd \ud83c\uddee\ud83c\uddf9 Italy - Serie A : Atalanta \ud83c\uddee\ud83c\uddf9 vs Bologna \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
                     },
                     {
                         "channel_name": "Sky Sport 251 IT",
@@ -1540,6 +1816,10 @@
                         "channel_id": "116"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    },
+                    {
                         "channel_name": "Nova Sport 2 CZ",
                         "channel_id": "1022"
                     },
@@ -1562,6 +1842,26 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "3051"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Bolivia Division Profesional : SA Bulo Bulo vs Guabira",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Albania Liga : Skenderbeu vs Dinamo City",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     }
                 ]
             },
@@ -1624,6 +1924,10 @@
                         "channel_id": "779"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
+                    },
+                    {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
                     }
@@ -1636,6 +1940,10 @@
                     {
                         "channel_name": "Hub Premier",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     },
                     {
                         "channel_name": "USA Network",
@@ -1800,6 +2108,10 @@
                         "channel_id": "380"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    },
+                    {
                         "channel_name": "beIN Sports 4 Turkey",
                         "channel_id": "67"
                     },
@@ -1882,6 +2194,10 @@
                         "channel_id": "49"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    },
+                    {
                         "channel_name": "beIN Sports MAX 5 France",
                         "channel_id": "495"
                     },
@@ -1896,12 +2212,26 @@
                 ]
             },
             {
+                "time": "19:15",
+                "event": "\u26bd Iceland League : Breidablik vs Stjarnan",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
                 "time": "19:30",
                 "event": "\u26bd \ud83c\uddea\ud83c\uddf8 Spain - Segunda Division : Celta de Vigo II \ud83c\uddea\ud83c\uddf8 vs CD Castellon \ud83c\uddea\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     },
                     {
                         "channel_name": "GOL Spain",
@@ -1932,6 +2262,10 @@
                     {
                         "channel_name": "DAZN LaLiga",
                         "channel_id": "538"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -2528,7 +2862,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -2538,7 +2872,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -2556,7 +2890,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -2570,7 +2904,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -2588,7 +2922,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -2598,7 +2932,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -2608,7 +2942,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -2618,7 +2952,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -2628,7 +2962,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -2642,7 +2976,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -2652,7 +2986,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -2662,7 +2996,7 @@
                 ]
             },
             {
-                "time": "13:27",
+                "time": "18:17",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -3042,524 +3376,842 @@
         ],
         "Tennis \ud83c\udfbe ATP - Singles: US Open (USA)": [
             {
-                "time": "15:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udded\ud83c\uddf7 Marin \u010cili\u0107 vs \ud83c\uddf2\ud83c\udde8 Alexander Bublik",
+                "time": "14:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : US Open Radio Presented by American Express",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddec\ud83c\uddf7 Stefanos Tsitsipas vs \ud83c\uddeb\ud83c\uddf7 Arthur Fils",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Press Conferences",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddfe Valentin Vacherot vs \ud83c\uddfa\ud83c\uddf8 Aleksandar Kovacevic",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : RedZone v the US Open Presented by American Express",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\udde6 Damir Dzumhur vs \ud83c\uddf5\ud83c\uddf1 Hubert Hurkacz",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Brandon Nakashima vs \ud83c\udde6\ud83c\uddf7 Sebastian Baez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde6\ud83c\uddf9 Jurij Rodionov vs \ud83c\uddeb\ud83c\uddf7 Giovanni Mpetshi Perricard",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\uddf9 Matteo Arnaldi vs \ud83c\udde6\ud83c\uddfa James Duckworth",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf2\ud83c\udde8 Roman Safiullin vs \ud83c\uddea\ud83c\uddf8 Carlos Alcaraz",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\uddf9 Matteo Berrettini vs \ud83c\udde8\ud83c\udded Stan Wawrinka",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\uddf9 Luciano Darderi vs \ud83c\uddec\ud83c\udde7 Harry Wendelken",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\uddf3 Juncheng Shang vs \ud83c\udde6\ud83c\uddf7 Marco Trungelliti",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\uddff Dalibor Svrcina vs \ud83c\uddeb\ud83c\uddf7 Valentin Royer",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\udde6 Damir Dzumhur vs \ud83c\uddf5\ud83c\uddf1 Hubert Hurkacz",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\uddf3 Juncheng Shang vs \ud83c\udde6\ud83c\uddf7 Marco Trungelliti",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\uddf9 Matteo Berrettini vs \ud83c\udde8\ud83c\udded Stan Wawrinka",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddea Alexander Blockx vs \ud83c\udde8\ud83c\uddf1 Tom\u00e1s Barrios Vera",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde9\ud83c\uddea Yannick Hanfmann vs \ud83c\udde8\ud83c\uddf1 Alejandro Tabilo",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddeb\ud83c\uddf7 Quentin Halys vs \ud83c\udde6\ud83c\uddf7 Facundo D\u00edaz Acosta",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\uddff Jakub Men\u0161\u00edk vs \ud83c\uddef\ud83c\uddf5 Shintaro Mochizuki",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\udde6 F\u00e9lix Auger-Aliassime vs \ud83c\udde6\ud83c\uddfa Rinky Hijikata",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf5\ud83c\uddf9 Nuno Borges vs \ud83c\uddfa\ud83c\uddf8 Learner Tien",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde6\ud83c\uddf7 Rom\u00e1n Andr\u00e9s Burruchaga vs \ud83c\uddf7\ud83c\uddfa Karen Khachanov",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddec Grigor Dimitrov vs \ud83c\udde6\ud83c\uddfa Alexei Popyrin",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Ben Shelton vs \ud83c\uddf3\ud83c\uddf1 Tallon Griekspoor",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddfa\ud83c\uddf8 Martin Damm vs \ud83c\uddfa\ud83c\uddf8 Frances Tiafoe",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles: US Open (USA)": [
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\uddff Marie Bouzkov\u00e1 vs \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddec\ud83c\udde7 Harriet Dart vs \ud83c\uddfa\ud83c\uddf8 Peyton Stearns",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : US Open Spanish Coverage",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddeb\ud83c\uddf7 Elsa Jacquemot vs \ud83c\udde8\ud83c\uddff Marie Bouzkov\u00e1",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Louis Armstrong : Stefanos Tsitsipas \ud83c\uddec\ud83c\uddf7 vs Arthur Fils \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\udde6 Anhelina Kalinina vs \ud83c\uddef\ud83c\uddf5 Himeno Sakatsume",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 7 : Otto Virtanen \ud83c\uddeb\ud83c\uddee vs Andrey Rublev \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddf9 Sinja Kraus vs \ud83c\udde8\ud83c\uddff Karol\u00edna Muchov\u00e1",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 11 : Valentin Vacherot \ud83c\uddf2\ud83c\udde8 vs Aleksandar Kovacevic \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf9\ud83c\udded Mananchaya Sawangkaew vs \ud83c\udded\ud83c\uddfa Panna Udvardy",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 13 : Lilli Tagger \ud83c\udde6\ud83c\uddf9 vs Tamara Korpatsch \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddf9 Lilli Tagger vs \ud83c\udde9\ud83c\uddea Tamara Korpatsch",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 10 : Elsa Jacquemot \ud83c\uddeb\ud83c\uddf7 vs Marie Bouzkova \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
             {
                 "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\uddf3 Zheng Qinwen vs \ud83c\uddfb\ud83c\uddec Ksenia Liutova",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 6 : Mananchaya Sawangkaew \ud83c\uddf9\ud83c\udded vs Panna Udvardy \ud83c\udded\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 12 : Harriet Dart \ud83c\uddec\ud83c\udde7 vs Peyton Stearns \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Grandstand : Sinja Kraus \ud83c\udde6\ud83c\uddf9 vs Karolina Muchova \ud83c\udde8\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 5 : Sara Bejlek \ud83c\udde8\ud83c\uddff vs Cristina Buc\u0219a \ud83c\uddea\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 15 : Anhelina Kalinina \ud83c\uddfa\ud83c\udde6 vs Himeno Sakatsume \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 17 : Qinwen Zheng \ud83c\udde8\ud83c\uddf3 vs Kristina Liutova \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
             {
                 "time": "15:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde7\ud83c\uddfe Aryna Sabalenka vs \ud83c\udde8\ud83c\uddf4 Camila Osorio",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : 2026 US Open Tennis ESPN",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Arthur Ashe : Aryna Sabalenka \ud83c\udde7\ud83c\uddfe vs Camila Osorio \ud83c\udde8\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Anna Blinkova vs \ud83c\uddf7\ud83c\uddfa Anna Kalinskaya",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 12 : Martin Landaluce \ud83c\uddea\ud83c\uddf8 vs Jacob Fearnley \ud83c\uddec\ud83c\udde7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf5\ud83c\uddf1 Maja Chwali\u0144ska vs \ud83c\uddfa\ud83c\uddf8 Taylor Townsend",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 17 : Alex Michelsen \ud83c\uddfa\ud83c\uddf8 vs Federico Cina \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddef\ud83c\uddf5 Aoi Ito vs \ud83c\uddea\ud83c\uddf8 Olga Selekhmeteva",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 6 : Thiago Agustin Tirante \ud83c\udde6\ud83c\uddf7 vs Adrian Mannarino \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
             {
                 "time": "16:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddf7 Nadia Podoroska vs \ud83c\udde8\ud83c\udded Stefanie V\u00f6gele",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Grandstand : Emma Navarro \ud83c\uddfa\ud83c\uddf8 vs Lois Boisson \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1571"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 13 : Kimberly Birrell \ud83c\udde6\ud83c\uddfa vs Petra Marcinko \ud83c\udded\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1572"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 5 : Anna Blinkova \ud83c\uddf7\ud83c\uddfa vs Anna Kalinskaya \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1573"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 15 : Aoi Ito \ud83c\uddef\ud83c\uddf5 vs Oksana Selekhmeteva \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf3\ud83c\uddf1 Arantxa Rus vs \ud83c\uddfa\ud83c\uddf8 McNally C.",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 11 : Sebastian Gorzny \ud83c\uddfa\ud83c\uddf8 vs Raphael Collignon \ud83c\udde7\ud83c\uddea",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1575"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ashlyn Krueger vs \ud83c\uddfa\ud83c\uddf8 Amanda Anisimova",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 7 : Aleksandar Vukic \ud83c\udde6\ud83c\uddfa vs Rei Sakamoto \ud83c\uddef\ud83c\uddf5",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1576"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\udde6 Daria Snigur vs \ud83c\udde8\ud83c\udde6 Daria Shnaider",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Arthur Ashe : Roman Safiullin \ud83c\uddf7\ud83c\uddfa vs Carlos Alcaraz \ud83c\uddea\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1577"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf8\ud83c\uddee Tamara Zidan\u0161ek vs \ud83c\uddfa\ud83c\uddff Panna Udvardy",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 6 : Jurij Rodionov \ud83c\udde6\ud83c\uddf9 vs Giovanni Mpetshi Perricard \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1578"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 10 : Matteo Arnaldi \ud83c\uddee\ud83c\uddf9 vs James Duckworth \ud83c\udde6\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1579"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Louis Armstrong : Ashlyn Krueger \ud83c\uddfa\ud83c\uddf8 vs Amanda Anisimova \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1580"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 13 : Nadia Podoroska \ud83c\udde6\ud83c\uddf7 vs Simona Waltert \ud83c\udde8\ud83c\udded",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1581"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 9 : Tamara Zidansek \ud83c\uddf8\ud83c\uddee vs Maria Timofeeva \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1582"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Grandstand : Maja Chwalinska \ud83c\uddf5\ud83c\uddf1 vs Taylor Townsend \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1583"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 7 : Daria Snigur \ud83c\uddfa\ud83c\udde6 vs Diana Shnaider \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1584"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 5 : Luciano Darderi \ud83c\uddee\ud83c\uddf9 vs Harry Wendelken \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1586"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 17 : Brandon Nakashima \ud83c\uddfa\ud83c\uddf8 vs Sebastian Baez \ud83c\udde6\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1587"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 15 : Dalibor Svrcina \ud83c\udde8\ud83c\uddff vs Valentin Royer \ud83c\uddeb\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1585"
                     }
                 ]
             },
             {
                 "time": "18:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf3\ud83c\uddf1 Anouk Koevermans vs \ud83c\uddfa\ud83c\uddf8 Catherine McNally",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 11 : Anouk Koevermans \ud83c\uddf3\ud83c\uddf1 vs Catherine McNally \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1590"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 12 : Damir Dzumhur \ud83c\udde7\ud83c\udde6 vs Hubert Hurkacz \ud83c\uddf5\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1588"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 13 : Juncheng Shang \ud83c\udde8\ud83c\uddf3 vs Marco Trungelliti \ud83c\udde6\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1589"
                     }
                 ]
             },
             {
                 "time": "19:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\udded Viktorija Golubic vs \ud83c\uddeb\ud83c\uddf7 Diane Parry",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 9 : Viktorija Golubic \ud83c\udde8\ud83c\udded vs Diane Parry \ud83c\uddeb\ud83c\uddf7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1595"
                     }
                 ]
             },
             {
                 "time": "19:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddf9 Julia Grabher vs \ud83c\uddf7\ud83c\uddf4 Sorana C\u00eerstea",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 10 : Julia Grabher \ud83c\udde6\ud83c\uddf9 vs Sorana Cirstea \ud83c\uddf7\ud83c\uddf4",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1594"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Grandstand : Matteo Berrettini \ud83c\uddee\ud83c\uddf9 vs Stan Wawrinka \ud83c\udde8\ud83c\udded",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1591"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 7 : Alexander Blockx \ud83c\udde7\ud83c\uddea vs Tomas Barrios Vera \ud83c\udde8\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1592"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 6 : Yannick Hanfmann \ud83c\udde9\ud83c\uddea vs Alejandro Tabilo \ud83c\udde8\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1593"
                     }
                 ]
             },
             {
                 "time": "20:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ann Li vs \ud83c\udded\ud83c\uddf7 Antonia Ru\u017ei\u0107",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 12 : Ann Li \ud83c\uddfa\ud83c\uddf8 vs Antonia Ruzic \ud83c\udded\ud83c\uddf7",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1600"
                     }
                 ]
             },
             {
                 "time": "20:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Sloane Stephens vs \ud83c\udde9\ud83c\uddf0 Clara Tauson",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 17 : Sloane Stephens \ud83c\uddfa\ud83c\uddf8 vs Clara Tauson \ud83c\udde9\ud83c\uddf0",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1599"
                     }
                 ]
             },
             {
                 "time": "20:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Katie Volynets vs \ud83c\udde8\ud83c\uddff Linda Noskov\u00e1",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 11 : Katie Volynets \ud83c\uddfa\ud83c\uddf8 vs Linda Noskova \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1598"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 13 : Quentin Halys \ud83c\uddeb\ud83c\uddf7 vs Facundo Diaz Acosta \ud83c\udde6\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1597"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 5 : Jakub Mensik \ud83c\udde8\ud83c\uddff vs Shintaro Mochizuki \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1596"
                     }
                 ]
             },
             {
                 "time": "21:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddee\ud83c\uddf9 Elisabetta Cocciaretto vs \ud83c\udde8\ud83c\uddff Kate\u0159ina Siniakov\u00e1",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Grandstand : Felix Auger-Aliassime \ud83c\udde8\ud83c\udde6 vs Rinky Hijikata \ud83c\udde6\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1601"
                     }
                 ]
             },
             {
                 "time": "21:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddfa Maya Joint vs \ud83c\uddfb\ud83c\uddec Liudmila Samsonova",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 6 : Elisabetta Cocciaretto \ud83c\uddee\ud83c\uddf9 vs Katerina Siniakova \ud83c\udde8\ud83c\uddff",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1602"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 10 : Maya Joint \ud83c\udde6\ud83c\uddfa vs Liudmila Samsonova \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1603"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 17: Nuno Borges \ud83c\uddf5\ud83c\uddf9 vs Learner Tien \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1517"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1605"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 11 : Roman Andres Burruchaga \ud83c\udde6\ud83c\uddf7 vs Karen Khachanov \ud83c\uddf7\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1604"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Court 12 : Grigor Dimitrov \ud83c\udde7\ud83c\uddec vs Alexei Popyrin \ud83c\udde6\ud83c\uddfa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1606"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf5\ud83c\uddf1 Iga \u015awi\u0105tek vs \ud83c\udde8\ud83c\uddf3 Wang Xiyu",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Louis Armstrong : Iga Swiatek \ud83c\uddf5\ud83c\uddf1 vs Wang Xinyu \ud83c\udde8\ud83c\uddf3",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1610"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : 2026 US Open Tennis ESPN2",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1607"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : US Open Spanish Coverage",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1608"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Arthur Ashe : Ben Shelton \ud83c\uddfa\ud83c\uddf8 vs Tallon Griekspoor \ud83c\uddf3\ud83c\uddf1",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1609"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Louis Armstrong : Martin Damm \ud83c\uddfa\ud83c\uddf8 vs Frances Tiafoe \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1611"
                     }
                 ]
             },
             {
                 "time": "01:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddef\ud83c\uddf5 Naomi Osaka vs \ud83c\uddfb\ud83c\uddec Anastasia Zakharova",
+                "event": "\ud83c\udfbe \ud83c\uddfa\ud83c\uddf8 US Open : Arthur Ashe : Naomi Osaka \ud83c\uddef\ud83c\uddf5 vs Anastasia Zakharova \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1612"
                     }
                 ]
             }
@@ -3960,6 +4612,10 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    },
+                    {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
                     },
@@ -3986,6 +4642,10 @@
                         "channel_id": "521"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
+                    },
+                    {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "8"
                     },
@@ -4002,6 +4662,10 @@
                     {
                         "channel_name": "RTP 2 Portugal",
                         "channel_id": "720"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108"
                     }
                 ]
             },
@@ -4012,6 +4676,20 @@
                     {
                         "channel_name": "Arena Sport 1 Serbia",
                         "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\ud83c\udfc0 \ud83c\udf0e Basketball World Cup Qualification : Iceland vs Turkey",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     }
                 ]
             },
