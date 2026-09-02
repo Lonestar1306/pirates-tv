@@ -1,17 +1,5 @@
 {
-    "Tuesday 01st Sep 2026 - Schedule Time UK GMT": {
-        "PPV Events": [
-            {
-                "time": "00:00",
-                "event": "\ud83e\udd4a Country Box: Where Music Meets Boxing",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "29"
-                    }
-                ]
-            }
-        ],
+    "Wednesday 02nd Sep 2026 - Schedule Time UK GMT": {
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -580,6 +568,48 @@
                 ]
             }
         ],
+        "Scottish Premiership \u26bd": [
+            {
+                "time": "18:45",
+                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Celtic \ud83c\uddec\ud83c\udde7 vs Aberdeen \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "SPFL Feed",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Dundee \ud83c\uddec\ud83c\udde7 vs St. Johnstone \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "SPFL Feed",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Kilmarnock \ud83c\uddec\ud83c\udde7 vs St. Mirren \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "SPFL Feed",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Motherwell \ud83c\uddec\ud83c\udde7 vs Dundee United \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "SPFL Feed",
+                        "channel_id": "151"
+                    }
+                ]
+            }
+        ],
         "England - Championship \u26bd": [
             {
                 "time": "18:00",
@@ -662,26 +692,6 @@
                 ]
             }
         ],
-        "England National League \u26bd": [
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - National League : Halifax Town \ud83c\uddec\ud83c\udde7 vs Hartlepool United \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "DAZN USA",
-                        "channel_id": "86"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "211"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2010"
-                    }
-                ]
-            }
-        ],
         "England - League One \u26bd": [
             {
                 "time": "18:45",
@@ -730,190 +740,6 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "107"
-                    }
-                ]
-            }
-        ],
-        "\ud83c\uddec\ud83c\udde7 England - League Two \u26bd": [
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Accrington Stanley \ud83c\uddec\ud83c\udde7 vs Grimsby Town \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "152"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "209"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Bristol Rovers \ud83c\uddec\ud83c\udde7 vs Colchester United \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "153"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "208"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Cheltenham Town \ud83c\uddec\ud83c\udde7 vs York City \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "154"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "207"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Chesterfield \ud83c\uddec\ud83c\udde7 vs Gillingham \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "155"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "218"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Crewe Alexandra \ud83c\uddec\ud83c\udde7 vs Walsall \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "156"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "206"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Exeter City \ud83c\uddec\ud83c\udde7 vs Barnet \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "157"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "205"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Fleetwood Town \ud83c\uddec\ud83c\udde7 vs Oldham Athletic \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "158"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "204"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "2011"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Northampton Town \ud83c\uddec\ud83c\udde7 vs Crawley Town \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "159"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "203"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Rochdale \ud83c\uddec\ud83c\udde7 vs Shrewsbury Town \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "160"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "202"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 English - League Two : Shrewsbury vs Salford",
-                "channels": [
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "210"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Salford City \ud83c\uddec\ud83c\udde7 vs Newport County \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "161"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "201"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Swindon Town \ud83c\uddec\ud83c\udde7 vs Port Vale \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "162"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "200"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 England - League Two : Tranmere Rovers \ud83c\uddec\ud83c\udde7 vs Rotherham United \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports+",
-                        "channel_id": "163"
-                    },
-                    {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "199"
                     }
                 ]
             }
@@ -2058,143 +1884,241 @@
                 ]
             }
         ],
-        "College Soccer": [
+        "USL Soccer \u26bd": [
             {
-                "time": "20:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Villanova \ud83c\uddfa\ud83c\uddf8 vs Fordham \ud83c\uddfa\ud83c\uddf8",
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL Championship : Charleston Battery \ud83c\uddfa\ud83c\uddf8 vs Hartford Athletic \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : American \ud83c\uddfa\ud83c\uddf8 vs University of Delaware \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : East Tennessee State \ud83c\uddfa\ud83c\uddf8 vs South Carolina Upstate \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Fairfield \ud83c\uddfa\ud83c\uddf8 vs Lehigh \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Vermont \ud83c\uddfa\ud83c\uddf8 vs Holy Cross \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Wofford \ud83c\uddfa\ud83c\uddf8 vs Winthrop \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "CBS Sports Golazo USA",
+                        "channel_id": "310"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : St. John's (NY) \ud83c\uddfa\ud83c\uddf8 vs Hofstra \ud83c\uddfa\ud83c\uddf8",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Westchester SC \ud83c\uddfa\ud83c\uddf8 vs Chattanooga Red Wolves \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Davidson \ud83c\uddfa\ud83c\uddf8 vs UNC Greensboro \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Lafayette \ud83c\uddfa\ud83c\uddf8 vs La Salle \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Pennsylvania \ud83c\uddfa\ud83c\uddf8 vs Monmouth \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : South Florida \ud83c\uddfa\ud83c\uddf8 vs North Florida \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : UCF \ud83c\uddfa\ud83c\uddf8 vs Clemson \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:15",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : George Mason \ud83c\uddfa\ud83c\uddf8 vs Marshall \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
                     }
                 ]
             },
             {
                 "time": "23:30",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Sacred Heart \ud83c\uddfa\ud83c\uddf8 vs Long Island University \ud83c\uddfa\ud83c\uddf8",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Charlotte Independence \ud83c\uddfa\ud83c\uddf8 vs Portland Hearts of Pine \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods & Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : NY Cosmos \ud83c\uddfa\ud83c\uddf8 vs Sarasota Paradise \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Fort Wayne \ud83c\uddfa\ud83c\uddf8 vs Richmond Kickers \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Forward Madison \ud83c\uddfa\ud83c\uddf8 vs One Knoxville \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "69"
+                    }
+                ]
+            }
+        ],
+        "North America - Leagues Cup \u26bd": [
+            {
+                "time": "01:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd North America - Leagues Cup : Toluca \ud83c\uddf2\ud83c\uddfd vs Le\u00f3n \ud83c\uddf2\ud83c\uddfd",
+                "channels": [
+                    {
+                        "channel_name": "Apple TV",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd North America - Leagues Cup : Am\u00e9rica \ud83c\uddf2\ud83c\uddfd vs Monterrey \ud83c\uddf2\ud83c\uddfd",
+                "channels": [
+                    {
+                        "channel_name": "Apple TV",
+                        "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "TUDN USA",
+                        "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "TUDN Mexico",
+                        "channel_id": "985"
+                    },
+                    {
+                        "channel_name": "UniMas USA",
+                        "channel_id": "133"
+                    }
+                ]
+            }
+        ],
+        "Men's College Soccer \u26bd": [
+            {
+                "time": "22:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Old Dominion \ud83c\uddfa\ud83c\uddf8 vs Radford \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Southern Indiana \ud83c\uddfa\ud83c\uddf8 vs IU Indianapolis \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Bryant \ud83c\uddfa\ud83c\uddf8 vs Western Michigan \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Georgia Southern \ud83c\uddfa\ud83c\uddf8 vs Liberty \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : High Point \ud83c\uddfa\ud83c\uddf8 vs VCU \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Lipscomb \ud83c\uddfa\ud83c\uddf8 vs Georgia State \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Rhode Island \ud83c\uddfa\ud83c\uddf8 vs Merrimack \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Binghamton \ud83c\uddfa\ud83c\uddf8 vs Colgate \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Bradley \ud83c\uddfa\ud83c\uddf8 vs Western Illinois \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Saint Louis \ud83c\uddfa\ud83c\uddf8 vs Green Bay \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Drake \ud83c\uddfa\ud83c\uddf8 vs Milwaukee \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Loyola Marymount \ud83c\uddfa\ud83c\uddf8 vs UNLV \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            }
+        ],
+        "Women's College Soccer \u26bd": [
+            {
+                "time": "22:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer : Drake \ud83c\uddfa\ud83c\uddf8 vs Western Illinois \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer : Merrimack \ud83c\uddfa\ud83c\uddf8 vs New Hampshire \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
                         "channel_id": "00"
                     }
                 ]
@@ -2280,7 +2204,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -2294,7 +2218,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -2316,7 +2240,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -2334,7 +2258,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -2352,7 +2276,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -2366,7 +2290,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -2376,7 +2300,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -2390,7 +2314,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -2404,7 +2328,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -2418,7 +2342,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -2428,7 +2352,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -2438,7 +2362,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -2452,7 +2376,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -2466,7 +2390,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -2480,7 +2404,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -2490,7 +2414,7 @@
                 ]
             },
             {
-                "time": "03:42",
+                "time": "07:30",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -3086,74 +3010,210 @@
                 ]
             }
         ],
-        "Motorsport \ud83c\udfce\ufe0f\ud83c\udfc1": [
+        "Tennis \ud83c\udfbe WTA - Singles: US Open (USA)": [
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddee\ud83c\uddf9 Jasmine Paolini vs \ud83c\uddee\ud83c\uddf9 Lucrezia Stefanini",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddeb\ud83c\uddf7 Diane Parry vs \ud83c\uddf7\ud83c\uddf4 Sorana Cirstea",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\uddff Karolina Pliskova vs \ud83c\udde8\ud83c\udde6 Diana Shnaider",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf9\ud83c\udded Mananchaya Sawangkaew vs \ud83c\udde8\ud83c\udde6 Leylah Fernandez",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Taylor Townsend vs \ud83c\udde6\ud83c\uddfa Taylah Preston",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Jessica Pegula vs \ud83c\uddfa\ud83c\uddf8 Sofia Kenin",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
             {
                 "time": "17:00",
-                "event": "\ud83c\udfcd\ufe0f \ud83c\uddf8\ud83c\uddea Swedish Speedway : Indianerna \ud83c\uddf8\ud83c\uddea vs Vastervik \ud83c\uddf8\ud83c\uddea",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\uddfa\ud83c\uddf8 Sloane Stephens",
                 "channels": [
                     {
-                        "channel_name": "Viaplay Sports 2 UK",
-                        "channel_id": "550"
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddfa\ud83c\uddf8 Caty McNally",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddec\ud83c\udde7 Katie Boulter vs \ud83c\udde8\ud83c\uddff Karolina Muchova",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\uddf3 Wang Xinyu vs \ud83c\uddf7\ud83c\uddfa Anna Kalinskaya",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddfa Kimberly Birrell vs \ud83c\uddf7\ud83c\uddfa Ekaterina Alexandrova",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf7\ud83c\uddfa Oksana Selekhmeteva vs \ud83c\uddf7\ud83c\uddfa Kamilla Rakhimova",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ann Li vs \ud83c\udded\ud83c\uddf7 Donna Vekic",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\udde6 Elina Svitolina vs \ud83c\udde6\ud83c\uddfa Maya Joint",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde7\ud83c\uddfe Aryna Sabalenka vs \ud83c\uddf7\ud83c\uddfa Polina Iatcenko",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf9\ud83c\udded Lanlana Tararudee vs \ud83c\udde8\ud83c\uddff Linda Noskova",
+                "channels": [
+                    {
+                        "channel_name": "Channel Not Listed #JustAsk",
+                        "channel_id": "00"
                     }
                 ]
             }
         ],
-        "Wrestling (NXT) \ud83e\udd3c": [
+        "Badminton \ud83c\udff8": [
             {
-                "time": "00:00",
-                "event": "\ud83e\udd3c WWE NXT",
+                "time": "04:00",
+                "event": "\ud83c\udff8 BWF World Tour China Masters",
                 "channels": [
                     {
-                        "channel_name": "CW USA",
-                        "channel_id": "300"
-                    },
+                        "channel_name": "TV2 Sport Denmark",
+                        "channel_id": "810"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udff8 BWF World Tour China Masters",
+                "channels": [
                     {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "187"
-                    },
-                    {
-                        "channel_name": "CW PIX 11 USA",
-                        "channel_id": "280"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 3",
-                        "channel_id": "418"
-                    },
-                    {
-                        "channel_name": "SuperSport Grandstand",
-                        "channel_id": "412"
+                        "channel_name": "TV2 Sport Denmark",
+                        "channel_id": "810"
                     }
                 ]
             }
         ],
-        "MMA (DWCS) \ud83e\udd4a\ud83d\udc4a": [
+        "Wrestling (AEW) \ud83e\udd3c": [
             {
                 "time": "00:00",
-                "event": "\ud83e\udd4a Dana White's Contender Series Week 4 : Adam Darby \ud83c\uddfa\ud83c\uddf8 vs Patrick Rivera \ud83c\uddfa\ud83c\uddf8",
+                "event": "\ud83e\udd3c All Elite Wrestling (AEW): Dynamite",
                 "channels": [
                     {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "55"
+                        "channel_name": "TBS USA",
+                        "channel_id": "336"
                     },
                     {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "178"
+                        "channel_name": "TSN2",
+                        "channel_id": "112"
                     },
                     {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
                     },
                     {
-                        "channel_name": "Sportsnet 360",
-                        "channel_id": "409"
-                    },
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "2001"
-                    },
-                    {
-                        "channel_name": "Event Stream",
-                        "channel_id": "4048"
+                        "channel_name": "Fox Sports Premium MX",
+                        "channel_id": "830"
                     }
                 ]
             }
@@ -3890,18 +3950,6 @@
                 ]
             }
         ],
-        "Gymnastics \ud83e\udd38": [
-            {
-                "time": "08:30",
-                "event": "\ud83e\udd38 \ud83c\uddea\ud83c\uddfa Mediterranean Games Artistic Gymnastics : Women's Complete Competition (Final)",
-                "channels": [
-                    {
-                        "channel_name": "RTP 2 Portugal",
-                        "channel_id": "720"
-                    }
-                ]
-            }
-        ],
         "Handball \ud83e\udd3e": [
             {
                 "time": "16:00",
@@ -3984,154 +4032,6 @@
                 ]
             }
         ],
-        "Ice Hockey OHL \ud83c\udfd2": [
-            {
-                "time": "20:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Prince Albert Raiders \ud83c\udde8\ud83c\udde6 vs Saskatoon Blades \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "16"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Shawinigan Cataractes \ud83c\udde8\ud83c\udde6 vs Quebec Remparts \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "17"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Medicine Hat Tigers \ud83c\udde8\ud83c\udde6 vs Lethbridge Hurricanes \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "18"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Swift Current Broncos \ud83c\udde8\ud83c\udde6 vs Regina Pats \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "19"
-                    }
-                ]
-            }
-        ],
-        "Ice Hockey \ud83c\udfd2": [
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Lulea \ud83c\uddf8\ud83c\uddea vs Modo \ud83c\uddf8\ud83c\uddea",
-                "channels": [
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "700"
-                    },
-                    {
-                        "channel_name": "TV4 Hockey",
-                        "channel_id": "3080"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Leksands IF vs Bryn\u00e4s IF",
-                "channels": [
-                    {
-                        "channel_name": "Sportbladet Plus",
-                        "channel_id": "3069"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : V\u00e4ster\u00e5s IK vs Mora IK",
-                "channels": [
-                    {
-                        "channel_name": "Sportbladet Plus",
-                        "channel_id": "3068"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfd2 \ud83c\uddf8\ud83c\uddea Club Friendly : Vimmerby HC vs Nybro Vikings IF",
-                "channels": [
-                    {
-                        "channel_name": "Sportbladet Plus",
-                        "channel_id": "3067"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfd2 Finland Liiga : Jukurit vs HPK",
-                "channels": [
-                    {
-                        "channel_name": "Liiga TV",
-                        "channel_id": "3074"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfd2 Finland Liiga : Kiekko Espoo vs Kalpa Hockey",
-                "channels": [
-                    {
-                        "channel_name": "Liiga TV",
-                        "channel_id": "3073"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfd2 Finland Liiga : Rauma Lukko vs Ilves Tampere",
-                "channels": [
-                    {
-                        "channel_name": "Liiga TV",
-                        "channel_id": "3072"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfd2 Finland Liiga : Saipa Lappeenranta vs Tappara Tampere",
-                "channels": [
-                    {
-                        "channel_name": "Liiga TV",
-                        "channel_id": "3071"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfd2 Finland Liiga : TPS Turku vs Kookoo",
-                "channels": [
-                    {
-                        "channel_name": "Liiga TV",
-                        "channel_id": "3075"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfd2 Finland Liiga : Vaasan Sport vs Jokerit Helsinki",
-                "channels": [
-                    {
-                        "channel_name": "Liiga TV",
-                        "channel_id": "3076"
-                    }
-                ]
-            }
-        ],
         "Squash \ud83c\udff8": [
             {
                 "time": "07:00",
@@ -4148,6 +4048,88 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    }
+                ]
+            }
+        ],
+        "Ice Hockey (OHL) \ud83c\udfd2": [
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfd2 Club Friendly Preseson : IK Oskarshamn vs Kalmar HC",
+                "channels": [
+                    {
+                        "channel_name": "Sportbladet Plus",
+                        "channel_id": "3071"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfd2 Club Friendly Preseson : Almtuna IS vs V\u00e4ster\u00e5s IK",
+                "channels": [
+                    {
+                        "channel_name": "Sportbladet Plus",
+                        "channel_id": "3073"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfd2 Club Friendly Preseson : BIK Karlskoga vs AIK",
+                "channels": [
+                    {
+                        "channel_name": "Sportbladet Plus",
+                        "channel_id": "3072"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Brantford Bulldogs \ud83c\udde8\ud83c\udde6 vs Guelph Storm \ud83c\udde8\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "FloHockey",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Rouyn-Noranda Huskies \ud83c\udde8\ud83c\udde6 vs Sudbury Wolves \ud83c\udde8\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "FloHockey",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : North Bay Battalion \ud83c\udde8\ud83c\udde6 vs Owen Sound Attack \ud83c\udde8\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "FloHockey",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Moose Jaw Warriors \ud83c\udde8\ud83c\udde6 vs Regina Pats \ud83c\udde8\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "FloHockey",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Penticton Vees \ud83c\udde8\ud83c\udde6 vs Kamloops Blazers \ud83c\udde8\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "FloHockey",
+                        "channel_id": "109"
                     }
                 ]
             }
@@ -4366,578 +4348,6 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
-                    }
-                ]
-            }
-        ],
-        "Scottish Premiership \u26bd": [
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Celtic \ud83c\uddec\ud83c\udde7 vs Aberdeen \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "SPFL Feed",
-                        "channel_id": "108"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Dundee \ud83c\uddec\ud83c\udde7 vs St. Johnstone \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "SPFL Feed",
-                        "channel_id": "109"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Kilmarnock \ud83c\uddec\ud83c\udde7 vs St. Mirren \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "SPFL Feed",
-                        "channel_id": "110"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "\u26bd \ud83c\uddec\ud83c\udde7 Scottish Premiership : Motherwell \ud83c\uddec\ud83c\udde7 vs Dundee United \ud83c\uddec\ud83c\udde7",
-                "channels": [
-                    {
-                        "channel_name": "SPFL Feed",
-                        "channel_id": "151"
-                    }
-                ]
-            }
-        ],
-        "USL Soccer \u26bd": [
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL Championship : Charleston Battery \ud83c\uddfa\ud83c\uddf8 vs Hartford Athletic \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Golazo USA",
-                        "channel_id": "310"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Westchester SC \ud83c\uddfa\ud83c\uddf8 vs Chattanooga Red Wolves \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Charlotte Independence \ud83c\uddfa\ud83c\uddf8 vs Portland Hearts of Pine \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "59"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : NY Cosmos \ud83c\uddfa\ud83c\uddf8 vs Sarasota Paradise \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "68"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Fort Wayne \ud83c\uddfa\ud83c\uddf8 vs Richmond Kickers \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network",
-                        "channel_id": "308"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 USL League One : Forward Madison \ud83c\uddfa\ud83c\uddf8 vs One Knoxville \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "69"
-                    }
-                ]
-            }
-        ],
-        "North America - Leagues Cup \u26bd": [
-            {
-                "time": "01:00",
-                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd North America - Leagues Cup : Toluca \ud83c\uddf2\ud83c\uddfd vs Le\u00f3n \ud83c\uddf2\ud83c\uddfd",
-                "channels": [
-                    {
-                        "channel_name": "Apple TV",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
-                "time": "03:30",
-                "event": "\u26bd \ud83c\uddf2\ud83c\uddfd North America - Leagues Cup : Am\u00e9rica \ud83c\uddf2\ud83c\uddfd vs Monterrey \ud83c\uddf2\ud83c\uddfd",
-                "channels": [
-                    {
-                        "channel_name": "Apple TV",
-                        "channel_id": "77"
-                    },
-                    {
-                        "channel_name": "TUDN USA",
-                        "channel_id": "66"
-                    },
-                    {
-                        "channel_name": "TUDN Mexico",
-                        "channel_id": "985"
-                    },
-                    {
-                        "channel_name": "UniMas USA",
-                        "channel_id": "133"
-                    }
-                ]
-            }
-        ],
-        "Men's College Soccer \u26bd": [
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Old Dominion \ud83c\uddfa\ud83c\uddf8 vs Radford \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Southern Indiana \ud83c\uddfa\ud83c\uddf8 vs IU Indianapolis \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Bryant \ud83c\uddfa\ud83c\uddf8 vs Western Michigan \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Georgia Southern \ud83c\uddfa\ud83c\uddf8 vs Liberty \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : High Point \ud83c\uddfa\ud83c\uddf8 vs VCU \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Lipscomb \ud83c\uddfa\ud83c\uddf8 vs Georgia State \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Rhode Island \ud83c\uddfa\ud83c\uddf8 vs Merrimack \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Binghamton \ud83c\uddfa\ud83c\uddf8 vs Colgate \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Bradley \ud83c\uddfa\ud83c\uddf8 vs Western Illinois \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Saint Louis \ud83c\uddfa\ud83c\uddf8 vs Green Bay \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Drake \ud83c\uddfa\ud83c\uddf8 vs Milwaukee \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 College Soccer : Loyola Marymount \ud83c\uddfa\ud83c\uddf8 vs UNLV \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Women's College Soccer \u26bd": [
-            {
-                "time": "22:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer : Drake \ud83c\uddfa\ud83c\uddf8 vs Western Illinois \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\u26bd \ud83c\uddfa\ud83c\uddf8 Women's College Soccer : Merrimack \ud83c\uddfa\ud83c\uddf8 vs New Hampshire \ud83c\uddfa\ud83c\uddf8",
-                "channels": [
-                    {
-                        "channel_name": "\ud83d\udce2 Channel Not Listed? \ud83d\udcac #JustAsk in Chat \u2014 our Mods &amp; Staff will provide a Working Stream Link. \ud83d\udd17",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles: US Open (USA)": [
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddee\ud83c\uddf9 Jasmine Paolini vs \ud83c\uddee\ud83c\uddf9 Lucrezia Stefanini",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddeb\ud83c\uddf7 Diane Parry vs \ud83c\uddf7\ud83c\uddf4 Sorana Cirstea",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\uddff Karolina Pliskova vs \ud83c\udde8\ud83c\udde6 Diana Shnaider",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf9\ud83c\udded Mananchaya Sawangkaew vs \ud83c\udde8\ud83c\udde6 Leylah Fernandez",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Taylor Townsend vs \ud83c\udde6\ud83c\uddfa Taylah Preston",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Jessica Pegula vs \ud83c\uddfa\ud83c\uddf8 Sofia Kenin",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\uddfa\ud83c\uddf8 Sloane Stephens",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Emma Navarro vs \ud83c\uddfa\ud83c\uddf8 Caty McNally",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddec\ud83c\udde7 Katie Boulter vs \ud83c\udde8\ud83c\uddff Karolina Muchova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde8\ud83c\uddf3 Wang Xinyu vs \ud83c\uddf7\ud83c\uddfa Anna Kalinskaya",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddfa Kimberly Birrell vs \ud83c\uddf7\ud83c\uddfa Ekaterina Alexandrova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf7\ud83c\uddfa Oksana Selekhmeteva vs \ud83c\uddf7\ud83c\uddfa Kamilla Rakhimova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Ann Li vs \ud83c\udded\ud83c\uddf7 Donna Vekic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddfa\ud83c\udde6 Elina Svitolina vs \ud83c\udde6\ud83c\uddfa Maya Joint",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde7\ud83c\uddfe Aryna Sabalenka vs \ud83c\uddf7\ud83c\uddfa Polina Iatcenko",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf9\ud83c\udded Lanlana Tararudee vs \ud83c\udde8\ud83c\uddff Linda Noskova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Badminton \ud83c\udff8": [
-            {
-                "time": "04:00",
-                "event": "\ud83c\udff8 BWF World Tour China Masters",
-                "channels": [
-                    {
-                        "channel_name": "TV2 Sport Denmark",
-                        "channel_id": "810"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udff8 BWF World Tour China Masters",
-                "channels": [
-                    {
-                        "channel_name": "TV2 Sport Denmark",
-                        "channel_id": "810"
-                    }
-                ]
-            }
-        ],
-        "Wrestling (AEW) \ud83e\udd3c": [
-            {
-                "time": "00:00",
-                "event": "\ud83e\udd3c All Elite Wrestling (AEW): Dynamite",
-                "channels": [
-                    {
-                        "channel_name": "TBS USA",
-                        "channel_id": "336"
-                    },
-                    {
-                        "channel_name": "TSN2",
-                        "channel_id": "112"
-                    },
-                    {
-                        "channel_name": "RMC Sport 1 France",
-                        "channel_id": "119"
-                    },
-                    {
-                        "channel_name": "Fox Sports Premium MX",
-                        "channel_id": "830"
-                    }
-                ]
-            }
-        ],
-        "Ice Hockey (OHL) \ud83c\udfd2": [
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfd2 Club Friendly Preseson : IK Oskarshamn vs Kalmar HC",
-                "channels": [
-                    {
-                        "channel_name": "Sportbladet Plus",
-                        "channel_id": "3071"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfd2 Club Friendly Preseson : Almtuna IS vs V\u00e4ster\u00e5s IK",
-                "channels": [
-                    {
-                        "channel_name": "Sportbladet Plus",
-                        "channel_id": "3073"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "\ud83c\udfd2 Club Friendly Preseson : BIK Karlskoga vs AIK",
-                "channels": [
-                    {
-                        "channel_name": "Sportbladet Plus",
-                        "channel_id": "3072"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Brantford Bulldogs \ud83c\udde8\ud83c\udde6 vs Guelph Storm \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "105"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Rouyn-Noranda Huskies \ud83c\udde8\ud83c\udde6 vs Sudbury Wolves \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "106"
-                    }
-                ]
-            },
-            {
-                "time": "23:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : North Bay Battalion \ud83c\udde8\ud83c\udde6 vs Owen Sound Attack \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "107"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Moose Jaw Warriors \ud83c\udde8\ud83c\udde6 vs Regina Pats \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "108"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "\ud83c\udfd2 \ud83c\udde8\ud83c\udde6 OHL : Penticton Vees \ud83c\udde8\ud83c\udde6 vs Kamloops Blazers \ud83c\udde8\ud83c\udde6",
-                "channels": [
-                    {
-                        "channel_name": "FloHockey",
-                        "channel_id": "109"
                     }
                 ]
             }
