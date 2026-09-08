@@ -1,5 +1,37 @@
 {
     "Tuesday 08th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 Short Track Super Series Le RPM",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "21"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83e\udd3c Hoodslam Revelations 8:28",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "22"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1848,6 +1880,10 @@
                         "channel_id": "190"
                     },
                     {
+                        "channel_name": "Soccer Stream HD",
+                        "channel_id": "5020"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -2002,6 +2038,22 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "6063"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5081"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5082"
                     }
                 ]
             },
@@ -2116,6 +2168,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "6058"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -2254,6 +2314,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "6061"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5084"
                     }
                 ]
             },
@@ -2284,6 +2356,10 @@
                     {
                         "channel_name": "Sky Sport Austria 4",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Prime Video DE",
+                        "channel_id": "205"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones 2",
@@ -2396,6 +2472,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "6060"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5083"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -2898,7 +2986,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -2912,7 +3000,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -2930,7 +3018,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -2944,7 +3032,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -2958,7 +3046,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -2968,7 +3056,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -2978,7 +3066,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -2988,7 +3076,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -2998,7 +3086,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -3008,7 +3096,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -3018,7 +3106,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -3028,7 +3116,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -3038,7 +3126,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -3048,7 +3136,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -3058,7 +3146,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -3068,7 +3156,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -3078,7 +3166,7 @@
                 ]
             },
             {
-                "time": "17:55",
+                "time": "21:36",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
