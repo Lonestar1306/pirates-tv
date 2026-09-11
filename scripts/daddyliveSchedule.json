@@ -2,6 +2,16 @@
     "<strong>Thursday 10th Sep 2026 - Schedule Time UK GMT</strong>": {
         "PPV Events": [
             {
+                "time": "21:00",
+                "event": "\ud83c\udfc1 IMCA Super Nationals",
+                "channels": [
+                    {
+                        "channel_name": "IMCA.TV",
+                        "channel_id": "5011"
+                    }
+                ]
+            },
+            {
                 "time": "21:30",
                 "event": "\ud83c\udfc1 World 100 Eldora",
                 "channels": [
@@ -2248,12 +2258,56 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "\u26bd Colombia Primera B : Orsomarso vs Tigres",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Colombia Primera B : Patriotas vs Barranquilla",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Serie B : Vila Nova FC vs Goi\u00e1s",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Bolivia Division Profesional : Tomayapo vs Always Ready",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : S\u00e3o Bernardo \ud83c\udde7\ud83c\uddf7 vs Londrina \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "Premier Brasil",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
                     }
                 ]
             },
@@ -2288,12 +2342,26 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "\u26bd CONCACAF Caribbean Cup : Salcedo vs Cibao",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
                 "time": "00:30",
                 "event": "\u26bd \ud83c\uddea\ud83c\udde8 South America - Copa Libertadores : Independiente del Valle \ud83c\uddea\ud83c\udde8 vs Flamengo \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -2343,11 +2411,25 @@
             },
             {
                 "time": "00:30",
+                "event": "\u26bd Bolivia Copa : Bolivar vs Independiente",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddea South America - Copa Sudamericana : Cienciano \ud83c\uddf5\ud83c\uddea vs Torque \ud83c\uddfa\ud83c\uddfe",
                 "channels": [
                     {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
                         "channel_id": "372"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
                     },
                     {
                         "channel_name": "Sport TV2 Portugal",
@@ -2374,6 +2456,20 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "01:06",
+                "event": "\u26bd CONCACAF Central American Cup : Marathon vs Alajuelense",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "178"
                     }
                 ]
             },
@@ -2416,6 +2512,10 @@
                         "channel_id": "392"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "179"
+                    },
+                    {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
                     }
@@ -2448,6 +2548,20 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "03:06",
+                "event": "\u26bd CONCACAF Central American Cup : Luis Angel Firpo vs Olimpia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     }
                 ]
             }
@@ -3304,6 +3418,10 @@
                         "channel_id": "346"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "183"
+                    },
+                    {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
                     },
@@ -3320,7 +3438,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -3334,7 +3452,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -3352,7 +3470,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -3366,7 +3484,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -3380,7 +3498,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -3390,7 +3508,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -3400,7 +3518,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -3410,7 +3528,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -3420,7 +3538,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -3430,7 +3548,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -3440,7 +3558,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -3450,7 +3568,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -3460,7 +3578,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -3470,7 +3588,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -3480,7 +3598,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -3490,7 +3608,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -3500,7 +3618,7 @@
                 ]
             },
             {
-                "time": "21:14",
+                "time": "23:52",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -4146,6 +4264,10 @@
                         "channel_id": "303"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "177"
+                    },
+                    {
                         "channel_name": "Sportsnet 360 Canada",
                         "channel_id": "409"
                     }
@@ -4398,6 +4520,10 @@
                     {
                         "channel_name": "ACC Network USA",
                         "channel_id": "664"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     }
                 ]
             }
@@ -4410,6 +4536,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
                     },
                     {
                         "channel_name": "TSN4",
@@ -4552,6 +4682,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "181"
                     },
                     {
                         "channel_name": "MLB Network",
