@@ -1,5 +1,21 @@
 {
     "Monday 14th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprints El Paso",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing PPV",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "FLORacing PPV",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1858,12 +1874,36 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera B : Tigres vs Bogota",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Uruguay Liga AUF : Montevideo City vs Liverpool M",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentina - Primera Divisi\u00f3n : Deportivo Riestra \ud83c\udde6\ud83c\uddf7 vs Lan\u00fas \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Argentina",
                         "channel_id": "149"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
                     },
                     {
                         "channel_name": "ESPN Premium Argentina",
@@ -1878,6 +1918,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     }
                 ]
             },
@@ -1888,6 +1932,30 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Serie B : America MG vs Sao Bernardo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Colombia Primera B : Orsomarso vs Atletico FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -2574,6 +2642,10 @@
                         "channel_id": "2"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -2610,6 +2682,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
                     },
                     {
                         "channel_name": "Spectrum Sportsnet LA",
