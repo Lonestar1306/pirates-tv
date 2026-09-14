@@ -1695,12 +1695,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ABC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sky Sports Main Event FHD UK)
@@ -1727,6 +1725,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.HD.IL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-hd-il.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (Sport 5 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[NFL] 2026-09-15 00:15 - NFL - Kansas City Chiefs vs Denver Broncos (ESPN 2 Primera FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-18 00:15 - NFL - Buffalo Bills vs Detroit Lions (CA CTV Winnipeg)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Vancouver" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-18 00:15 - NFL - Buffalo Bills vs Detroit Lions (CA CTV Vancouver)
@@ -1959,12 +1961,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ABC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ABC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2-fhd-us.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 2 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-nfl-fhd-uk.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sky Sports NFL FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (Sky Sports Main Event FHD UK)
@@ -1985,6 +1987,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=de&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.1.ULTRA..HD.NL" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-1-ultra-hd-nl.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 1 ULTRA  HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN 2 Primera FHD ARG)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (ESPN Deportes US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[NFL] 2026-11-01 21:25 - NFL - Denver Broncos vs Kansas City Chiefs (beIN SPORTS 1 FR FHD)
@@ -3617,10 +3621,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3631,10 +3631,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3645,10 +3641,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3659,10 +3651,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3673,10 +3661,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3709,10 +3693,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3739,10 +3719,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3801,10 +3777,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3831,10 +3803,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3861,10 +3829,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3913,10 +3877,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -3927,10 +3887,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4005,10 +3961,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4019,10 +3971,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4055,10 +4003,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4107,10 +4051,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4121,10 +4061,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4199,10 +4135,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4213,10 +4145,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4249,10 +4177,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4295,10 +4219,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4309,10 +4229,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4387,10 +4303,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4401,10 +4313,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4437,10 +4345,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4451,10 +4355,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4481,10 +4381,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4543,10 +4439,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4589,10 +4481,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4609,10 +4497,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4639,10 +4523,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4653,10 +4533,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4699,10 +4575,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4713,10 +4585,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4791,10 +4659,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4853,10 +4717,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4867,10 +4727,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4945,10 +4801,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4959,10 +4811,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -4989,10 +4837,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -5003,10 +4847,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -5017,10 +4857,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -5031,10 +4867,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -5045,10 +4877,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -5059,10 +4887,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20Grand%20Prix%20Cycliste%20de%20Montreal%20%40%20Sep%2013%2010%3A00%20AM%20%3AMAX%20US%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.10:20.AM.:MAX.US.07" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 10:20 AM :MAX US 07)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2010%3A20%20AM%20%3AMAX%20US%2007&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cycling:.GRAND.PRIX.FOURMIES.@.Sep.13.08:15.AM.:MAX.US.02" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Cycling: GRAND PRIX FOURMIES @ Sep 13 08:15 AM :MAX US 02)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cycling%3A%20GRAND%20PRIX%20FOURMIES%20%40%20Sep%2013%2008%3A15%20AM%20%3AMAX%20US%2002&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2026.F1.Grand.Prix.Sunday:.Spanish.Grand.Prix.@.Sep.13.07:30.:TSN+..13" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (2026 F1 Grand Prix Sunday: Spanish Grand Prix @ Sep 13 07:30 :TSN+  13)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2026%20F1%20Grand%20Prix%20Sunday%3A%20Spanish%20Grand%20Prix%20%40%20Sep%2013%2007%3A30%20%3ATSN%2B%20%2013&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP:.Grand.Prix.of.San.Marino.@.Sep.13.7:15.AM.:Sportsnet+..04" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (MotoGP: Grand Prix of San Marino @ Sep 13 7:15 AM :Sportsnet+  04)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%3A%20Grand%20Prix%20of%20San%20Marino%20%40%20Sep%2013%207%3A15%20AM%20%3ASportsnet%2B%20%2004&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -5079,6 +4903,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5093,6 +4919,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 21:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 21:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 21:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 21:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5107,6 +4935,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5121,6 +4951,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5135,6 +4967,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5149,6 +4983,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5163,6 +4999,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5177,6 +5015,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5191,6 +5031,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5205,6 +5047,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5219,6 +5063,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-31 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5233,6 +5079,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5247,6 +5095,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-14 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5261,6 +5111,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-11-21 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5275,6 +5127,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-12-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
@@ -5381,6 +5235,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%
 https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
