@@ -697,11 +697,35 @@
             },
             {
                 "time": "14:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddec Egypt Premier League : ZED \ud83c\uddea\ud83c\uddec vs Al Qanah \ud83c\uddea\ud83c\uddec",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
                 "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Astana \ud83c\uddf0\ud83c\uddff vs Kairat \ud83c\uddf0\ud83c\uddff",
                 "channels": [
                     {
                         "channel_name": "Qazsport",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Tobol \ud83c\uddf0\ud83c\uddff vs Yelimay Semey \ud83c\uddf0\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
                     }
                 ]
             },
@@ -718,8 +742,22 @@
                         "channel_id": "915"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "4108"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Atyrau \ud83c\uddf0\ud83c\uddff vs Ordabasy \ud83c\uddf0\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
                     }
                 ]
             },
@@ -730,6 +768,10 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
                     }
                 ]
             },
@@ -744,6 +786,10 @@
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
                     }
                 ]
             },
@@ -769,6 +815,26 @@
             },
             {
                 "time": "16:00",
+                "event": "\u26bd \ud83c\uddea\ud83c\uddea Estonia Meistriliiga : Levadia \ud83c\uddea\ud83c\uddea vs Tammeka \ud83c\uddea\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddf7 Turkey Cup : Orduspor 1967 \ud83c\uddf9\ud83c\uddf7 vs Torul Belediye Gen\u00e7lik \ud83c\uddf9\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
                 "event": "\u26bd \ud83c\uddef\ud83c\uddf4 Jordan League : Doqarah \ud83c\uddef\ud83c\uddf4 vs Al Salt \ud83c\uddef\ud83c\uddf4",
                 "channels": [
                     {
@@ -784,6 +850,10 @@
                     {
                         "channel_name": "TV2 Sport 2 Norway",
                         "channel_id": "666"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
                     }
                 ]
             },
@@ -926,6 +996,10 @@
                     {
                         "channel_name": "TNT Sports 6 UK",
                         "channel_id": "615"
+                    },
+                    {
+                        "channel_name": "Servus tv",
+                        "channel_id": "166"
                     },
                     {
                         "channel_name": "Sky Sport Austria 2",
@@ -3586,7 +3660,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "10:55",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 1",
                 "channels": [
                     {
@@ -3596,7 +3670,7 @@
                 ]
             },
             {
-                "time": "10:55",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 2",
                 "channels": [
                     {
@@ -3606,7 +3680,7 @@
                 ]
             },
             {
-                "time": "10:55",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 3",
                 "channels": [
                     {
@@ -3616,7 +3690,7 @@
                 ]
             },
             {
-                "time": "10:55",
+                "time": "16:20",
                 "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker Northern Ireland Open \u2014 Table 4",
                 "channels": [
                     {
@@ -3762,6 +3836,36 @@
                     {
                         "channel_name": "TNT Sports UK",
                         "channel_id": "214"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker China International : Tom Ford \ud83c\uddec\ud83c\udde7 vs David Grace \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker China International : Jak Jones \ud83c\uddec\ud83c\udde7 vs Liam Pullen \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "216"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfb1 \ud83c\uddec\ud83c\udde7 Snooker China International : Matthew Stevens \ud83c\uddec\ud83c\udde7 vs Jamie White \ud83c\uddec\ud83c\udde7",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "217"
                     }
                 ]
             }
@@ -5162,6 +5266,10 @@
                         "channel_id": "47"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    },
+                    {
                         "channel_name": "Polsat Sport Extra 2 Poland",
                         "channel_id": "994"
                     },
@@ -5190,6 +5298,10 @@
                     {
                         "channel_name": "Polsat Sport 2 Poland",
                         "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
                     },
                     {
                         "channel_name": "\u041c\u0410\u0422\u0427! Igra Russia",
