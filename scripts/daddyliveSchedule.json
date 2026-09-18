@@ -264,6 +264,10 @@
                     {
                         "channel_name": "Belarus 5",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
                     }
                 ]
             },
@@ -274,6 +278,10 @@
                     {
                         "channel_name": "CBC Sport Azerbaijan",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
                     }
                 ]
             },
@@ -288,6 +296,26 @@
                     {
                         "channel_name": "Match TV Russia",
                         "channel_id": "127"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Kyzylzhar \ud83c\uddf0\ud83c\uddff vs Kaisar Kyzylorda \ud83c\uddf0\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\udde6\ud83c\uddf2 Armenia Premier League : Gandzasar Kapan \ud83c\udde6\ud83c\uddf2 vs Urartu \ud83c\udde6\ud83c\uddf2",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
                     }
                 ]
             },
@@ -2678,498 +2706,414 @@
                 ]
             }
         ],
-        "Tennis \ud83c\udfbe ATP - Singles: Davis Cup - World Group I (World)": [
+        "\ud83c\udfbe Davis Cup / \ud83c\udfbe ATP Tour / \ud83c\udfbe WTA Sao Paulo / \ud83c\udfbe WTA Guadalajara": [
             {
-                "time": "12:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf3\ud83c\uddf1 Botic van de Zandschulp vs \ud83c\udde8\ud83c\uddf4 Johan Alexander Rodriguez",
+                "time": "12:10",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf3\ud83c\uddf1 Botic Van De Zandschulp vs \ud83c\udde8\ud83c\uddf4 Johan Alexander Rodriguez",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\ud83c\udfbe ATP Tour : \ud83c\uddee\ud83c\uddf9 Marco Cecchinato vs \ud83c\udde6\ud83c\uddf7 Marco Trungelliti",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "13:05",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde8\ud83c\uddff Jakub Mensik vs \ud83c\uddfa\ud83c\uddf8 Learner Tien",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "13:05",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf8\ud83c\uddee Filip Jeff Planinsek vs \ud83c\uddee\ud83c\uddf1 Orel Kimhi",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "13:15",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde6\ud83c\uddf9 Lukas Neumayer vs \ud83c\udde7\ud83c\uddea Zizou Bergs",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
                     }
                 ]
             },
             {
                 "time": "13:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf3\ud83c\uddf1 Tallon Griekspoor vs \ud83c\udde8\ud83c\uddf4 Nicolas Mejia",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf3\ud83c\uddf1 Tallon Griekspoor vs \ud83c\udde8\ud83c\uddf4 Nicolas Mejia",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
                     }
                 ]
             },
             {
                 "time": "14:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde9\ud83c\uddf0 Elmer M\u00f8ller vs \ud83c\udde7\ud83c\uddec Grigor Dimitrov",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddeb\ud83c\uddee Otto Virtanen vs \ud83c\uddf5\ud83c\uddf1 Lucas Catarina",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde9\ud83c\uddf0 Holger Rune vs \ud83c\udde7\ud83c\uddec Iliyan Radulov",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf3\ud83c\uddf4 Casper Ruud vs \ud83c\udde8\ud83c\uddf3 Rigele Te",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf1\ud83c\uddfa Louis Van Herck vs \ud83c\udded\ud83c\uddfa Fabian Marozsan",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddeb\ud83c\uddee Eero Vasa vs \ud83c\uddf2\ud83c\udde8 Valentin Vacherot",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf3\ud83c\uddf4 Nicolai Budkov Kjaer vs \ud83c\udde8\ud83c\uddf3 Jie Cui",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "17:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf1\ud83c\uddfa Alex Knaff vs \ud83c\udded\ud83c\uddfa Zsombor Piros",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddf7 Joao Fonseca vs \ud83c\udde8\ud83c\udded Dominic Stricker",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddf7 Gustavo Heide vs \ud83c\udde8\ud83c\udded Stan Wawrinka",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf5\ud83c\uddea Ignacio Buse vs \ud83c\uddf5\ud83c\uddfe Hernando Jos\u00e9 Escurra Isnardi",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf5\ud83c\uddea Juan Pablo Varillas vs \ud83c\uddf5\ud83c\uddfe Adolfo Daniel Vallejo",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles: Davis Cup - World Group II (World)": [
-            {
-                "time": "06:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\udde9 Gunawan Trismuwantara vs \ud83c\uddf7\ud83c\uddf4 Cezar Cretu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "08:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\udde9 Rafalentino Ali Da Costa vs \ud83c\uddf7\ud83c\uddf4 Radu Mihai Papoe",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "08:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf0\ud83c\uddff Alexander Shevchenko vs \ud83c\uddfa\ud83c\uddf8 Michael Zheng Jones",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf0\ud83c\uddff Timofey Skatov vs \ud83c\uddf9\ud83c\udded Kasidit Samrej",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "10:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf9\ud83c\uddf3 Aziz Dougaz vs \ud83c\uddf5\ud83c\uddf0 Muhammad Shoaib",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf8\ud83c\uddee Bor Artnak vs \ud83c\uddee\ud83c\uddf1 Amit Vales",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf9\ud83c\uddf3 Moez Echargui vs \ud83c\uddf5\ud83c\uddf0 Murtaza Muhammad",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf8\ud83c\uddee Filip Jeff Planinsek vs \ud83c\uddee\ud83c\uddf1 Orel Kimhi",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde9\ud83c\uddf4 Roberto Cid Subervi vs \ud83c\uddea\ud83c\uddec Amr Elsayed",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde9\ud83c\uddf4 Nick Hardt vs \ud83c\uddf9\ud83c\uddf3 Aziz Mabrouk",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddfa\ud83c\uddfe Juan Mart\u00edn Aguilar Cardozo vs \ud83c\uddea\ud83c\uddea Mark Lajal Molder",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "20:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddfa\ud83c\uddfe Franco Roncadelli vs \ud83c\uddea\ud83c\uddea Oliver Ojakaar",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddf4 Hugo Dellien vs \ud83c\udded\ud83c\uddf0 Wong Fai Choi",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde7\ud83c\uddf4 Juan Carlos Prado Angelo vs \ud83c\udded\ud83c\uddf0 Tseng-Fan Wong",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "04:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\udde9 Rafalentino Ali Da Costa vs \ud83c\uddf7\ud83c\uddf4 Cezar Cretu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "06:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddee\ud83c\udde9 Gunawan Trismuwantara vs \ud83c\uddf7\ud83c\uddf4 Radu Mihai Papoe",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles: Davis Cup - World Group (World) - Qualification": [
-            {
-                "time": "05:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf0\ud83c\uddf7 Soonwoo Kwon vs \ud83c\uddee\ud83c\uddf3 Dhakshineswar Suresh",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\uddf7\ud83c\uddf8 Teodora Kostovic vs \ud83c\uddfa\ud83c\uddf8 Kaitlin Quevedo",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1651"
+                        "channel_id": "1557"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1071"
                     }
                 ]
             },
             {
-                "time": "06:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\uddf0\ud83c\uddf7 Hyeon Chung vs \ud83c\uddee\ud83c\uddf3 Sumit Nagal",
+                "time": "14:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde9\ud83c\uddf0 Elmer Moller vs \ud83c\udde7\ud83c\uddec Grigor Dimitrov",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1652"
-                    }
-                ]
-            },
-            {
-                "time": "11:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde6\ud83c\uddf9 Jurij Rodionov vs \ud83c\udde7\ud83c\uddea Gauthier Onclin",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde6\ud83c\uddf9 Lukas Neumayer vs \ud83c\udde7\ud83c\uddea Zizou Bergs",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\uddff Jakub Mensik vs \ud83c\uddfa\ud83c\uddf8 Learner Tien",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_id": "1558"
                     }
                 ]
             },
             {
                 "time": "14:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\uddff Jiri Lehecka vs \ud83c\uddfa\ud83c\uddf8 Ben Shelton",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde8\ud83c\uddff Jiri Lehecka vs \ud83c\uddfa\ud83c\uddf8 Ben Shelton",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe ATP Tour : \ud83c\uddea\ud83c\uddf8 Nikolas Sanchez-Izquierdo vs \ud83c\udde8\ud83c\uddff Zdenek Kolar",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde9\ud83c\uddf4 Roberto Cid Subervi vs \ud83c\uddea\ud83c\uddec Amr Elsayed",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddeb\ud83c\uddee Otto Virtanen vs \ud83c\uddf2\ud83c\udde8 Lucas Catarina",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\uddf7\ud83c\uddfa Anna Blinkova vs \ud83c\uddf7\ud83c\uddfa Alina Charaeva",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1073"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde9\ud83c\uddf0 Holger Rune vs \ud83c\udde7\ud83c\uddec Iliyan Radulov",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf3\ud83c\uddf4 Casper Ruud vs \ud83c\udde8\ud83c\uddf3 Rigele Te",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde7\ud83c\uddea Louis Van Herck vs \ud83c\udded\ud83c\uddfa Fabian Marozsan",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde9\ud83c\uddf4 Nick Hardt vs \ud83c\uddea\ud83c\uddec Karim Mabrouk",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddeb\ud83c\uddee Eero Vasa vs \ud83c\uddf2\ud83c\udde8 Valentin Vacherot",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\udde7\ud83c\uddf7 Victoria Luiza Barros/Nauhany Da Silva vs \ud83c\uddfa\ud83c\udde6 Valeriya Strakhova/\ud83c\uddf7\ud83c\uddfa Anastasia Tikhonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1072"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf3\ud83c\uddf4 Nicolai Budkov Kjaer vs \ud83c\udde8\ud83c\uddf3 Jie Cui",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1570"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf1\ud83c\uddfa Alex Knaff vs \ud83c\udded\ud83c\uddfa Zsombor Piros",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1571"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde7\ud83c\uddf7 Joao Fonseca vs \ud83c\udde8\ud83c\udded Dominic Stricker",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1572"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski/\ud83c\udde7\ud83c\uddf7 Luisa Stefani vs \ud83c\uddfa\ud83c\uddf8 Kaitlin Quevedo/\ud83c\uddf8\ud83c\uddf0 Dominika Salkova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1573"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1074"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddfa\ud83c\uddfe Joaquin Aguilar Cardozo vs \ud83c\uddea\ud83c\uddea Markus Molder",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde7\ud83c\uddf7 Gustavo Heide vs \ud83c\udde8\ud83c\udded Stan Wawrinka",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1575"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddfa\ud83c\uddfe Franco Roncadelli vs \ud83c\uddea\ud83c\uddea Oliver Ojakaar",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1576"
+                    }
+                ]
+            },
+            {
+                "time": "20:35",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\uddfa\ud83c\uddf8 Mary Stoiana/\ud83c\udde8\ud83c\uddff Vendula Valdmannova vs \ud83c\udde8\ud83c\uddf3 Yiming Dang/\ud83c\udde8\ud83c\uddf3 Xiaodi You",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1577"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1075"
                     }
                 ]
             },
             {
                 "time": "21:00",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\udde6 Liam Draxl vs \ud83c\uddeb\ud83c\uddf7 Arthur Rinderknech",
+                "event": "\ud83c\udfbe WTA Guadalajara : \ud83c\uddfa\ud83c\uddf8 Quinn Gleason/\ud83c\uddf5\ud83c\uddf1 Katarzyna Piter vs \ud83c\uddef\ud83c\uddf5 Momoko Kobori/\ud83c\uddf9\ud83c\udded Peangtarn Plipuech",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1578"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1077"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde8\ud83c\udde6 Liam Draxl vs \ud83c\uddeb\ud83c\uddf7 Arthur Rinderknech",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1579"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf5\ud83c\uddea Ignacio Buse vs \ud83c\uddf5\ud83c\uddfe Hernando Jose Escurra Isnardi",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1580"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\uddfa\ud83c\uddf8 Mary Stoiana vs \ud83c\uddea\ud83c\uddf8 Paula Badosa",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1581"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1076"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde7\ud83c\uddf4 Hugo Dellien vs \ud83c\udde8\ud83c\uddf3 Wang Fu Choi",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1582"
                     }
                 ]
             },
             {
                 "time": "22:30",
-                "event": "\ud83c\udfbe ATP - Singles: \ud83c\udde8\ud83c\udde6 F\u00e9lix Auger-Aliassime vs \ud83c\uddeb\ud83c\uddf7 Quentin Halys",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\udde8\ud83c\udde6 Felix Auger-Aliassime vs \ud83c\uddeb\ud83c\uddf7 Quentin Halys",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Singles: Sao Paulo (Brazil)": [
-            {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf7\ud83c\uddfa Anna Blinkova vs \ud83c\uddf7\ud83c\uddfa Alina Charaeva",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1583"
                     }
                 ]
             },
             {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udded\ud83c\uddf7 Teodora Kostovic vs \ud83c\uddf2\ud83c\uddfd Katya Quevedo",
+                "time": "22:30",
+                "event": "\ud83c\udfbe Davis Cup : \ud83c\uddf5\ud83c\uddea Juan Pablo Varillas vs \ud83c\uddf5\ud83c\uddfe Adolfo Daniel Vallejo",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1584"
                     }
                 ]
             },
             {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde6\ud83c\uddf7 Nadia Podoroska vs \ud83c\uddf3\ud83c\uddf1 Suzan Lamens",
+                "time": "23:00",
+                "event": "\ud83c\udfbe WTA Guadalajara : \ud83c\uddea\ud83c\uddf8 Cristina Buc\u0219a vs \ud83c\uddfa\ud83c\uddf8 Iva Jovic",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1585"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1079"
                     }
                 ]
             },
             {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Singles: \ud83c\udde9\ud83c\uddea Mia Stoiana vs \ud83c\uddea\ud83c\uddf8 Paula Badosa",
+                "time": "23:00",
+                "event": "\ud83c\udfbe WTA Sao Paulo : \ud83c\udde6\ud83c\uddf7 Nadia Podoroska vs \ud83c\uddf3\ud83c\uddf1 Suzan Lamens",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Doubles: Guadalajara (Mexico)": [
-            {
-                "time": "16:00",
-                "event": "\ud83c\udfbe WTA - Doubles: \ud83c\uddfa\ud83c\uddf8 Quinn Gleason / \ud83c\uddf5\ud83c\uddf1 Katarzyna Piter vs \ud83c\uddef\ud83c\uddf5 Momoko Kobori / \ud83c\uddf9\ud83c\udded Peangtarn Plipuech",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1586"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Doubles: Sao Paulo (Brazil)": [
-            {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Doubles: \ud83c\udde7\ud83c\uddf7 Laura Barros / \ud83c\udde7\ud83c\uddf7 N. V. Leme Da Silva vs \ud83c\uddfa\ud83c\udde6 Valeriya Strakhova / \ud83c\uddf7\ud83c\uddfa Anastasia Tikhonova",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1078"
                     }
                 ]
             },
             {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Doubles: \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\uddee\ud83c\uddf9 Luisa Stefani vs \ud83c\uddf2\ud83c\uddfd Katya Quevedo / \ud83c\udde8\ud83c\uddff Dominika Salkova",
+                "time": "00:30",
+                "event": "\ud83c\udfbe WTA Guadalajara : \ud83c\uddf7\ud83c\uddfa Liudmila Samsonova vs \ud83c\uddfa\ud83c\uddf8 Peyton Stearns",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "13:00",
-                "event": "\ud83c\udfbe WTA - Doubles: \ud83c\udde9\ud83c\uddea Mia Stoiana / \ud83c\udde8\ud83c\uddff Vendula Valdmannova vs \ud83c\udde8\ud83c\uddf3 Yifan Dang / \ud83c\udde8\ud83c\uddf3 Xiaodi You",
-                "channels": [
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1587"
+                    },
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Doubles: Davis Cup - World Group II (World)": [
-            {
-                "time": "03:00",
-                "event": "\ud83c\udfbe ATP - Doubles: \ud83c\uddee\ud83c\udde9 Rafalentino Ali Da Costa / \ud83c\uddee\ud83c\udde9 Zapp E. D. vs \ud83c\uddf7\ud83c\uddf4 Sebastian Haita / \ud83c\uddf7\ud83c\uddf4 Radu D. Turcanu",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Doubles: Davis Cup - World Group (World) - Qualification": [
-            {
-                "time": "03:00",
-                "event": "\ud83c\udfbe ATP - Doubles: \ud83c\uddf0\ud83c\uddf7 Ji Sung Nam / \ud83c\uddf0\ud83c\uddf7 Uisung Park vs \ud83c\uddee\ud83c\uddf3 N. Sriram Balaji / \ud83c\uddee\ud83c\uddf3 Niki Kaliyanda Poonacha",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1080"
                     }
                 ]
             }
@@ -3664,7 +3608,7 @@
         ],
         "MMA \ud83e\udd4a\ud83d\udc4a": [
             {
-                "time": "06:52",
+                "time": "14:19",
                 "event": "\ud83e\udd3c UFC: Weigh-in",
                 "channels": [
                     {
@@ -3742,6 +3686,88 @@
                     {
                         "channel_name": "Sport 5 PLUS Israel",
                         "channel_id": "145"
+                    }
+                ]
+            }
+        ],
+        "Snooker \ud83c\udfb1": [
+            {
+                "time": "13:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\udde7\ud83c\uddea Luca Brecel vs \ud83c\uddec\ud83c\udde7 Jamie Clarke",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\uddec\ud83c\udde7 Michael Holt vs \ud83c\udded\ud83c\uddf0 Marco Fu",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\uddec\ud83c\udde7 Jamie Jones vs \ud83c\uddec\ud83c\udde7 Mitchell Mann",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\uddec\ud83c\udde7 Mark J Williams vs \ud83c\uddec\ud83c\udde7 Andrew Higginson",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\udde8\ud83c\uddf3 Xiao Guodong vs \ud83c\uddec\ud83c\udde7 Dylan Emery",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "205"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\uddec\ud83c\udde7 John Higgins vs \ud83c\uddec\ud83c\udde7 Craig Steadman",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "206"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\uddec\ud83c\udde7 Aaron Hill vs \ud83c\uddf5\ud83c\uddf1 Adam Kowalski",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "207"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\ud83c\udfb1 Snooker China International : \ud83c\uddf9\ud83c\udded Noppon Saengkham vs \ud83c\uddec\ud83c\udde7 Sam Craigie",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports UK",
+                        "channel_id": "208"
                     }
                 ]
             }
@@ -4596,6 +4622,10 @@
                         "channel_id": "27"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
+                    },
+                    {
                         "channel_name": "M+ Vamos ES",
                         "channel_id": "521"
                     },
@@ -4784,6 +4814,10 @@
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "59"
                     },
                     {
                         "channel_name": "EuroSport 1 Poland",
