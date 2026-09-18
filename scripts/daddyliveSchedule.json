@@ -1748,6 +1748,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4112"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4008"
                     }
                 ]
             },
@@ -1990,6 +1994,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4118"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -2096,6 +2104,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4119"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4009"
                     }
                 ]
             },
@@ -2272,6 +2284,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4101"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -2378,6 +2394,14 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4014"
                     }
                 ]
             },
@@ -2452,6 +2476,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4120"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4002"
                     }
                 ]
             },
@@ -2471,7 +2499,7 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1071"
+                        "channel_id": "1081"
                     }
                 ]
             },
@@ -2481,7 +2509,17 @@
                 "channels": [
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1072"
+                        "channel_id": "1082"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "\u26bd Portugal Ta\u00e7a de Portugal : Real SC vs Acad\u00e9mica Coimbra",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     }
                 ]
             },
@@ -2492,6 +2530,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "194"
                     }
                 ]
             },
@@ -2502,6 +2544,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "195"
                     }
                 ]
             },
@@ -2512,6 +2558,20 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "196"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Division : Nacional Asuncion vs 2 de Mayo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "197"
                     }
                 ]
             },
@@ -2522,6 +2582,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "198"
                     }
                 ]
             },
@@ -4262,7 +4326,7 @@
         ],
         "MMA \ud83e\udd4a\ud83d\udc4a": [
             {
-                "time": "18:20",
+                "time": "19:54",
                 "event": "\ud83e\udd3c UFC: Weigh-in",
                 "channels": [
                     {
@@ -4914,6 +4978,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "200"
+                    },
+                    {
                         "channel_name": "Marquee Sports Network USA",
                         "channel_id": "770"
                     },
@@ -4924,6 +4992,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5146"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4015"
                     }
                 ]
             },
@@ -4936,12 +5008,20 @@
                         "channel_id": "4"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "199"
+                    },
+                    {
                         "channel_name": "SportsNet Pittsburgh",
                         "channel_id": "922"
                     },
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5141"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4016"
                     }
                 ]
             },
@@ -4960,6 +5040,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5142"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4017"
                     }
                 ]
             },
@@ -5246,6 +5330,10 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "4081"
                     }
                 ]
             },
@@ -5256,6 +5344,10 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "4080"
                     }
                 ]
             },
@@ -5266,6 +5358,10 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "4082"
                     }
                 ]
             }
@@ -6415,7 +6511,7 @@
                     },
                     {
                         "channel_name": "Event SD Stream",
-                        "channel_id": "1073"
+                        "channel_id": "1083"
                     }
                 ]
             }
