@@ -1,5 +1,27 @@
 {
     "Sunday 20th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "17:45",
+                "event": "\ud83d\ude97 PDRA Brian Olson World Finals",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "1136"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83e\udd4a Fury FC 124 (FFC 124)",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "1135"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -5470,6 +5492,10 @@
                         "channel_id": "84"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "153"
                     },
@@ -5580,6 +5606,10 @@
                         "channel_id": "187"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 2",
                         "channel_id": "155"
                     },
@@ -5599,11 +5629,35 @@
             },
             {
                 "time": "19:00",
+                "event": "\u26bd Brazil Serie B : Goias vs Avai",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Bolivia Copa : Real Oruro vs GV San Jose",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Brasileir\u00e3o : Vit\u00f3ria \ud83c\udde7\ud83c\uddf7 vs Cruzeiro \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "Premiere 5 BR",
                         "channel_id": "188"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -5614,6 +5668,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -5624,6 +5682,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     },
                     {
                         "channel_name": "TSN5",
@@ -5638,6 +5700,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "Nova Sport 5 CZ",
@@ -5658,12 +5724,36 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "\u26bd Paraguay Primera Division : San Lorenzo vs Olimpia Asuncion",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "19:10",
+                "event": "\u26bd Uruguay Liga AUF : Nacional vs Defensor Sp",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
+                    }
+                ]
+            },
+            {
                 "time": "19:30",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal - Primeira Liga : Porto \ud83c\uddf5\ud83c\uddf9 vs Benfica \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "beIN Sports 4 Turkey",
@@ -5732,6 +5822,10 @@
                         "channel_id": "388"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
+                    },
+                    {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
                     }
@@ -5744,6 +5838,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -5778,6 +5876,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
                     }
                 ]
             },
@@ -5798,6 +5900,10 @@
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1255"
                     }
                 ]
             },
@@ -5812,6 +5918,10 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1254"
                     }
                 ]
             },
@@ -5822,6 +5932,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1256"
                     }
                 ]
             },
@@ -5832,6 +5946,10 @@
                     {
                         "channel_name": "Match! Football 3 Russia",
                         "channel_id": "138"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1257"
                     }
                 ]
             },
@@ -5992,6 +6110,10 @@
                         "channel_id": "44"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
+                    },
+                    {
                         "channel_name": "TSN2",
                         "channel_id": "112"
                     },
@@ -6006,6 +6128,36 @@
                     {
                         "channel_name": "ESPN3 Brazil",
                         "channel_id": "83"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Ecuador Liga Pro : Dep Cuenca vs Mushuc Runa",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1251"
+                    }
+                ]
+            },
+            {
+                "time": "21:05",
+                "event": "\u26bd Colombia Primera A : Bucaramanga vs Inter Bogota",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1252"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Paraguay Primera Division : Sp Luqueno vs Recoleta",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
                     }
                 ]
             },
@@ -8820,6 +8972,10 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1241"
+                    },
+                    {
                         "channel_name": "CBS USA",
                         "channel_id": "52"
                     },
@@ -8858,6 +9014,38 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "4038"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4038"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5186"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4038"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5083"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5084"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -8870,6 +9058,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
+                    },
+                    {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "3032"
                     },
@@ -8880,6 +9072,30 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "4039"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5188"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5041"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4039"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5085"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5086"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -8890,6 +9106,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
                     },
                     {
                         "channel_name": "Channel 5 UK",
@@ -8950,6 +9170,26 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "2012"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5042"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4042"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5087"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5088"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -8960,6 +9200,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
                     },
                     {
                         "channel_name": "Sky Sports+ UK",
@@ -8988,6 +9232,30 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "2013"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5181"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4041"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5089"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5090"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -8998,6 +9266,10 @@
                     {
                         "channel_name": "NFL Sunday Ticket",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
                     },
                     {
                         "channel_name": "RTL DE",
@@ -9022,6 +9294,30 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "2014"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5198"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5044"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4040"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5091"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5092"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -9124,6 +9420,18 @@
                     {
                         "channel_name": "NFL Game Pass",
                         "channel_id": "2015"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5196"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "5045"
+                    },
+                    {
+                        "channel_name": "NFL Game Pass",
+                        "channel_id": "4043"
                     }
                 ]
             }
@@ -9464,6 +9772,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     }
                 ]
             },
@@ -9474,6 +9786,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "164"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1242"
                     }
                 ]
             },
@@ -9484,6 +9800,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "166"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
                     }
                 ]
             },
@@ -9494,6 +9814,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1263"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -9520,6 +9844,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1262"
                     },
                     {
                         "channel_name": "NBCS Bay Area USA",
@@ -9666,6 +9994,10 @@
                         "channel_id": "114"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "MY9TV USA",
                         "channel_id": "654"
                     }
@@ -9678,6 +10010,10 @@
                     {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
                     },
                     {
                         "channel_name": "Monumental Sports Network",
@@ -10836,6 +11172,10 @@
                     {
                         "channel_name": "Canal+ France",
                         "channel_id": "121"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
