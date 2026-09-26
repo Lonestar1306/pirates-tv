@@ -87,7 +87,7 @@
                 "channels": [
                     {
                         "channel_name": "Event PPV",
-                        "channel_id": "8"
+                        "channel_id": "1250"
                     }
                 ]
             },
@@ -1896,6 +1896,10 @@
                     {
                         "channel_name": "CBC CA",
                         "channel_id": "832"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1244"
                     }
                 ]
             },
@@ -2629,6 +2633,16 @@
             },
             {
                 "time": "20:00",
+                "event": "\u26bd CONCACAF Nations League : Saint Martin vs United States Virgin Islands",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
                 "event": "\u26bd \ud83c\uddf2\ud83c\uddfd Friendly : Mexico \ud83c\uddf2\ud83c\uddfd vs Colombia \ud83c\udde8\ud83c\uddf4",
                 "channels": [
                     {
@@ -2668,6 +2682,16 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Colombia Primera A : Pereira vs Inter Bogota",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -2734,6 +2758,40 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Uruguay Liga AUF : Penarol vs Boston River",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\u26bd Brazil Serie B : Goias vs Atletico GO",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Colombia Primera B : Boca Juniors vs Patriotas",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -2744,6 +2802,10 @@
                     {
                         "channel_name": "TUDN Mexico",
                         "channel_id": "935"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "TUDN USA",
@@ -2906,6 +2968,10 @@
                     {
                         "channel_name": "TNT Sports 2 UK",
                         "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "ion USA",
@@ -6856,6 +6922,10 @@
                         "channel_id": "45"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5137"
                     }
@@ -6900,6 +6970,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "5138"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
                     }
                 ]
             },
@@ -6926,8 +7000,22 @@
                         "channel_id": "397"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5149"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 College Football : Penn State vs Wisconsin",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -6940,8 +7028,22 @@
                         "channel_id": "664"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "5140"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 College Football : Texas State Bobcats vs Incarnate Word",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -6966,6 +7068,10 @@
                     {
                         "channel_name": "CW USA",
                         "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "CW PIX 11 USA",
@@ -7602,6 +7708,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "195"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -7632,6 +7742,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "198"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -7656,12 +7770,26 @@
                 ]
             },
             {
+                "time": "22:00",
+                "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 College Football : Florida International vs LIU Sharks",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "\ud83c\udfc8 \ud83c\uddfa\ud83c\uddf8 College Football : Louisiana \ud83c\uddfa\ud83c\uddf8 vs Charlotte \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "201"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
