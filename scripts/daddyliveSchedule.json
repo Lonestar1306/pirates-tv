@@ -1,5 +1,57 @@
 {
     "Monday 28th Sep 2026 - Schedule Time UK GMT": {
+        "\ud83c\udfdf\ufe0f 20th Asian Games Aichi-Nagoya 2026": [
+            {
+                "time": "23:04",
+                "event": "\ud83c\udfdf\ufe0f 20th Asian Games Aichi-Nagoya 2026 : \ud83e\udd47 Stream 1",
+                "channels": [
+                    {
+                        "channel_name": "Astro 1",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "23:04",
+                "event": "\ud83c\udfdf\ufe0f 20th Asian Games Aichi-Nagoya 2026 : \ud83e\udd48 Stream 2",
+                "channels": [
+                    {
+                        "channel_name": "Astro 2",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
+                "time": "23:04",
+                "event": "\ud83c\udfdf\ufe0f 20th Asian Games Aichi-Nagoya 2026 : \ud83e\udd49 Stream 3",
+                "channels": [
+                    {
+                        "channel_name": "Astro 3",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "23:04",
+                "event": "\ud83c\udfdf\ufe0f 20th Asian Games Aichi-Nagoya 2026 : \ud83c\udfbd Stream 4",
+                "channels": [
+                    {
+                        "channel_name": "Astro 4",
+                        "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "23:04",
+                "event": "\ud83c\udfdf\ufe0f 20th Asian Games Aichi-Nagoya 2026 : \ud83c\udfc5 Stream 5",
+                "channels": [
+                    {
+                        "channel_name": "Astro 5",
+                        "channel_id": "5005"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -2155,6 +2207,86 @@
             }
         ],
         "Snooker \ud83c\udfb1": [
+            {
+                "time": "12:00",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\uddec\ud83c\udde7 Ronnie O'Sullivan vs \ud83c\udde8\ud83c\uddf3 Jun Jiang",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "261"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\udde8\ud83c\uddf3 Si Jiahui vs \ud83c\uddec\ud83c\udde7 Oliver Lines",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "262"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\uddec\ud83c\udde7 Chris Wakelin vs \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Liam Davies",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "263"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\udde8\ud83c\uddf3 Zhao Xintong vs \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scott Donaldson",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "264"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\uddec\ud83c\udde7 Barry Hawkins vs \ud83c\uddec\ud83c\udde7 Liam Highfield",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "261"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f John Higgins vs \ud83c\uddec\ud83c\udde7 David Grace",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "262"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\uddec\ud83c\udde7 Shaun Murphy vs \ud83c\udded\ud83c\uddf0 Marco Fu",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "263"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "\ud83c\udfb1 Snooker Shenzhen Open : \ud83c\uddec\ud83c\udde7 Kyren Wilson vs \ud83c\uddec\ud83c\udde7 Sam Craigie",
+                "channels": [
+                    {
+                        "channel_name": "Snooker Stream",
+                        "channel_id": "264"
+                    }
+                ]
+            },
             {
                 "time": "06:00",
                 "event": "\ud83c\udfb1 \ud83c\udde8\ud83c\uddf3 Shenzhen Open | Round 1",
