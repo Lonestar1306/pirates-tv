@@ -466,12 +466,26 @@
         ],
         "All Soccer Events \u26bd": [
             {
+                "time": "09:30",
+                "event": "\u26bd Denmark - A-Liga : Odense Q \ud83c\udde9\ud83c\uddf0 vs Fortuna Hj\u00f8rring \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "TV2 Sport X Denmark",
+                        "channel_id": "808"
+                    }
+                ]
+            },
+            {
                 "time": "10:00",
                 "event": "\u26bd Spain - Primera Divisi\u00f3n Femenina : CD Tenerife \ud83c\uddea\ud83c\uddf8 vs Logro\u00f1o \ud83c\uddea\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "DAZN1 Spain",
                         "channel_id": "445"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -482,6 +496,20 @@
                     {
                         "channel_name": "DAZN2 Spain",
                         "channel_id": "446"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J League : Tegevajaro Miyazaki \ud83c\uddef\ud83c\uddf5 vs Omiya Ardija \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -494,18 +522,22 @@
                         "channel_id": "49"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "Event Stream",
                         "channel_id": "4118"
                     }
                 ]
             },
             {
-                "time": "09:30",
-                "event": "\u26bd Denmark - A-Liga : Odense Q \ud83c\udde9\ud83c\uddf0 vs Fortuna Hj\u00f8rring \ud83c\udde9\ud83c\uddf0",
+                "time": "10:15",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Dutch Eredivisie : Twente W \ud83c\uddf3\ud83c\uddf1 vs Utrecht W \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
                     {
-                        "channel_name": "TV2 Sport X Denmark",
-                        "channel_id": "808"
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -516,6 +548,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -558,6 +594,26 @@
                 ]
             },
             {
+                "time": "11:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Vasalund \ud83c\uddf8\ud83c\uddea vs Arlanda \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Olympic \ud83c\uddf8\ud83c\uddea vs Trelleborg \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
                 "time": "11:30",
                 "event": "\u26bd Russia - FNL : Veles \ud83c\uddf7\ud83c\uddfa vs Volga Ulyanovsk \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
@@ -582,6 +638,10 @@
                     {
                         "channel_name": "DAZN 1 DE",
                         "channel_id": "426"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     },
                     {
                         "channel_name": "Sport1 DE",
@@ -616,6 +676,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -626,6 +690,20 @@
                     {
                         "channel_name": "TV2 Sport X Denmark",
                         "channel_id": "808"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Djurgarden W \ud83c\uddf8\ud83c\uddea vs AIK W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -680,6 +758,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     }
                 ]
             },
@@ -694,12 +776,26 @@
                 ]
             },
             {
+                "time": "12:30",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway OBOS-ligaen : Bryne \ud83c\uddf3\ud83c\uddf4 vs Lyn \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "\u26bd Italy Serie A Femminile : Milan \ud83c\uddee\ud83c\uddf9 vs Juventus \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
                         "channel_name": "ZONA DAZN Italy",
                         "channel_id": "877"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -720,6 +816,50 @@
                     {
                         "channel_name": "SVT 1 Sweden",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Hammarby W \ud83c\uddf8\ud83c\uddea vs IF Brommapojkarna W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Hacken W \ud83c\uddf8\ud83c\uddea vs Uppsala W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea Friendly Match : Hamburger SV \ud83c\udde9\ud83c\uddea vs FC Copenhagen \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf2 Friendly Match : Comoros \ud83c\uddf0\ud83c\uddf2 vs Senegal \ud83c\uddf8\ud83c\uddf3",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -735,6 +875,26 @@
             },
             {
                 "time": "13:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddfe Uruguay Liga AUF : Danubio \ud83c\uddfa\ud83c\uddfe vs Cerro Largo \ud83c\uddfa\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddf7 France Premiere Ligue Women : Fleury 91 W \ud83c\uddeb\ud83c\uddf7 vs PSG W \ud83c\uddeb\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
                 "event": "\u26bd UEFA Nations League : Azerbaijan \ud83c\udde6\ud83c\uddff vs Lithuania \ud83c\uddf1\ud83c\uddf9",
                 "channels": [
                     {
@@ -744,6 +904,10 @@
                     {
                         "channel_name": "LRT Plius Lithuania",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "CBC Sport Azerbaijan",
@@ -852,6 +1016,10 @@
                         "channel_id": "107"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
                     },
@@ -882,6 +1050,10 @@
                         "channel_id": "108"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "Sky Sport 5 NZ",
                         "channel_id": "592"
                     }
@@ -894,6 +1066,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "Sky Sports Mix UK",
@@ -914,6 +1090,10 @@
                         "channel_id": "110"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "Sky Sport 7 NZ",
                         "channel_id": "594"
                     }
@@ -926,6 +1106,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "160"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "CBS Sports Golazo",
@@ -4320,6 +4504,10 @@
                         "channel_id": "355"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
+                    },
+                    {
                         "channel_name": "NFL Network",
                         "channel_id": "405"
                     },
@@ -5076,6 +5264,10 @@
                     {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "Sport 3 Israel",
@@ -6719,6 +6911,16 @@
             }
         ],
         "Rugby Union \ud83c\udfc9": [
+            {
+                "time": "10:00",
+                "event": "\ud83c\udfc9 \ud83c\uddea\ud83c\uddf8 Rugby Friendly : Spain W \ud83c\uddea\ud83c\uddf8 vs South Africa W \ud83c\uddff\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
             {
                 "time": "19:05",
                 "event": "\ud83c\udfc9 Top 14 : Montpellier Herault RC \ud83c\uddeb\ud83c\uddf7 vs Toulon \ud83c\uddeb\ud83c\uddf7",
