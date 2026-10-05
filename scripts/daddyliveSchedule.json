@@ -1,5 +1,21 @@
 {
     "Monday 05th Oct 2026 - Schedule Time UK GMTT": {
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 Super Dirt Week Oswego",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "5010"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "05:00",
@@ -796,6 +812,10 @@
                         "channel_id": "13"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    },
+                    {
                         "channel_name": "Sky Sport Calcio IT",
                         "channel_id": "870"
                     },
@@ -822,6 +842,10 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "Nova Sports 5 Greece",
                         "channel_id": "635"
                     },
@@ -832,6 +856,10 @@
                     {
                         "channel_name": "beIN Sports MENA 5",
                         "channel_id": "95"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -842,6 +870,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "atv Turkey",
@@ -938,6 +970,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5041"
                     }
                 ]
             },
@@ -1036,6 +1080,18 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4102"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5040"
                     }
                 ]
             },
@@ -1046,6 +1102,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "M4 Sports Hungary",
@@ -1098,6 +1158,14 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5032"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5026"
                     }
                 ]
             },
@@ -1108,6 +1176,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Antena 1 Romania",
@@ -1152,6 +1224,26 @@
                     {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5033"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5025"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5043"
+                    },
+                    {
+                        "channel_name": "Event Stream (Swidish)",
+                        "channel_id": "5081"
+                    },
+                    {
+                        "channel_name": "Event Stream (Swidish)",
+                        "channel_id": "3080"
                     }
                 ]
             },
@@ -1162,6 +1254,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "1TV Georgia",
@@ -1186,6 +1282,18 @@
                     {
                         "channel_name": "beIN Sports MENA 7",
                         "channel_id": "97"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5024"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5042"
                     }
                 ]
             },
@@ -1196,6 +1304,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     },
                     {
                         "channel_name": "BHT 1 Bosnia",
@@ -1244,6 +1356,28 @@
                     {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5035"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5044"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd CONCACAF Nations League : Guadeloupe vs Saint Lucia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -1264,6 +1398,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -1274,6 +1412,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -1284,6 +1426,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -1296,12 +1442,26 @@
                         "channel_id": "149"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
                     },
                     {
                         "channel_name": "ESPN BR",
                         "channel_id": "81"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Colombia Primera A : Bogot\u00e1 vs Envigado",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },
@@ -1396,6 +1556,10 @@
                     {
                         "channel_name": "Sportv3 Brazil",
                         "channel_id": "80"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             }
@@ -2274,6 +2438,10 @@
                     {
                         "channel_name": "SuperSport Action",
                         "channel_id": "420"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5092"
                     }
                 ]
             }
@@ -2524,6 +2692,22 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5025"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5086"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5093"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5040"
                     }
                 ]
             }
@@ -2536,6 +2720,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -2622,6 +2810,14 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5024"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5041"
                     }
                 ]
             }
@@ -2718,6 +2914,18 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5082"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5042"
                     }
                 ]
             },
@@ -2728,6 +2936,18 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5083"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5043"
                     }
                 ]
             },
@@ -2762,6 +2982,18 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5084"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5044"
                     }
                 ]
             },
@@ -2772,6 +3004,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5085"
                     }
                 ]
             },
@@ -2794,6 +3034,14 @@
                     {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5026"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5087"
                     }
                 ]
             }
@@ -3046,6 +3294,14 @@
                     {
                         "channel_name": "V Sport Xtra Sweden",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5088"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5045"
                     }
                 ]
             },
@@ -3068,6 +3324,14 @@
                     {
                         "channel_name": "V Sport Vinter",
                         "channel_id": "17"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5089"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5047"
                     }
                 ]
             },
@@ -3082,6 +3346,14 @@
                     {
                         "channel_name": "NESN USA",
                         "channel_id": "762"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5090"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5046"
                     }
                 ]
             },
@@ -3100,6 +3372,14 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5091"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5048"
                     }
                 ]
             }
