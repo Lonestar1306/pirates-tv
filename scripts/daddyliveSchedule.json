@@ -362,6 +362,10 @@
                         "channel_id": "93"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
                     }
@@ -374,6 +378,16 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "2"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway OBOS-ligaen : Str\u00f8mmen IF \ud83c\uddf3\ud83c\uddf4 vs \u00c5sane Fotball \ud83c\uddf3\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
@@ -396,6 +410,16 @@
                 ]
             },
             {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddea Kenya Premier League : AFC Leopards \ud83c\uddf0\ud83c\uddea vs Bandari FC \ud83c\uddf0\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    }
+                ]
+            },
+            {
                 "time": "13:15",
                 "event": "\u26bd Russian Cup : Krylya Sovetov \ud83c\uddf7\ud83c\uddfa vs Baltika \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
@@ -406,6 +430,10 @@
                     {
                         "channel_name": "MATCH TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     }
                 ]
             },
@@ -416,6 +444,10 @@
                     {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "Sportklub 1 Croatia",
@@ -439,6 +471,16 @@
             },
             {
                 "time": "14:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddff Kazakhstan Premier League : Atyrau \ud83c\uddf0\ud83c\uddff vs Yelimay Semey \ud83c\uddf0\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
                 "event": "\u26bd Turkey - 1. Lig : \u00dcmran\u0131yespor \ud83c\uddf9\ud83c\uddf7 vs Boluspor \ud83c\uddf9\ud83c\uddf7",
                 "channels": [
                     {
@@ -448,6 +490,10 @@
                     {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "63"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -1780,6 +1826,10 @@
                         "channel_id": "34"
                     },
                     {
+                        "channel_name": "Prime Video IT",
+                        "channel_id": "225"
+                    },
+                    {
                         "channel_name": "RSI La 2 IT",
                         "channel_id": "105"
                     },
@@ -2176,6 +2226,10 @@
                         "channel_id": "33"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    },
+                    {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
                     },
@@ -2260,6 +2314,10 @@
                     {
                         "channel_name": "Porto Canal Portugal",
                         "channel_id": "718"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "Movistar Liga de Campeones",
@@ -3408,7 +3466,7 @@
         ],
         "Tennis \ud83c\udfbe WTA - Doubles: Wuhan (China)": [
             {
-                "time": "07:27",
+                "time": "13:15",
                 "event": "Cancelled \ud83c\udfbe WTA - Doubles: \ud83c\uddec\ud83c\uddf7 Maria Sakkari / \ud83c\udded\ud83c\uddf7 Donna Veki\u0107 vs \ud83c\uddef\ud83c\uddf5 Shuko Aoyama / \ud83c\udde8\ud83c\uddf3 Eudice Chong Liang",
                 "channels": [
                     {
@@ -4030,7 +4088,11 @@
                         "channel_id": "318"
                     },
                     {
-                        "channel_name": "SSky Sports Golf UK",
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
+                        "channel_name": "Sky Sports Golf UK",
                         "channel_id": "70"
                     }
                 ]
