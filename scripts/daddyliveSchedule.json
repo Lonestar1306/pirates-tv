@@ -1368,6 +1368,10 @@
                         "channel_id": "559"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "Movistar Liga de Campeones 4",
                         "channel_id": "185"
                     },
@@ -1416,6 +1420,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "TNT Sports 6 UK",
@@ -1500,6 +1508,10 @@
                         "channel_id": "166"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "TNT Sports 7 UK",
                         "channel_id": "616"
                     },
@@ -1566,6 +1578,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4005"
+                    },
+                    {
+                        "channel_name": "Backup Stream (German)",
+                        "channel_id": "6001"
                     }
                 ]
             },
@@ -1576,6 +1592,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "TNT Sports 8 UK",
@@ -1650,6 +1670,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -1842,6 +1866,10 @@
                         "channel_id": "169"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "TNT Sports 5 UK",
                         "channel_id": "614"
                     },
@@ -1958,6 +1986,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -2096,6 +2128,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "171"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -2268,6 +2304,20 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Copa Sudamericana : Atletico-MG vs Montevideo City",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -2280,12 +2330,26 @@
                         "channel_id": "388"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
+                    },
+                    {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
                     },
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\u26bd Colombia Primera B : Real Cundinamarca vs Bogota",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -2360,6 +2424,16 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Paraguay Primera Division : Cerro Porteno vs San Lorenzo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },
@@ -3762,7 +3836,7 @@
         ],
         "Tennis \ud83c\udfbe WTA - Doubles: Wuhan (China)": [
             {
-                "time": "18:24",
+                "time": "21:18",
                 "event": "Cancelled \ud83c\udfbe WTA - Doubles: \ud83c\uddec\ud83c\uddf7 Maria Sakkari / \ud83c\udded\ud83c\uddf7 Donna Veki\u0107 vs \ud83c\uddef\ud83c\uddf5 Shuko Aoyama / \ud83c\udde8\ud83c\uddf3 Eudice Chong Liang",
                 "channels": [
                     {
