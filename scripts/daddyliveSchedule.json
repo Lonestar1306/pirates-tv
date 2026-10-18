@@ -200,6 +200,14 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -988,6 +996,10 @@
                         "channel_id": "163"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
                     },
@@ -1014,6 +1026,10 @@
                         "channel_id": "114"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "TSN5",
                         "channel_id": "115"
                     },
@@ -1036,6 +1052,10 @@
                         "channel_id": "164"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    },
+                    {
                         "channel_name": "Apple TV",
                         "channel_id": "3033"
                     },
@@ -1052,6 +1072,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "165"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     },
                     {
                         "channel_name": "Apple TV",
@@ -1072,6 +1096,10 @@
                         "channel_id": "166"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "Apple TV",
                         "channel_id": "3035"
                     },
@@ -1090,6 +1118,10 @@
                         "channel_id": "167"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1233"
+                    },
+                    {
                         "channel_name": "Apple TV",
                         "channel_id": "3036"
                     }
@@ -1104,6 +1136,10 @@
                         "channel_id": "168"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
+                    },
+                    {
                         "channel_name": "Apple TV",
                         "channel_id": "3037"
                     }
@@ -1116,6 +1152,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "169"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
                     },
                     {
                         "channel_name": "Apple TV",
@@ -6836,12 +6876,26 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "\u26bd Bolivia Division Profesional : Blooming vs Independiente",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "\u26bd Brazil - Brasileir\u00e3o : S\u00e3o Paulo \ud83c\udde7\ud83c\uddf7 vs Vasco da Gama \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "Premiere 3 BR",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     },
                     {
                         "channel_name": "SporTV BR",
@@ -10882,6 +10936,10 @@
                     {
                         "channel_name": "ACC Network USA",
                         "channel_id": "664"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -10892,6 +10950,10 @@
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "ABC NY USA",
@@ -10918,6 +10980,10 @@
                     {
                         "channel_name": "SEC Network USA",
                         "channel_id": "385"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -10928,6 +10994,10 @@
                     {
                         "channel_name": "FOX USA",
                         "channel_id": "54"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     },
                     {
                         "channel_name": "FOXNY USA",
@@ -10944,8 +11014,22 @@
                         "channel_id": "53"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    },
+                    {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfc8 College Football : Stanford vs Elon Phoenix",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -10976,6 +11060,10 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
                     }
                 ]
             },
@@ -10986,6 +11074,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "209"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     }
                 ]
             },
@@ -11134,6 +11226,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -12368,6 +12464,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     },
                     {
                         "channel_name": "Sportsnet+",
