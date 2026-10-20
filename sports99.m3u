@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-10-20 00:00 - MLB - Tampa Bay Rays vs Cleveland Guardians (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2-hd-uk.webp",[MLB] 2026-10-20 00:00 - MLB - Tampa Bay Rays vs Cleveland Guardians (TNT Sports 2 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20HD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.Sports.Max.6.FR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-6-fr.webp",[MLB] 2026-10-20 00:00 - MLB - Tampa Bay Rays vs Cleveland Guardians (beIN Sports Max 6 FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%206%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RDS.2.QC" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 00:15 - NFL - Chicago Bears vs New England Patriots (RDS 2 QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 00:15 - NFL - Chicago Bears vs New England Patriots (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-23 23:00 - CFL - Toronto Argonauts vs Montreal Alouettes (TSN 5 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
