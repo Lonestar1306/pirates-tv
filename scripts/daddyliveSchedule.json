@@ -3,77 +3,77 @@
         "PPV Events": [
             {
                 "time": "17:30",
-                "event": "Power Slap 25: Hitman vs Dumpling 2",
+                "event": "\ud83d\udc4b Power Slap 25: Hitman vs Dumpling 2",
                 "channels": [
                     {
-                        "channel_name": "Event PPV",
+                        "channel_name": "Power Slap",
                         "channel_id": "185"
                     }
                 ]
             },
             {
                 "time": "21:30",
-                "event": "World of Outlaws Late Models Modoc Speedway",
+                "event": "\ud83c\udfc1 World of Outlaws Late Models Modoc Speedway",
                 "channels": [
                     {
-                        "channel_name": "Event PPV",
+                        "channel_name": "DIRTVision",
                         "channel_id": "23"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "2026 Harvest Hustle at Marshalltown Speedway",
+                "event": "\ud83c\udfc1 2026 Harvest Hustle at Marshalltown Speedway",
                 "channels": [
                     {
-                        "channel_name": "Floracing",
+                        "channel_name": "FloRacing",
                         "channel_id": "24"
                     }
                 ]
             },
             {
                 "time": "23:00",
-                "event": "The Whole FLEX'N Show 2026",
+                "event": "\ud83c\udfc1 The Whole FLEX'N Show 2026",
                 "channels": [
                     {
-                        "channel_name": "Triller TV",
+                        "channel_name": "TrillerTV+",
                         "channel_id": "25"
                     }
                 ]
             },
             {
                 "time": "23:15",
-                "event": "World of Outlaws Sprint Cars Texarkana 67 Speedway",
+                "event": "\ud83c\udfc1 World of Outlaws Sprint Cars Texarkana 67 Speedway",
                 "channels": [
                     {
-                        "channel_name": "Event PPV",
+                        "channel_name": "DIRTVision",
                         "channel_id": "26"
                     }
                 ]
             },
             {
                 "time": "23:30",
-                "event": "Greektown Wrestling",
+                "event": "\ud83e\udd3c Greektown Wrestling",
                 "channels": [
                     {
-                        "channel_name": "Triller TV",
+                        "channel_name": "TrillerTV+",
                         "channel_id": "27"
                     }
                 ]
             },
             {
                 "time": "23:40",
-                "event": "2026 USAC Western World Championships at Central Arizona Raceway",
+                "event": "\ud83c\udfc1 2026 USAC Western World Championships at Central Arizona Raceway",
                 "channels": [
                     {
-                        "channel_name": "Floracing",
+                        "channel_name": "FloRacing",
                         "channel_id": "28"
                     }
                 ]
             },
             {
                 "time": "00:00",
-                "event": "32nd Annual Coors Light Fall Classic Whynot Motorsports Park",
+                "event": "\ud83c\udfc1 32nd Annual Coors Light Fall Classic Whynot Motorsports Park",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
@@ -83,10 +83,10 @@
             },
             {
                 "time": "01:00",
-                "event": "Real American Freestyle RAF 14 : Arman Tsarukyan vs Dillon Danis",
+                "event": "\ud83e\udd3c Real American Freestyle RAF 14: Arman Tsarukyan vs Dillon Danis",
                 "channels": [
                     {
-                        "channel_name": "Boxnation",
+                        "channel_name": "BoxNation",
                         "channel_id": "30"
                     }
                 ]
@@ -2444,6 +2444,16 @@
                     {
                         "channel_name": "MagentaSport 3 Greece",
                         "channel_id": "624"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u26bd CAF Confederation Cup : Raja Casablanca vs El Kanemi",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             },
@@ -5388,6 +5398,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     },
                     {
                         "channel_name": "Chicago Sports Network",
