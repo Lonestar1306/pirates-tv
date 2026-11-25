@@ -1,5 +1,21 @@
 {
     "Tuesday 24th Nov 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:45",
+                "event": "\ud83c\udfc1 USAC Jason Leffler Memorial Kern",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "154"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5050"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "12:30",
@@ -168,6 +184,16 @@
                     {
                         "channel_name": "The Food Network",
                         "channel_id": "384"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83d\udcfa 75th Miss Universe Competition \u2022 New",
+                "channels": [
+                    {
+                        "channel_name": "Reels USA",
+                        "channel_id": "293"
                     }
                 ]
             },
@@ -428,6 +454,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
                     }
                 ]
             }
@@ -440,6 +470,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     },
                     {
                         "channel_name": "Sky Sports+",
@@ -456,8 +490,16 @@
                         "channel_id": "175"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
+                    },
+                    {
                         "channel_name": "Sky Sports+",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5051"
                     }
                 ]
             },
@@ -470,8 +512,16 @@
                         "channel_id": "176"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
+                    },
+                    {
                         "channel_name": "Sky Sports+",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5050"
                     }
                 ]
             },
@@ -482,6 +532,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5054"
                     }
                 ]
             },
@@ -492,6 +550,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "178"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5052"
                     }
                 ]
             },
@@ -502,6 +568,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     }
                 ]
             },
@@ -512,6 +582,14 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "180"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5053"
                     }
                 ]
             }
@@ -524,6 +602,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1233"
                     }
                 ]
             },
@@ -534,6 +616,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "182"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
                     }
                 ]
             },
@@ -544,6 +630,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "183"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1234"
                     }
                 ]
             },
@@ -554,6 +644,102 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
+                    }
+                ]
+            }
+        ],
+        "English National League \u26bd": [
+            {
+                "time": "19:45",
+                "event": "English National League : Woking vs Worthing",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Scunthorpe vs Gateshead",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Hornchurch vs Sutton",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1241"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Forest Green vs Southend",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1242"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Eastleigh vs Yeovil",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Carlisle vs Tamworth",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1244"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Boston Utd vs Barrow",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : Altrincham vs Wealdstone",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "English National League : AFC Fylde vs FC Halifax",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
                     }
                 ]
             }
@@ -566,6 +752,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1235"
                     }
                 ]
             },
@@ -576,6 +766,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "186"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1236"
                     }
                 ]
             }
@@ -588,6 +782,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "187"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -608,6 +806,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "189"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -618,6 +820,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "190"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             }
@@ -1478,6 +1684,30 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Egypt Premier League : Arab Contractors vs Al Qanah",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Egypt Premier League : Al Masry vs Asyut Petroleum",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -1488,6 +1718,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Astro Football",
@@ -1536,6 +1770,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -1546,6 +1784,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     },
                     {
                         "channel_name": "Fox Soccer Plus",
@@ -1560,6 +1802,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -1570,6 +1816,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -1580,6 +1830,24 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "17:45",
+                "event": "\u26bd UEFA Champions League : The Glazo Show",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -1754,6 +2022,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003"
                     }
                 ]
             },
@@ -1840,6 +2112,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004"
                     }
                 ]
             },
@@ -1914,6 +2190,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4005"
                     }
                 ]
             },
@@ -2024,6 +2304,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001"
                     }
                 ]
             },
@@ -2090,6 +2374,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4007"
                     }
                 ]
             },
@@ -2212,6 +2500,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4010"
                     }
                 ]
             },
@@ -2274,6 +2570,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4006"
                     }
                 ]
             },
@@ -2284,6 +2584,10 @@
                     {
                         "channel_name": "Sky Sports Main Event UK",
                         "channel_id": "38"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
                     },
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -2322,6 +2626,10 @@
                     {
                         "channel_name": "Sky Sports Football UK",
                         "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -2478,6 +2786,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5054"
                     }
                 ]
             }
@@ -2702,6 +3014,10 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             }
@@ -2954,6 +3270,10 @@
                         "channel_id": "22"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 2 Spain",
                         "channel_id": "28"
                     },
@@ -2988,6 +3308,10 @@
                         "channel_id": "23"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 3 Spain",
                         "channel_id": "29"
                     },
@@ -3020,6 +3344,10 @@
                     {
                         "channel_name": "Magenta Sport 310",
                         "channel_id": "24"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     },
                     {
                         "channel_name": "M+ Vamos ES",
@@ -3068,6 +3396,10 @@
                         "channel_id": "25"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
+                    },
+                    {
                         "channel_name": "M+ Baloncesto 4 Spain",
                         "channel_id": "30"
                     },
@@ -3096,6 +3428,10 @@
                     {
                         "channel_name": "Magenta Sport 312",
                         "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
                     },
                     {
                         "channel_name": "M+ Baloncesto Spain",
@@ -3144,6 +3480,14 @@
                     {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -3210,6 +3554,18 @@
                     {
                         "channel_name": "Eurosport 3 Poland",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5051"
                     }
                 ]
             },
@@ -3288,6 +3644,18 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5053"
                     }
                 ]
             }
@@ -4686,6 +5054,14 @@
                     {
                         "channel_name": "MAX Sport 2 Bulgaria",
                         "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5052"
                     }
                 ]
             }
@@ -4892,6 +5268,10 @@
                         "channel_id": "700"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "\u0160TV 2 Slovenia",
                         "channel_id": "201"
                     },
@@ -4908,6 +5288,10 @@
                     {
                         "channel_name": "Sportkanalen Sweden",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     },
                     {
                         "channel_name": "Sportkanalen Sweden",
